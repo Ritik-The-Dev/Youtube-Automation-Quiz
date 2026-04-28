@@ -12,7 +12,7 @@ def is_devanagari(text: str) -> bool:
     return not bool(LATIN_PATTERN.search(text))
 
 client = genai.Client(
-    api_key=os.environ["GEMINI_API_KEY"]
+    api_key=os.getenv("GEMINI_API_KEY")
 )
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
