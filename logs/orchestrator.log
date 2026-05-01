@@ -4,3 +4,5 @@
 2026-04-28 08:57:34,759 - INFO - Upload successful
 2026-05-01 07:57:04,030 - INFO - Starting video generation
 2026-05-01 07:59:40,969 - INFO - Upload successful
+2026-05-01 12:48:15,606 - INFO - Starting video generation
+2026-05-01 12:49:02,791 - ERROR - FAILED: Command '['python', 'run.py']' returned non-zero exit status 1.

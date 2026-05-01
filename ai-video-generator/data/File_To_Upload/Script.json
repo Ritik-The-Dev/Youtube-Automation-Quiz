@@ -1,0 +1,57 @@
+{
+    "quizTopic": "General Knowledge",
+    "title": "97% Of People Fail This Simple Quiz 😱",
+    "description": "Think you're smart? Prove it in 5 seconds! ⏳ Comment your score below 👇 #quiz #gk #shorts #challenge",
+    "questions": [
+        {
+            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
+            "options": {
+                "A": "बुध",
+                "B": "शुक्र",
+                "C": "मंगल",
+                "D": "बृहस्पति"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस जानवर के पास आवाज निकालने के लिए स्वर तंत्र नहीं होता?",
+            "options": {
+                "A": "हाथी",
+                "B": "ऊंट",
+                "C": "जिराफ",
+                "D": "घोड़ा"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "options": {
+                "A": "गुंजन पक्षी",
+                "B": "कोयल",
+                "C": "गौरैया",
+                "D": "कबूतर"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "options": {
+                "A": "जापान",
+                "B": "आइसलैंड",
+                "C": "नॉर्वे",
+                "D": "ब्राजील"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "मानव शरीर का कौन सा अंग खुद को फिर से विकसित कर सकता है?",
+            "options": {
+                "A": "हृदय",
+                "B": "मस्तिष्क",
+                "C": "यकृत",
+                "D": "गुर्दा"
+            },
+            "correctAnswer": "C"
+        }
+    ]
+}
