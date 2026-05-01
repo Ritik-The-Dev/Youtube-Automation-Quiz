@@ -3,12 +3,20 @@ import time
 import json
 import http.client
 
+conn = http.client.HTTPSConnection("gen.pollinations.ai")
+
+headers = {
+    "Authorization": "Bearer " + os.getenv("POLLINATIONS_API_KEY"),
+    "Content-Type": "application/json",
+    "Accept": "audio/mpeg"
+}
+
 
 def generate_voice(
     voiceOverText,
     sceneNumber,
     folderName,
-    voice_name="echo",
+    voice_name="WeK8ylKjTV2trMlayizC",
     max_retries=3
 ):
 
@@ -18,7 +26,7 @@ def generate_voice(
     final_audio_path = os.path.join(folder_path, f"Scene{sceneNumber}.mp3")
 
     payload = json.dumps({
-        "model": "openai-audio",
+        # "model": "openai-audio",
         "input": voiceOverText,
         "voice": voice_name,
         "response_format": "mp3",
@@ -26,16 +34,8 @@ def generate_voice(
         "instruct": "Speak naturally in Hindi with a warm storytelling tone"
     })
 
-    headers = {
-        "Authorization": "Bearer " + os.getenv("POLLINATIONS_API_KEY"),
-        "Content-Type": "application/json",
-        "Accept": "audio/mpeg"
-    }
-
     for attempt in range(1, max_retries + 1):
         try:
-            conn = http.client.HTTPSConnection("gen.pollinations.ai", timeout=20)
-
             conn.request("POST", "/v1/audio/speech", payload, headers)
             res = conn.getresponse()
 
