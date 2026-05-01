@@ -60,7 +60,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          git add ai-video-generator/data/usedQuizTopics.json
+          git add -A
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
