@@ -2,7 +2,6 @@ client_secret.json
 token.json
 venv/
 upload-env/
-ai-video-generator/data
 ai-video-generator/src/__pycache__
 __pycache__/
 *.pyc
