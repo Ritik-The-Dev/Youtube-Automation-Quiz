@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% Of People Fail This Simple Quiz 😱",
-    "description": "Think you're smart? Prove it in 5 seconds! ⏳ Comment your score below 👇 #quiz #gk #shorts #challenge",
+    "title": "97% Of People Fail This Simple Quiz 🤯",
+    "description": "You only have 5 seconds for each question! ⏳ Can you score a perfect 5/5? Comment your score below! 👇 #quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
+            "question": "किस देश में सबसे अधिक द्वीप (Islands) हैं?",
             "options": {
-                "A": "बुध",
-                "B": "शुक्र",
-                "C": "मंगल",
-                "D": "बृहस्पति"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस जानवर के पास आवाज निकालने के लिए स्वर तंत्र नहीं होता?",
-            "options": {
-                "A": "हाथी",
-                "B": "ऊंट",
-                "C": "जिराफ",
-                "D": "घोड़ा"
+                "A": "इंडोनेशिया",
+                "B": "फिलीपींस",
+                "C": "स्वीडन",
+                "D": "कनाडा"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "question": "मानव शरीर का कौन सा अंग अपने आप को पुनर्जीवित कर सकता है?",
             "options": {
-                "A": "गुंजन पक्षी",
-                "B": "कोयल",
-                "C": "गौरैया",
-                "D": "कबूतर"
+                "A": "हृदय",
+                "B": "फेफड़े",
+                "C": "यकृत",
+                "D": "गुर्दा"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "C"
         },
         {
-            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "question": "किस जीव के पास न तो दिल होता है और न ही दिमाग?",
             "options": {
-                "A": "जापान",
-                "B": "आइसलैंड",
-                "C": "नॉर्वे",
-                "D": "ब्राजील"
+                "A": "स्टारफिश",
+                "B": "जेलीफिश",
+                "C": "केंचुआ",
+                "D": "ऑक्टोपस"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "मानव शरीर का कौन सा अंग खुद को फिर से विकसित कर सकता है?",
+            "question": "भारत के किस शहर को 'झीलों का शहर' कहा जाता है?",
             "options": {
-                "A": "हृदय",
-                "B": "मस्तिष्क",
-                "C": "यकृत",
-                "D": "गुर्दा"
+                "A": "नैनीताल",
+                "B": "उदयपुर",
+                "C": "भोपाल",
+                "D": "श्रीनगर"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस ग्रह पर एक दिन सबसे छोटा होता है?",
+            "options": {
+                "A": "बुध",
+                "B": "शुक्र",
+                "C": "बृहस्पति",
+                "D": "शनि"
             },
             "correctAnswer": "C"
         }
