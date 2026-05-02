@@ -1,57 +1,57 @@
 {
-    "quizTopic": "General Knowledge",
-    "title": "99% People Fail This Quiz 😱 Can You Get 5/5?",
-    "description": "Test your brain in 5 seconds per question ⏳ Comment your score below 👇 #gk #quiz #shorts #challenge",
+    "quizTopic": "Tricky General Knowledge",
+    "title": "97% Of People Fail This Tricky Quiz! 🧠😱",
+    "description": "Think you're smart? Try to get 5/5 on this tricky quiz! ⏳ Comment your score below 👇 #quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "किस जीव के पास दिमाग नहीं होता है?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊँट",
-                "C": "जिराफ",
-                "D": "बंदर"
+                "A": "मछली",
+                "B": "कछुआ",
+                "C": "स्टारफिश",
+                "D": "केकड़ा"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "दुनिया में सबसे ज्यादा द्वीप किस देश में हैं?",
+            "options": {
+                "A": "इंडोनेशिया",
+                "B": "स्वीडन",
+                "C": "मालदीव",
+                "D": "जापान"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "options": {
+                "A": "हमिंगबर्ड",
+                "B": "तोता",
+                "C": "कोयल",
+                "D": "बाज"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "शरीर के किस अंग में रक्त नहीं पाया जाता है?",
+            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
+            "options": {
+                "A": "बुध",
+                "B": "शुक्र",
+                "C": "मंगल",
+                "D": "शनि"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "शरीर के किस हिस्से में रक्त की आपूर्ति नहीं होती है?",
             "options": {
                 "A": "नाखून",
-                "B": "कॉर्निया",
-                "C": "बाल",
-                "D": "कान"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "शांति का प्रतीक किस पक्षी को माना जाता है?",
-            "options": {
-                "A": "मोर",
-                "B": "हंस",
-                "C": "कबूतर",
-                "D": "कोयल"
+                "B": "बाल",
+                "C": "कॉर्निया",
+                "D": "दांत"
             },
             "correctAnswer": "C"
-        },
-        {
-            "question": "किस ग्रह को 'भोर का तारा' कहा जाता है?",
-            "options": {
-                "A": "मंगल",
-                "B": "शनि",
-                "C": "शुक्र",
-                "D": "बुध"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
-            "options": {
-                "A": "फ्रांस",
-                "B": "आइसलैंड",
-                "C": "जापान",
-                "D": "कनाडा"
-            },
-            "correctAnswer": "B"
         }
     ]
 }
