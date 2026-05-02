@@ -1,57 +1,57 @@
 {
-    "quizTopic": "Tricky General Knowledge",
-    "title": "97% Of People Fail This Tricky Quiz! 🧠😱",
-    "description": "Think you're smart? Try to get 5/5 on this tricky quiz! ⏳ Comment your score below 👇 #quiz #gk #shorts #challenge",
+    "quizTopic": "General Knowledge",
+    "title": "97% People Fail This Tricky Quiz 🤯",
+    "description": "Think you're smart? Prove it in 30 seconds! ⏳ Comment your final score below 👇 #quiz #gk #shorts #challenge",
     "questions": [
-        {
-            "question": "किस जीव के पास दिमाग नहीं होता है?",
-            "options": {
-                "A": "मछली",
-                "B": "कछुआ",
-                "C": "स्टारफिश",
-                "D": "केकड़ा"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "दुनिया में सबसे ज्यादा द्वीप किस देश में हैं?",
-            "options": {
-                "A": "इंडोनेशिया",
-                "B": "स्वीडन",
-                "C": "मालदीव",
-                "D": "जापान"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
-            "options": {
-                "A": "हमिंगबर्ड",
-                "B": "तोता",
-                "C": "कोयल",
-                "D": "बाज"
-            },
-            "correctAnswer": "A"
-        },
         {
             "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
             "options": {
                 "A": "बुध",
                 "B": "शुक्र",
                 "C": "मंगल",
-                "D": "शनि"
+                "D": "बृहस्पति"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "शरीर के किस हिस्से में रक्त की आपूर्ति नहीं होती है?",
+            "question": "मानव शरीर का कौन सा अंग खुद को दोबारा बना सकता है?",
             "options": {
-                "A": "नाखून",
-                "B": "बाल",
-                "C": "कॉर्निया",
-                "D": "दांत"
+                "A": "फेफड़े",
+                "B": "हृदय",
+                "C": "यकृत",
+                "D": "गुर्दा"
             },
             "correctAnswer": "C"
+        },
+        {
+            "question": "अंतरिक्ष में भेजा गया सबसे पहला जानवर कौन सा था?",
+            "options": {
+                "A": "बंदर",
+                "B": "बिल्ली",
+                "C": "कुत्ता",
+                "D": "चूहा"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "पृथ्वी के वायुमंडल में सबसे अधिक मात्रा में कौन सी गैस है?",
+            "options": {
+                "A": "ऑक्सीजन",
+                "B": "नाइट्रोजन",
+                "C": "कार्बन डाइऑक्साइड",
+                "D": "हाइड्रोजन"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "दुनिया का सबसे बड़ा अंडा देने वाला पक्षी कौन सा है?",
+            "options": {
+                "A": "मोर",
+                "B": "शुतुरमुर्ग",
+                "C": "चील",
+                "D": "पेंगुइन"
+            },
+            "correctAnswer": "B"
         }
     ]
 }
