@@ -1,40 +1,40 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% People Fail This Tricky Quiz 🤯",
-    "description": "Think you're smart? Prove it in 30 seconds! ⏳ Comment your final score below 👇 #quiz #gk #shorts #challenge",
+    "title": "97% People Fail This Tricky Quiz 😱",
+    "description": "Think you're smart? Prove it! 🧠 Comment your score below and tag a friend who thinks they know everything. 👇 #quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
+            "question": "कौन सा जीव कभी नहीं सोता है?",
             "options": {
-                "A": "बुध",
-                "B": "शुक्र",
-                "C": "मंगल",
-                "D": "बृहस्पति"
+                "A": "चींटी",
+                "B": "मछली",
+                "C": "सांप",
+                "D": "मेंढक"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की ओर उड़ सकता है?",
+            "options": {
+                "A": "कोयल",
+                "B": "हमिंगबर्ड",
+                "C": "कठफोड़वा",
+                "D": "शुतुरमुर्ग"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "मानव शरीर का कौन सा अंग खुद को दोबारा बना सकता है?",
+            "question": "मानव शरीर का सबसे बड़ा अंग कौन सा है?",
             "options": {
-                "A": "फेफड़े",
-                "B": "हृदय",
-                "C": "यकृत",
-                "D": "गुर्दा"
+                "A": "यकृत",
+                "B": "मस्तिष्क",
+                "C": "त्वचा",
+                "D": "हृदय"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "अंतरिक्ष में भेजा गया सबसे पहला जानवर कौन सा था?",
-            "options": {
-                "A": "बंदर",
-                "B": "बिल्ली",
-                "C": "कुत्ता",
-                "D": "चूहा"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "पृथ्वी के वायुमंडल में सबसे अधिक मात्रा में कौन सी गैस है?",
+            "question": "पृथ्वी के वायुमंडल में सबसे अधिक कौन सी गैस है?",
             "options": {
                 "A": "ऑक्सीजन",
                 "B": "नाइट्रोजन",
@@ -44,12 +44,12 @@
             "correctAnswer": "B"
         },
         {
-            "question": "दुनिया का सबसे बड़ा अंडा देने वाला पक्षी कौन सा है?",
+            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "मोर",
-                "B": "शुतुरमुर्ग",
-                "C": "चील",
-                "D": "पेंगुइन"
+                "A": "जापान",
+                "B": "आइसलैंड",
+                "C": "फ्रांस",
+                "D": "कनाडा"
             },
             "correctAnswer": "B"
         }
