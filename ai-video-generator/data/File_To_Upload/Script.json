@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% People Fail This Tricky Quiz 😱",
-    "description": "Think you're smart? Prove it! 🧠 Comment your score below and tag a friend who thinks they know everything. 👇 #quiz #gk #shorts #challenge",
+    "title": "Only 1% Can Score 5/5! 🧠🔥",
+    "description": "Think you're a genius? Prove it! 🧠 Comment your score below and challenge a friend. 👇 #quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "कौन सा जीव कभी नहीं सोता है?",
+            "question": "किस ग्रह को पृथ्वी की जुड़वां बहन कहा जाता है?",
             "options": {
-                "A": "चींटी",
-                "B": "मछली",
+                "A": "मंगल",
+                "B": "शुक्र",
+                "C": "बुध",
+                "D": "शनि"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा जीव तीन साल तक सो सकता है?",
+            "options": {
+                "A": "कछुआ",
+                "B": "घोंघा",
                 "C": "सांप",
                 "D": "मेंढक"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
+        },
+        {
+            "question": "मानव शरीर के किस हिस्से में रक्त की आपूर्ति नहीं होती है?",
+            "options": {
+                "A": "नाखून",
+                "B": "कॉर्निया",
+                "C": "बाल",
+                "D": "दांत"
+            },
+            "correctAnswer": "B"
         },
         {
             "question": "कौन सा पक्षी पीछे की ओर उड़ सकता है?",
             "options": {
                 "A": "कोयल",
                 "B": "हमिंगबर्ड",
-                "C": "कठफोड़वा",
-                "D": "शुतुरमुर्ग"
+                "C": "तोता",
+                "D": "गौरैया"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "मानव शरीर का सबसे बड़ा अंग कौन सा है?",
+            "question": "किस फल के बीज उसके बाहर होते हैं?",
             "options": {
-                "A": "यकृत",
-                "B": "मस्तिष्क",
-                "C": "त्वचा",
-                "D": "हृदय"
+                "A": "स्ट्रॉबेरी",
+                "B": "कीवी",
+                "C": "अनार",
+                "D": "पपीता"
             },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "पृथ्वी के वायुमंडल में सबसे अधिक कौन सी गैस है?",
-            "options": {
-                "A": "ऑक्सीजन",
-                "B": "नाइट्रोजन",
-                "C": "कार्बन डाइऑक्साइड",
-                "D": "हाइड्रोजन"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
-            "options": {
-                "A": "जापान",
-                "B": "आइसलैंड",
-                "C": "फ्रांस",
-                "D": "कनाडा"
-            },
-            "correctAnswer": "B"
+            "correctAnswer": "A"
         }
     ]
 }
