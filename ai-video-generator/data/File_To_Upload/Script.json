@@ -1,55 +1,55 @@
 {
-    "quizTopic": "Tricky General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 🧠",
-    "description": "Think you're smart? Prove it in 5 seconds! ⏳ Comment your final score below! 👇 #quiz #gk #hindi #shorts",
+    "quizTopic": "General Knowledge",
+    "title": "97% People Get Question 4 Wrong! 😱",
+    "description": "Think you're a genius? Prove it! 🧠 Comment your score and tag a friend. 👇 #quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "किस जीव के पास दिल नहीं होता है?",
+            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
             "options": {
-                "A": "कछुआ",
-                "B": "जेलीफ़िश",
-                "C": "ऑक्टोपस",
-                "D": "मेंढक"
+                "A": "बुध",
+                "B": "शुक्र",
+                "C": "मंगल",
+                "D": "बृहस्पति"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "कौन सा पक्षी पीछे की ओर उड़ सकता है?",
+            "question": "मानव शरीर का कौन सा अंग खुद को पुनर्जीवित कर सकता है?",
             "options": {
-                "A": "कोयल",
-                "B": "गौरैया",
-                "C": "हमिंगबर्ड",
-                "D": "तोता"
+                "A": "हृदय",
+                "B": "फेफड़े",
+                "C": "यकृत",
+                "D": "गुर्दा"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "question": "मनुष्य ने सबसे पहले किस जानवर को पालतू बनाया था?",
             "options": {
-                "A": "आइसलैंड",
-                "B": "फ्रांस",
-                "C": "जापान",
-                "D": "कनाडा"
+                "A": "बिल्ली",
+                "B": "घोड़ा",
+                "C": "कुत्ता",
+                "D": "गाय"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "C"
         },
         {
-            "question": "किस ग्रह को 'भोर का तारा' कहा जाता है?",
+            "question": "पृथ्वी के वायुमंडल में सबसे अधिक मात्रा में कौन सी गैस पाई जाती है?",
             "options": {
-                "A": "मंगल",
-                "B": "शुक्र",
-                "C": "बुध",
-                "D": "शनि"
+                "A": "ऑक्सीजन",
+                "B": "नाइट्रोजन",
+                "C": "कार्बन डाइऑक्साइड",
+                "D": "हाइड्रोजन"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "मानव शरीर का कौन सा अंग कभी आराम नहीं करता?",
+            "question": "दुनिया में सबसे ज्यादा द्वीप किस देश में हैं?",
             "options": {
-                "A": "आँख",
-                "B": "फेफड़े",
-                "C": "हृदय",
-                "D": "मस्तिष्क"
+                "A": "इंडोनेशिया",
+                "B": "मालदीव",
+                "C": "स्वीडन",
+                "D": "फिलीपींस"
             },
             "correctAnswer": "C"
         }
