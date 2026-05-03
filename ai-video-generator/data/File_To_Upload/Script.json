@@ -1,10 +1,40 @@
 {
-    "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5! 🧠🔥",
-    "description": "Think you're a genius? Prove it! 🧠 Comment your score below and challenge a friend. 👇 #quiz #gk #shorts #challenge",
+    "quizTopic": "Tricky General Knowledge",
+    "title": "Only 1% Can Score 5/5 On This 🧠",
+    "description": "Think you're smart? Prove it in 5 seconds! ⏳ Comment your final score below! 👇 #quiz #gk #hindi #shorts",
     "questions": [
         {
-            "question": "किस ग्रह को पृथ्वी की जुड़वां बहन कहा जाता है?",
+            "question": "किस जीव के पास दिल नहीं होता है?",
+            "options": {
+                "A": "कछुआ",
+                "B": "जेलीफ़िश",
+                "C": "ऑक्टोपस",
+                "D": "मेंढक"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की ओर उड़ सकता है?",
+            "options": {
+                "A": "कोयल",
+                "B": "गौरैया",
+                "C": "हमिंगबर्ड",
+                "D": "तोता"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "options": {
+                "A": "आइसलैंड",
+                "B": "फ्रांस",
+                "C": "जापान",
+                "D": "कनाडा"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "किस ग्रह को 'भोर का तारा' कहा जाता है?",
             "options": {
                 "A": "मंगल",
                 "B": "शुक्र",
@@ -14,44 +44,14 @@
             "correctAnswer": "B"
         },
         {
-            "question": "कौन सा जीव तीन साल तक सो सकता है?",
+            "question": "मानव शरीर का कौन सा अंग कभी आराम नहीं करता?",
             "options": {
-                "A": "कछुआ",
-                "B": "घोंघा",
-                "C": "सांप",
-                "D": "मेंढक"
+                "A": "आँख",
+                "B": "फेफड़े",
+                "C": "हृदय",
+                "D": "मस्तिष्क"
             },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "मानव शरीर के किस हिस्से में रक्त की आपूर्ति नहीं होती है?",
-            "options": {
-                "A": "नाखून",
-                "B": "कॉर्निया",
-                "C": "बाल",
-                "D": "दांत"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "कौन सा पक्षी पीछे की ओर उड़ सकता है?",
-            "options": {
-                "A": "कोयल",
-                "B": "हमिंगबर्ड",
-                "C": "तोता",
-                "D": "गौरैया"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस फल के बीज उसके बाहर होते हैं?",
-            "options": {
-                "A": "स्ट्रॉबेरी",
-                "B": "कीवी",
-                "C": "अनार",
-                "D": "पपीता"
-            },
-            "correctAnswer": "A"
+            "correctAnswer": "C"
         }
     ]
 }
