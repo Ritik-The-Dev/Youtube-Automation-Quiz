@@ -26,7 +26,7 @@ def generate_voice(
     final_audio_path = os.path.join(folder_path, f"Scene{sceneNumber}.mp3")
 
     payload = json.dumps({
-        # "model": "openai-audio",
+        "model": "whisper",
         "input": voiceOverText,
         "voice": voice_name,
         "response_format": "mp3",
