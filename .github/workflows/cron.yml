@@ -48,6 +48,7 @@ jobs:
       
       - name: Run pipeline
         env:
+          CARTESIA_API_KEY: ${{ secrets.CARTESIA_API_KEY }}
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           POLLINATIONS_API_KEY: ${{ secrets.POLLINATIONS_API_KEY }}
