@@ -73,7 +73,15 @@ def generate_video(vid, scene_data, folder_path):
 
         question_img = os.path.join(folder_path, f"quiz_{i}_question.png")
         answer_img   = os.path.join(folder_path, f"quiz_{i}_answer.png")
-        audio_path   = os.path.join(folder_path, f"Scene{i}.mp3")
+        mp3_path = os.path.join(folder_path, f"Scene{i}.mp3")
+        wav_path = os.path.join(folder_path, f"Scene{i}.wav")
+
+        if os.path.exists(mp3_path):
+            audio_path = mp3_path
+        elif os.path.exists(wav_path):
+            audio_path = wav_path
+        else:
+            audio_path = None
 
         if not all(map(os.path.exists, [question_img, answer_img, audio_path])):
             print(f"⚠️ Skipping question {i} (missing files)")
