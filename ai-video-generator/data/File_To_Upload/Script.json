@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% People Get Question 4 Wrong! 😱",
-    "description": "Think you're a genius? Prove it! 🧠 Comment your score and tag a friend. 👇 #quiz #gk #shorts #challenge",
+    "title": "97% People Fail This Mind-Blowing Quiz 😱",
+    "description": "Think you're smart? Prove it in 5 seconds! ⏳ Comment your score below 👇 #quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
+            "question": "किस जीव के पास तीन दिल होते हैं?",
             "options": {
-                "A": "बुध",
-                "B": "शुक्र",
-                "C": "मंगल",
-                "D": "बृहस्पति"
+                "A": "केंचुआ",
+                "B": "ऑक्टोपस",
+                "C": "शार्क",
+                "D": "व्हेल"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "मानव शरीर का कौन सा अंग खुद को पुनर्जीवित कर सकता है?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "हृदय",
-                "B": "फेफड़े",
-                "C": "यकृत",
-                "D": "गुर्दा"
+                "A": "ऊंट",
+                "B": "जिराफ",
+                "C": "हिप्पो",
+                "D": "बकरी"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "मनुष्य ने सबसे पहले किस जानवर को पालतू बनाया था?",
+            "question": "मानव शरीर के किस हिस्से में रक्त की आपूर्ति नहीं होती है?",
             "options": {
-                "A": "बिल्ली",
-                "B": "घोड़ा",
-                "C": "कुत्ता",
-                "D": "गाय"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "पृथ्वी के वायुमंडल में सबसे अधिक मात्रा में कौन सी गैस पाई जाती है?",
-            "options": {
-                "A": "ऑक्सीजन",
-                "B": "नाइट्रोजन",
-                "C": "कार्बन डाइऑक्साइड",
-                "D": "हाइड्रोजन"
+                "A": "नाखून",
+                "B": "कॉर्निया",
+                "C": "बाल",
+                "D": "दांत"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "दुनिया में सबसे ज्यादा द्वीप किस देश में हैं?",
+            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "इंडोनेशिया",
-                "B": "मालदीव",
-                "C": "स्वीडन",
-                "D": "फिलीपींस"
+                "A": "आइसलैंड",
+                "B": "जापान",
+                "C": "फ्रांस",
+                "D": "कनाडा"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "A"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की ओर उड़ सकता है?",
+            "options": {
+                "A": "कोयल",
+                "B": "हमिंगबर्ड",
+                "C": "तोता",
+                "D": "बाज"
+            },
+            "correctAnswer": "B"
         }
     ]
 }
