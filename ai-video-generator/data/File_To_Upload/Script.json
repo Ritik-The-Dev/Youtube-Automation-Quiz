@@ -1,0 +1,57 @@
+{
+    "quizTopic": "General Knowledge",
+    "title": "97% People Get Question 4 Wrong! 😱",
+    "description": "Think you're a genius? Prove it! 🧠 Comment your final score below. 👇 #quiz #gk #shorts #challenge",
+    "questions": [
+        {
+            "question": "किस पक्षी के पास पीछे की ओर उड़ने की क्षमता होती है?",
+            "options": {
+                "A": "कबूतर",
+                "B": "हमिंगबर्ड",
+                "C": "उल्लू",
+                "D": "गौरैया"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस जीव के पास न तो दिमाग होता है और न ही दिल?",
+            "options": {
+                "A": "ऑक्टोपस",
+                "B": "जेलीफिश",
+                "C": "कछुआ",
+                "D": "केकड़ा"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
+            "options": {
+                "A": "बुध",
+                "B": "शुक्र",
+                "C": "मंगल",
+                "D": "बृहस्पति"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "दुनिया का वह कौन सा देश है जहाँ एक भी मच्छर नहीं पाया जाता?",
+            "options": {
+                "A": "आइसलैंड",
+                "B": "जापान",
+                "C": "फ्रांस",
+                "D": "कनाडा"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "मानव शरीर का वह कौन सा अंग है जो खुद को पुनर्जीवित कर सकता है?",
+            "options": {
+                "A": "फेफड़े",
+                "B": "गुर्दा",
+                "C": "यकृत",
+                "D": "हृदय"
+            },
+            "correctAnswer": "C"
+        }
+    ]
+}
