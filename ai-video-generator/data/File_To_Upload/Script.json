@@ -1,55 +1,55 @@
 {
-    "quizTopic": "Tricky General Knowledge",
-    "title": "Only 1% Can Score 5/5! Are You Smart? 🧠",
-    "description": "Think you're a genius? Prove it in 5 seconds! ⏳ Comment your score below and challenge a friend! 👇 #quiz #gk #shorts #hindi",
+    "quizTopic": "General Knowledge",
+    "title": "99% People Fail This Genius Test! 🤯",
+    "description": "Can you get 5/5? Most people fail at question 4! ⏳ Comment your score below! 👇 #quiz #gk #shorts #india",
     "questions": [
         {
-            "question": "किस देश में सबसे अधिक द्वीप हैं?",
+            "question": "किस जीव के पास तीन दिल होते हैं?",
             "options": {
-                "A": "स्वीडन",
-                "B": "इंडोनेशिया",
-                "C": "फिलीपींस",
-                "D": "कनाडा"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "किस जीव का दिल उसके सिर में होता है?",
-            "options": {
-                "A": "केकड़ा",
-                "B": "झींगा",
-                "C": "समुद्री घोड़ा",
-                "D": "ऑक्टोपस"
+                "A": "कछुआ",
+                "B": "ऑक्टोपस",
+                "C": "शार्क",
+                "D": "व्हेल"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "शरीर के किस हिस्से में रक्त की आपूर्ति नहीं होती है?",
+            "question": "किस देश की कोई आधिकारिक राजधानी नहीं है?",
             "options": {
-                "A": "नाखून",
-                "B": "बाल",
-                "C": "कॉर्निया",
-                "D": "दांत"
+                "A": "नाउरू",
+                "B": "फिजी",
+                "C": "मोनाको",
+                "D": "मालदीव"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "A"
         },
         {
-            "question": "किस ग्रह पर एक दिन उसके एक वर्ष से भी बड़ा होता है?",
+            "question": "शरीर के किस हिस्से में खून नहीं पाया जाता?",
             "options": {
-                "A": "मंगल",
-                "B": "बुध",
-                "C": "शुक्र",
-                "D": "शनि"
+                "A": "कॉर्निया",
+                "B": "नाखून",
+                "C": "दांत",
+                "D": "हड्डी"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "A"
         },
         {
-            "question": "कौन सा जीव कभी नहीं सोता है?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "चींटी",
-                "B": "मेंढक",
-                "C": "सांप",
-                "D": "मछली"
+                "A": "दरियाई घोड़ा",
+                "B": "ऊंट",
+                "C": "जिराफ",
+                "D": "बकरी"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "options": {
+                "A": "हमिंगबर्ड",
+                "B": "गौरैया",
+                "C": "कबूतर",
+                "D": "उल्लू"
             },
             "correctAnswer": "A"
         }
