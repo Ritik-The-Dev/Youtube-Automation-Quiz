@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
     "title": "Only 1% Can Score 5/5 Today 🧠",
-    "description": "Think you're smart? Prove it in 5 seconds! ⏳ Comment your final score below! 👇 #quiz #gk #shorts #challenge",
+    "description": "Think you're smart? Prove it in 5 seconds! ⏳ Comment your final score below! 👇 #quiz #gk #shorts #india",
     "questions": [
         {
-            "question": "शरीर के किस अंग में रक्त नहीं पाया जाता है?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "नाखून",
-                "B": "कॉर्निया",
-                "C": "हड्डी",
-                "D": "दांत"
+                "A": "ऊँट",
+                "B": "दरियाई घोड़ा",
+                "C": "शेरनी",
+                "D": "बकरी"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस जीव का दिल उसके सिर में होता है?",
+            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
             "options": {
-                "A": "झींगा",
-                "B": "कछुआ",
-                "C": "मेंढक",
-                "D": "सांप"
+                "A": "बुध",
+                "B": "मंगल",
+                "C": "शुक्र",
+                "D": "शनि"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "C"
         },
         {
             "question": "कौन सा पक्षी पीछे की ओर उड़ सकता है?",
             "options": {
-                "A": "कोयल",
-                "B": "तोता",
-                "C": "हमिंगबर्ड",
-                "D": "कबूतर"
+                "A": "हमिंगबर्ड",
+                "B": "कोयल",
+                "C": "तोता",
+                "D": "गौरैया"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "A"
         },
         {
-            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "question": "किस जीव के पास तीन दिल होते हैं?",
             "options": {
-                "A": "जापान",
-                "B": "आइसलैंड",
-                "C": "फ्रांस",
-                "D": "कनाडा"
+                "A": "शार्क",
+                "B": "ऑक्टोपस",
+                "C": "कछुआ",
+                "D": "व्हेल"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "कौन सा खाद्य पदार्थ कभी खराब नहीं होता है?",
+            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "घी",
-                "B": "अचार",
-                "C": "शहद",
-                "D": "चीनी"
+                "A": "फ्रांस",
+                "B": "आइसलैंड",
+                "C": "जापान",
+                "D": "कनाडा"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "B"
         }
     ]
 }
