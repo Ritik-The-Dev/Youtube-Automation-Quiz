@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "99% People Fail This Genius Test! 🤯",
-    "description": "Can you get 5/5? Most people fail at question 4! ⏳ Comment your score below! 👇 #quiz #gk #shorts #india",
+    "title": "97% People Fail This Tricky Quiz 🧠",
+    "description": "Think you're smart? Prove it! ⏳ Comment your score below and tag a friend who thinks they know everything. 👇 #quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "किस जीव के पास तीन दिल होते हैं?",
+            "question": "इंसान की सबसे छोटी हड्डी शरीर के किस हिस्से में होती है?",
             "options": {
-                "A": "कछुआ",
-                "B": "ऑक्टोपस",
-                "C": "शार्क",
-                "D": "व्हेल"
+                "A": "नाक",
+                "B": "कान",
+                "C": "हाथ",
+                "D": "पैर"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस देश की कोई आधिकारिक राजधानी नहीं है?",
-            "options": {
-                "A": "नाउरू",
-                "B": "फिजी",
-                "C": "मोनाको",
-                "D": "मालदीव"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "शरीर के किस हिस्से में खून नहीं पाया जाता?",
-            "options": {
-                "A": "कॉर्निया",
-                "B": "नाखून",
-                "C": "दांत",
-                "D": "हड्डी"
-            },
-            "correctAnswer": "A"
-        },
-        {
             "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊंट",
-                "C": "जिराफ",
+                "A": "ऊँट",
+                "B": "जिराफ़",
+                "C": "दरियाई घोड़ा",
                 "D": "बकरी"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "C"
         },
         {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "question": "किस जीव की जीभ उसके शरीर से भी लंबी होती है?",
             "options": {
-                "A": "हमिंगबर्ड",
-                "B": "गौरैया",
-                "C": "कबूतर",
-                "D": "उल्लू"
+                "A": "छिपकली",
+                "B": "साँप",
+                "C": "गिरगिट",
+                "D": "मेंढक"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "C"
+        },
+        {
+            "question": "दुनिया का सबसे पुराना फल कौन सा माना जाता है?",
+            "options": {
+                "A": "आम",
+                "B": "खजूर",
+                "C": "सेब",
+                "D": "केला"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "options": {
+                "A": "फ्रांस",
+                "B": "जापान",
+                "C": "आइसलैंड",
+                "D": "कनाडा"
+            },
+            "correctAnswer": "C"
         }
     ]
 }
