@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% People Get These Basic Facts Wrong! 😱",
-    "description": "Think you're a genius? Prove it in 5 seconds! ⏳ Comment your score below and challenge a friend. 👇 #quiz #gk #shorts #challenge",
+    "title": "97% People Get Question 4 Wrong! 🧠🔥",
+    "description": "Think you're smart? Prove it in 25 seconds! ⏳ Comment your final score below! 👇 #quiz #gk #hindi #challenge",
     "questions": [
         {
-            "question": "किस जीव के पास दिमाग नहीं होता है?",
+            "question": "किस जीव का दिल उसके सिर में होता है?",
             "options": {
-                "A": "ऑक्टोपस",
-                "B": "जेलीफ़िश",
-                "C": "शार्क",
-                "D": "कछुआ"
+                "A": "मछली",
+                "B": "केकड़ा",
+                "C": "सांप",
+                "D": "मेंढक"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "भारत के किस शहर को 'मंदिरों का शहर' कहा जाता है?",
+            "question": "इंसानी शरीर के किस अंग में खून नहीं पाया जाता?",
             "options": {
-                "A": "मथुरा",
-                "B": "वाराणसी",
-                "C": "अयोध्या",
-                "D": "हरिद्वार"
+                "A": "नाखून",
+                "B": "कॉर्निया",
+                "C": "दांत",
+                "D": "हड्डी"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "पृथ्वी के वायुमंडल में सबसे अधिक कौन सी गैस है?",
+            "question": "कौन सा जानवर अपनी आँखें बंद करके भी देख सकता है?",
             "options": {
-                "A": "ऑक्सीजन",
-                "B": "नाइट्रोजन",
-                "C": "कार्बन डाइऑक्साइड",
-                "D": "हाइड्रोजन"
+                "A": "ऊँट",
+                "B": "बिल्ली",
+                "C": "कुत्ता",
+                "D": "घोड़ा"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "A"
         },
         {
-            "question": "शरीर का वह कौन सा अंग है जो जन्म से मृत्यु तक नहीं बढ़ता?",
+            "question": "दुनिया का एकमात्र पक्षी जो पीछे की ओर उड़ सकता है?",
             "options": {
-                "A": "कान",
-                "B": "नाक",
-                "C": "आँख",
-                "D": "जीभ"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "वह कौन सा पक्षी है जो पीछे की ओर भी उड़ सकता है?",
-            "options": {
-                "A": "कोयल",
-                "B": "तोता",
-                "C": "हमिंगबर्ड",
+                "A": "तोता",
+                "B": "हमिंगबर्ड",
+                "C": "कोयल",
                 "D": "गौरैया"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस देश में एक भी सांप नहीं पाया जाता है?",
+            "options": {
+                "A": "भारत",
+                "B": "ब्राजील",
+                "C": "न्यूजीलैंड",
+                "D": "वियतनाम"
             },
             "correctAnswer": "C"
         }
