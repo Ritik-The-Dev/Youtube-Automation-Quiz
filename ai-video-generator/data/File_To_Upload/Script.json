@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% People Fail This Tricky Quiz 🧠",
-    "description": "Think you're smart? Prove it! ⏳ Comment your score below and tag a friend who thinks they know everything. 👇 #quiz #gk #shorts #challenge",
+    "title": "97% People Get These Basic Facts Wrong! 😱",
+    "description": "Think you're a genius? Prove it in 5 seconds! ⏳ Comment your score below and challenge a friend. 👇 #quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "इंसान की सबसे छोटी हड्डी शरीर के किस हिस्से में होती है?",
+            "question": "किस जीव के पास दिमाग नहीं होता है?",
             "options": {
-                "A": "नाक",
-                "B": "कान",
-                "C": "हाथ",
-                "D": "पैर"
+                "A": "ऑक्टोपस",
+                "B": "जेलीफ़िश",
+                "C": "शार्क",
+                "D": "कछुआ"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "भारत के किस शहर को 'मंदिरों का शहर' कहा जाता है?",
             "options": {
-                "A": "ऊँट",
-                "B": "जिराफ़",
-                "C": "दरियाई घोड़ा",
-                "D": "बकरी"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "किस जीव की जीभ उसके शरीर से भी लंबी होती है?",
-            "options": {
-                "A": "छिपकली",
-                "B": "साँप",
-                "C": "गिरगिट",
-                "D": "मेंढक"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "दुनिया का सबसे पुराना फल कौन सा माना जाता है?",
-            "options": {
-                "A": "आम",
-                "B": "खजूर",
-                "C": "सेब",
-                "D": "केला"
+                "A": "मथुरा",
+                "B": "वाराणसी",
+                "C": "अयोध्या",
+                "D": "हरिद्वार"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "question": "पृथ्वी के वायुमंडल में सबसे अधिक कौन सी गैस है?",
             "options": {
-                "A": "फ्रांस",
-                "B": "जापान",
-                "C": "आइसलैंड",
-                "D": "कनाडा"
+                "A": "ऑक्सीजन",
+                "B": "नाइट्रोजन",
+                "C": "कार्बन डाइऑक्साइड",
+                "D": "हाइड्रोजन"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "शरीर का वह कौन सा अंग है जो जन्म से मृत्यु तक नहीं बढ़ता?",
+            "options": {
+                "A": "कान",
+                "B": "नाक",
+                "C": "आँख",
+                "D": "जीभ"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "वह कौन सा पक्षी है जो पीछे की ओर भी उड़ सकता है?",
+            "options": {
+                "A": "कोयल",
+                "B": "तोता",
+                "C": "हमिंगबर्ड",
+                "D": "गौरैया"
             },
             "correctAnswer": "C"
         }
