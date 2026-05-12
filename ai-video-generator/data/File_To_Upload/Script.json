@@ -1,25 +1,35 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% People Get Question 4 Wrong! 🧠🔥",
-    "description": "Think you're smart? Prove it in 25 seconds! ⏳ Comment your final score below! 👇 #quiz #gk #hindi #challenge",
+    "title": "Only 1% Can Get 5/5 Right! 🤯",
+    "description": "Challenge your brain with these 5 tricky questions! ⏳ Comment your score below and tag a friend! 👇 #quiz #gk #hindi #shorts",
     "questions": [
         {
-            "question": "किस जीव का दिल उसके सिर में होता है?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "मछली",
-                "B": "केकड़ा",
-                "C": "सांप",
-                "D": "मेंढक"
+                "A": "दरियाई घोड़ा",
+                "B": "ऊँट",
+                "C": "जिराफ़",
+                "D": "बकरी"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "कौन सा पक्षी सबसे बड़ा अंडा देता है?",
+            "options": {
+                "A": "मोर",
+                "B": "शुतुरमुर्ग",
+                "C": "चील",
+                "D": "बत्तख"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "इंसानी शरीर के किस अंग में खून नहीं पाया जाता?",
+            "question": "किस जीव की जीभ उसके शरीर से भी लंबी होती है?",
             "options": {
-                "A": "नाखून",
-                "B": "कॉर्निया",
-                "C": "दांत",
-                "D": "हड्डी"
+                "A": "छिपकली",
+                "B": "गिरगिट",
+                "C": "मेंढक",
+                "D": "सांप"
             },
             "correctAnswer": "B"
         },
@@ -27,31 +37,21 @@
             "question": "कौन सा जानवर अपनी आँखें बंद करके भी देख सकता है?",
             "options": {
                 "A": "ऊँट",
-                "B": "बिल्ली",
+                "B": "घोड़ा",
                 "C": "कुत्ता",
-                "D": "घोड़ा"
+                "D": "बिल्ली"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "दुनिया का एकमात्र पक्षी जो पीछे की ओर उड़ सकता है?",
+            "question": "भारत का कौन सा राज्य 'मसालों का बगीचा' कहलाता है?",
             "options": {
-                "A": "तोता",
-                "B": "हमिंगबर्ड",
-                "C": "कोयल",
-                "D": "गौरैया"
+                "A": "तमिलनाडु",
+                "B": "केरल",
+                "C": "कर्नाटक",
+                "D": "आंध्र प्रदेश"
             },
             "correctAnswer": "B"
-        },
-        {
-            "question": "किस देश में एक भी सांप नहीं पाया जाता है?",
-            "options": {
-                "A": "भारत",
-                "B": "ब्राजील",
-                "C": "न्यूजीलैंड",
-                "D": "वियतनाम"
-            },
-            "correctAnswer": "C"
         }
     ]
 }
