@@ -1,55 +1,55 @@
 {
-    "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Get 5/5 Correct! 🤯",
-    "description": "Challenge your brain with these 5 tricky questions! 🧠 Comment your score and see if you're a genius. 👇 #quiz #gk #shorts #challenge",
+    "quizTopic": "Tricky General Knowledge",
+    "title": "97% People Fail This Tricky Quiz 😱",
+    "description": "Think you're smart? Prove it in 5 seconds! ⏳ Comment your score below 👇 #quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
+            "question": "किस पक्षी के पास पीछे की ओर उड़ने की अनोखी शक्ति है?",
             "options": {
-                "A": "बुध",
-                "B": "शुक्र",
-                "C": "मंगल",
-                "D": "बृहस्पति"
+                "A": "शुतुरमुर्ग",
+                "B": "हमिंगबर्ड",
+                "C": "कोयल",
+                "D": "कबूतर"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "कौन सा जीव अपनी जीभ से नहीं बल्कि अपने पैरों से स्वाद लेता है?",
+            "question": "वह कौन सा जानवर है जिसकी कोई आवाज़ नहीं होती?",
             "options": {
-                "A": "मधुमक्खी",
-                "B": "तितली",
-                "C": "मच्छर",
-                "D": "चींटी"
+                "A": "हाथी",
+                "B": "जिराफ",
+                "C": "ऊंट",
+                "D": "भालू"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "मानव शरीर का कौन सा अंग बिजली पैदा कर सकता है?",
+            "question": "आकाश का वह कौन सा ग्रह है जिसे 'भोर का तारा' कहा जाता है?",
             "options": {
-                "A": "दिल",
-                "B": "फेफड़े",
-                "C": "दिमाग",
-                "D": "किडनी"
+                "A": "मंगल",
+                "B": "बुध",
+                "C": "शुक्र",
+                "D": "शनि"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "किस देश को 'उगते सूरज की भूमि' कहा जाता है?",
+            "question": "दुनिया का वह इकलौता महाद्वीप जहाँ एक भी मकड़ी नहीं पाई जाती?",
             "options": {
-                "A": "भारत",
-                "B": "चीन",
-                "C": "जापान",
-                "D": "नार्वे"
+                "A": "एशिया",
+                "B": "अफ्रीका",
+                "C": "अंटार्कटिका",
+                "D": "ऑस्ट्रेलिया"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "वह कौन सा जानवर है जो घायल होने पर इंसान की तरह रोता है?",
+            "question": "वह कौन सा फल है जिसके बीज फल के बाहर की तरफ होते हैं?",
             "options": {
-                "A": "बंदर",
-                "B": "भालू",
-                "C": "कुत्ता",
-                "D": "हाथी"
+                "A": "आम",
+                "B": "स्ट्रॉबेरी",
+                "C": "पपीता",
+                "D": "अंगूर"
             },
             "correctAnswer": "B"
         }
