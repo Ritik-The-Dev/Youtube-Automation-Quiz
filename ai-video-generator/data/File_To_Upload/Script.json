@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Get 5/5 Right! 🤯",
-    "description": "Challenge your brain with these 5 tricky questions! ⏳ Comment your score below and tag a friend! 👇 #quiz #gk #hindi #shorts",
+    "title": "Only 1% Can Get 5/5 Correct! 🤯",
+    "description": "Challenge your brain with these 5 tricky questions! 🧠 Comment your score and see if you're a genius. 👇 #quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊँट",
-                "C": "जिराफ़",
-                "D": "बकरी"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "कौन सा पक्षी सबसे बड़ा अंडा देता है?",
-            "options": {
-                "A": "मोर",
-                "B": "शुतुरमुर्ग",
-                "C": "चील",
-                "D": "बत्तख"
+                "A": "बुध",
+                "B": "शुक्र",
+                "C": "मंगल",
+                "D": "बृहस्पति"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस जीव की जीभ उसके शरीर से भी लंबी होती है?",
+            "question": "कौन सा जीव अपनी जीभ से नहीं बल्कि अपने पैरों से स्वाद लेता है?",
             "options": {
-                "A": "छिपकली",
-                "B": "गिरगिट",
-                "C": "मेंढक",
-                "D": "सांप"
+                "A": "मधुमक्खी",
+                "B": "तितली",
+                "C": "मच्छर",
+                "D": "चींटी"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "कौन सा जानवर अपनी आँखें बंद करके भी देख सकता है?",
+            "question": "मानव शरीर का कौन सा अंग बिजली पैदा कर सकता है?",
             "options": {
-                "A": "ऊँट",
-                "B": "घोड़ा",
+                "A": "दिल",
+                "B": "फेफड़े",
+                "C": "दिमाग",
+                "D": "किडनी"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "किस देश को 'उगते सूरज की भूमि' कहा जाता है?",
+            "options": {
+                "A": "भारत",
+                "B": "चीन",
+                "C": "जापान",
+                "D": "नार्वे"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "वह कौन सा जानवर है जो घायल होने पर इंसान की तरह रोता है?",
+            "options": {
+                "A": "बंदर",
+                "B": "भालू",
                 "C": "कुत्ता",
-                "D": "बिल्ली"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "भारत का कौन सा राज्य 'मसालों का बगीचा' कहलाता है?",
-            "options": {
-                "A": "तमिलनाडु",
-                "B": "केरल",
-                "C": "कर्नाटक",
-                "D": "आंध्र प्रदेश"
+                "D": "हाथी"
             },
             "correctAnswer": "B"
         }
