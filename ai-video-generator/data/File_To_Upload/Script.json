@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% People Fail This Tricky Quiz 😱",
-    "description": "Think you're a genius? Prove it in 5 seconds per question! ⏳ Comment your score below 👇 #quiz #gk #shorts #challenge",
+    "title": "Only 1% Can Get 5/5 Correct! 🧠",
+    "description": "Think you're a genius? Prove it in 5 seconds per question! ⏳ Comment your final score below! 👇 #gk #quiz #hindi #shorts",
     "questions": [
         {
-            "question": "किस देश में सबसे अधिक द्वीप हैं?",
+            "question": "भारत का 'सफेद शहर' किसे कहा जाता है?",
             "options": {
-                "A": "इंडोनेशिया",
-                "B": "स्वीडन",
-                "C": "कनाडा",
-                "D": "नॉर्वे"
+                "A": "जयपुर",
+                "B": "उदयपुर",
+                "C": "जोधपुर",
+                "D": "जैसलमेर"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस जानवर के पसीने का रंग गुलाबी होता है?",
+            "question": "किस जानवर का पसीना गुलाबी रंग का होता है?",
             "options": {
-                "A": "हाथी",
-                "B": "दरियाई घोड़ा",
-                "C": "ऊँट",
-                "D": "जिराफ"
+                "A": "दरियाई घोड़ा",
+                "B": "भालू",
+                "C": "शेर",
+                "D": "हाथी"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "दुनिया का सबसे पुराना फल कौन सा माना जाता है?",
+            "options": {
+                "A": "आम",
+                "B": "खजूर",
+                "C": "सेब",
+                "D": "अंगूर"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "शरीर के किस हिस्से में रक्त की आपूर्ति नहीं होती है?",
+            "question": "किस जीव के पास तीन दिल होते हैं?",
             "options": {
-                "A": "नाखून",
-                "B": "बाल",
-                "C": "कॉर्निया",
-                "D": "दांत"
+                "A": "शार्क",
+                "B": "कछुआ",
+                "C": "ऑक्टोपस",
+                "D": "मछली"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "कौन सा पक्षी पीछे की ओर उड़ सकता है?",
+            "question": "किस देश में एक भी सांप नहीं पाया जाता है?",
             "options": {
-                "A": "कोयल",
-                "B": "हमिंगबर्ड",
-                "C": "तोता",
-                "D": "उल्लू"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
-            "options": {
-                "A": "बुध",
-                "B": "शुक्र",
-                "C": "मंगल",
-                "D": "बृहस्पति"
+                "A": "भारत",
+                "B": "न्यूजीलैंड",
+                "C": "ऑस्ट्रेलिया",
+                "D": "ब्राजील"
             },
             "correctAnswer": "B"
         }
