@@ -1,35 +1,15 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Get 5/5 Correct! 🧠",
-    "description": "Think you're a genius? Prove it in 5 seconds per question! ⏳ Comment your final score below! 👇 #gk #quiz #hindi #shorts",
+    "title": "99% People Fail This Simple Quiz 😱",
+    "description": "Think you are a genius? Prove it in 5 seconds! ⏳ Comment your score below! 👇 #quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "भारत का 'सफेद शहर' किसे कहा जाता है?",
+            "question": "किस पक्षी की उड़ान पीछे की ओर भी हो सकती है?",
             "options": {
-                "A": "जयपुर",
-                "B": "उदयपुर",
-                "C": "जोधपुर",
-                "D": "जैसलमेर"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस जानवर का पसीना गुलाबी रंग का होता है?",
-            "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "भालू",
-                "C": "शेर",
-                "D": "हाथी"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "दुनिया का सबसे पुराना फल कौन सा माना जाता है?",
-            "options": {
-                "A": "आम",
-                "B": "खजूर",
-                "C": "सेब",
-                "D": "अंगूर"
+                "A": "कोयल",
+                "B": "हमिंगबर्ड",
+                "C": "गौरैया",
+                "D": "तोता"
             },
             "correctAnswer": "B"
         },
@@ -39,17 +19,37 @@
                 "A": "शार्क",
                 "B": "कछुआ",
                 "C": "ऑक्टोपस",
-                "D": "मछली"
+                "D": "व्हेल"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "किस देश में एक भी सांप नहीं पाया जाता है?",
+            "question": "किस देश में एक भी साँप नहीं पाया जाता है?",
             "options": {
                 "A": "भारत",
-                "B": "न्यूजीलैंड",
-                "C": "ऑस्ट्रेलिया",
-                "D": "ब्राजील"
+                "B": "आयरलैंड",
+                "C": "ब्राजील",
+                "D": "वियतनाम"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "दुनिया का इकलौता महाद्वीप कौन सा है जहाँ मकड़ियाँ नहीं पाई जातीं?",
+            "options": {
+                "A": "अफ्रीका",
+                "B": "ऑस्ट्रेलिया",
+                "C": "अंटार्कटिका",
+                "D": "यूरोप"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
+            "options": {
+                "A": "जिराफ",
+                "B": "दरियाई घोड़ा",
+                "C": "ऊँट",
+                "D": "हाथी"
             },
             "correctAnswer": "B"
         }
