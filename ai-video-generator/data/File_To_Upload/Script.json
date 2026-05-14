@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "99% People Fail This Simple Quiz 😱",
-    "description": "Think you are a genius? Prove it in 5 seconds! ⏳ Comment your score below! 👇 #quiz #gk #shorts #challenge",
+    "title": "99% Of People Fail This Tricky Quiz! 🤯",
+    "description": "Can you get 5/5? Most people fail at question 4! ⏳ Comment your score below! 👇 #quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "किस पक्षी की उड़ान पीछे की ओर भी हो सकती है?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "कोयल",
-                "B": "हमिंगबर्ड",
-                "C": "गौरैया",
-                "D": "तोता"
+                "A": "भेड़",
+                "B": "दरियाई घोड़ा",
+                "C": "बकरी",
+                "D": "शेरनी"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस जीव के पास तीन दिल होते हैं?",
+            "question": "किस जीव का दिल उसके सिर में होता है?",
             "options": {
-                "A": "शार्क",
+                "A": "झींगा",
                 "B": "कछुआ",
-                "C": "ऑक्टोपस",
-                "D": "व्हेल"
+                "C": "मेंढक",
+                "D": "मछली"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "A"
         },
         {
-            "question": "किस देश में एक भी साँप नहीं पाया जाता है?",
+            "question": "कौन सा जीव अपनी जीभ से अपने कान साफ कर सकता है?",
+            "options": {
+                "A": "हाथी",
+                "B": "कंगारू",
+                "C": "बंदर",
+                "D": "जिराफ"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "किस देश में एक भी सांप नहीं पाया जाता है?",
             "options": {
                 "A": "भारत",
-                "B": "आयरलैंड",
-                "C": "ब्राजील",
+                "B": "ब्राजील",
+                "C": "न्यूजीलैंड",
                 "D": "वियतनाम"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "दुनिया का इकलौता महाद्वीप कौन सा है जहाँ मकड़ियाँ नहीं पाई जातीं?",
-            "options": {
-                "A": "अफ्रीका",
-                "B": "ऑस्ट्रेलिया",
-                "C": "अंटार्कटिका",
-                "D": "यूरोप"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
+            "question": "कौन सा जानवर लोहे की कील को भी हजम कर सकता है?",
             "options": {
-                "A": "जिराफ",
-                "B": "दरियाई घोड़ा",
-                "C": "ऊँट",
-                "D": "हाथी"
+                "A": "मगरमच्छ",
+                "B": "शेर",
+                "C": "हाथी",
+                "D": "घोड़ा"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "A"
         }
     ]
 }
