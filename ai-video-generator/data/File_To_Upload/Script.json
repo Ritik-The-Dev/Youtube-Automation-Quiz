@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% People Get Question 4 Wrong! 😱",
-    "description": "Think you're a genius? Prove it! 🧠 Comment your score below and tag a friend. 👇 #quiz #gk #shorts #challenge",
+    "title": "97% People Get These Simple Questions Wrong! 🤯",
+    "description": "Think you're a genius? Prove it! 🧠 You have only 5 seconds for each question. Comment your final score below! 👇 #quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "भारत के किस शहर को 'झीलों का शहर' कहा जाता है?",
+            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
             "options": {
-                "A": "उदयपुर",
-                "B": "भोपाल",
-                "C": "नैनीताल",
-                "D": "श्रीनगर"
+                "A": "बुध",
+                "B": "शुक्र",
+                "C": "मंगल",
+                "D": "बृहस्पति"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "पृथ्वी के वायुमंडल में सबसे अधिक मात्रा में कौन सी गैस पाई जाती है?",
+            "options": {
+                "A": "ऑक्सीजन",
+                "B": "कार्बन डाइऑक्साइड",
+                "C": "नाइट्रोजन",
+                "D": "हाइड्रोजन"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "वह कौन सा जीव है जो कभी नहीं सोता?",
+            "options": {
+                "A": "चींटी",
+                "B": "मछली",
+                "C": "सांप",
+                "D": "मेंढक"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "मानव शरीर का कौन सा अंग कभी आराम नहीं करता?",
+            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "मस्तिष्क",
-                "B": "हृदय",
-                "C": "आँखें",
-                "D": "फेफड़े"
+                "A": "जापान",
+                "B": "आइसलैंड",
+                "C": "फ्रांस",
+                "D": "कनाडा"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "भारत की पहली महिला शासिका कौन थी?",
+            "question": "मानव शरीर का कौन सा अंग अपने आप को पुनर्जीवित कर सकता है?",
             "options": {
-                "A": "रानी लक्ष्मीबाई",
-                "B": "रजिया सुल्तान",
-                "C": "इंदिरा गांधी",
-                "D": "सरोजिनी नायडू"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
-            "options": {
-                "A": "ऊँट",
-                "B": "दरियाई घोड़ा",
-                "C": "जिराफ",
-                "D": "बंदर"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "पीछे की ओर उड़ने वाला एकमात्र पक्षी कौन सा है?",
-            "options": {
-                "A": "कोयल",
-                "B": "तोता",
-                "C": "हमिंगबर्ड",
-                "D": "गौरैया"
+                "A": "हृदय",
+                "B": "फेफड़े",
+                "C": "यकृत",
+                "D": "गुर्दा"
             },
             "correctAnswer": "C"
         }
