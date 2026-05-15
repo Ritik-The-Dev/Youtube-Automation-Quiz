@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
     "title": "97% People Get Question 4 Wrong! 😱",
-    "description": "Think you're a genius? Try to get 5/5 on this tricky quiz! ⏳ Comment your final score below! 👇 #quiz #gk #shorts #challenge",
+    "description": "Think you're a genius? Prove it! 🧠 Comment your score below and tag a friend. 👇 #quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "किस जीव के पास तीन दिल होते हैं?",
+            "question": "भारत के किस शहर को 'झीलों का शहर' कहा जाता है?",
             "options": {
-                "A": "व्हेल",
-                "B": "ऑक्टोपस",
-                "C": "शार्क",
-                "D": "कछुआ"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
-            "options": {
-                "A": "बुध",
-                "B": "शुक्र",
-                "C": "मंगल",
-                "D": "बृहस्पति"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "शरीर के किस हिस्से में रक्त की आपूर्ति नहीं होती?",
-            "options": {
-                "A": "नाखून",
-                "B": "कॉर्निया",
-                "C": "बाल",
-                "D": "दांत"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस देश में एक भी मच्छर नहीं पाया जाता?",
-            "options": {
-                "A": "आइसलैंड",
-                "B": "जापान",
-                "C": "फ्रांस",
-                "D": "कनाडा"
+                "A": "उदयपुर",
+                "B": "भोपाल",
+                "C": "नैनीताल",
+                "D": "श्रीनगर"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "question": "मानव शरीर का कौन सा अंग कभी आराम नहीं करता?",
             "options": {
-                "A": "कोयल",
-                "B": "हमिंगबर्ड",
-                "C": "तोता",
-                "D": "बाज"
+                "A": "मस्तिष्क",
+                "B": "हृदय",
+                "C": "आँखें",
+                "D": "फेफड़े"
             },
             "correctAnswer": "B"
+        },
+        {
+            "question": "भारत की पहली महिला शासिका कौन थी?",
+            "options": {
+                "A": "रानी लक्ष्मीबाई",
+                "B": "रजिया सुल्तान",
+                "C": "इंदिरा गांधी",
+                "D": "सरोजिनी नायडू"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "options": {
+                "A": "ऊँट",
+                "B": "दरियाई घोड़ा",
+                "C": "जिराफ",
+                "D": "बंदर"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "पीछे की ओर उड़ने वाला एकमात्र पक्षी कौन सा है?",
+            "options": {
+                "A": "कोयल",
+                "B": "तोता",
+                "C": "हमिंगबर्ड",
+                "D": "गौरैया"
+            },
+            "correctAnswer": "C"
         }
     ]
 }
