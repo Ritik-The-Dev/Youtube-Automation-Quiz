@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "99% People Fail This Tricky Quiz 😱",
-    "description": "Test your brain in 5 seconds per question ⏳ Comment your score below 👇 #quiz #gk #shorts",
+    "title": "Only 1% Can Score 5/5 On This! 🤯",
+    "description": "Test your brain power in just 5 seconds per question! ⏳ Can you beat the clock? Comment your score below! 👇 #quiz #gk #hindi #shorts",
     "questions": [
         {
-            "question": "किस पक्षी में पीछे की ओर उड़ने की अनोखी क्षमता होती है?",
+            "question": "किस देश में सबसे अधिक द्वीप हैं?",
             "options": {
-                "A": "गौरैया",
-                "B": "गुंजन पक्षी",
-                "C": "कोयल",
-                "D": "कबूतर"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "बिजली के बल्ब के अंदर मुख्य रूप से कौन सी गैस भरी जाती है?",
-            "options": {
-                "A": "ऑक्सीजन",
-                "B": "हाइड्रोजन",
-                "C": "नाइट्रोजन",
-                "D": "आर्गन"
-            },
-            "correctAnswer": "D"
-        },
-        {
-            "question": "किस समुद्री जीव के शरीर में तीन दिल और नौ दिमाग होते हैं?",
-            "options": {
-                "A": "शार्क",
-                "B": "अष्टबाहु",
-                "C": "कछुआ",
-                "D": "व्हेल"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "सौरमंडल के किस ग्रह को 'भोर का तारा' कहा जाता है?",
-            "options": {
-                "A": "मंगल",
-                "B": "बुध",
-                "C": "शुक्र",
-                "D": "शनि"
+                "A": "इंडोनेशिया",
+                "B": "फिलीपींस",
+                "C": "स्वीडन",
+                "D": "कनाडा"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "दुनिया का वह एकमात्र सांप कौन सा है जो अपना घोंसला खुद बनाता है?",
+            "question": "किस जीव का दिल उसके सिर में होता है?",
             "options": {
-                "A": "अजगर",
-                "B": "राजनाग",
-                "C": "करैत",
-                "D": "नाग"
+                "A": "केकड़ा",
+                "B": "झींगा",
+                "C": "समुद्री घोड़ा",
+                "D": "ऑक्टोपस"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "मानव शरीर के किस हिस्से में रक्त की आपूर्ति नहीं होती है?",
+            "options": {
+                "A": "नाखून",
+                "B": "बाल",
+                "C": "कॉर्निया",
+                "D": "दांत"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "पृथ्वी के वायुमंडल में सबसे प्रचुर मात्रा में कौन सी गैस है?",
+            "options": {
+                "A": "ऑक्सीजन",
+                "B": "कार्बन डाइऑक्साइड",
+                "C": "नाइट्रोजन",
+                "D": "हाइड्रोजन"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "सौरमंडल का कौन सा ग्रह घड़ी की सुई की दिशा में घूमता है?",
+            "options": {
+                "A": "मंगल",
+                "B": "शुक्र",
+                "C": "बृहस्पति",
+                "D": "शनि"
             },
             "correctAnswer": "B"
         }
