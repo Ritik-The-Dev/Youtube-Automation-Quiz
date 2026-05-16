@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% People Get These Simple Questions Wrong! 🤯",
-    "description": "Think you're a genius? Prove it! 🧠 You have only 5 seconds for each question. Comment your final score below! 👇 #quiz #gk #shorts #challenge",
+    "title": "99% People Fail This Tricky Quiz 😱",
+    "description": "Test your brain in 5 seconds per question ⏳ Comment your score below 👇 #quiz #gk #shorts",
     "questions": [
         {
-            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
+            "question": "किस पक्षी में पीछे की ओर उड़ने की अनोखी क्षमता होती है?",
             "options": {
-                "A": "बुध",
-                "B": "शुक्र",
-                "C": "मंगल",
-                "D": "बृहस्पति"
+                "A": "गौरैया",
+                "B": "गुंजन पक्षी",
+                "C": "कोयल",
+                "D": "कबूतर"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "पृथ्वी के वायुमंडल में सबसे अधिक मात्रा में कौन सी गैस पाई जाती है?",
+            "question": "बिजली के बल्ब के अंदर मुख्य रूप से कौन सी गैस भरी जाती है?",
             "options": {
                 "A": "ऑक्सीजन",
-                "B": "कार्बन डाइऑक्साइड",
+                "B": "हाइड्रोजन",
                 "C": "नाइट्रोजन",
-                "D": "हाइड्रोजन"
+                "D": "आर्गन"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "D"
         },
         {
-            "question": "वह कौन सा जीव है जो कभी नहीं सोता?",
+            "question": "किस समुद्री जीव के शरीर में तीन दिल और नौ दिमाग होते हैं?",
             "options": {
-                "A": "चींटी",
-                "B": "मछली",
-                "C": "सांप",
-                "D": "मेंढक"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
-            "options": {
-                "A": "जापान",
-                "B": "आइसलैंड",
-                "C": "फ्रांस",
-                "D": "कनाडा"
+                "A": "शार्क",
+                "B": "अष्टबाहु",
+                "C": "कछुआ",
+                "D": "व्हेल"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "मानव शरीर का कौन सा अंग अपने आप को पुनर्जीवित कर सकता है?",
+            "question": "सौरमंडल के किस ग्रह को 'भोर का तारा' कहा जाता है?",
             "options": {
-                "A": "हृदय",
-                "B": "फेफड़े",
-                "C": "यकृत",
-                "D": "गुर्दा"
+                "A": "मंगल",
+                "B": "बुध",
+                "C": "शुक्र",
+                "D": "शनि"
             },
             "correctAnswer": "C"
+        },
+        {
+            "question": "दुनिया का वह एकमात्र सांप कौन सा है जो अपना घोंसला खुद बनाता है?",
+            "options": {
+                "A": "अजगर",
+                "B": "राजनाग",
+                "C": "करैत",
+                "D": "नाग"
+            },
+            "correctAnswer": "B"
         }
     ]
 }
