@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "99% People Fail This Tricky Quiz 😱",
-    "description": "Test your brain in 5 seconds per question ⏳ Comment your score below 👇 #gk #quiz #shorts #challenge",
+    "title": "97% People Get Question 4 Wrong! 😱",
+    "description": "Think you're a genius? Prove it! 🧠 You have 5 seconds for each question. Comment your score below! 👇 #quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "कौन सा सांप अपना घोंसला खुद बनाता है?",
+            "question": "किस जीव के पास तीन दिल होते हैं?",
             "options": {
-                "A": "अजगर",
-                "B": "कोबरा",
-                "C": "किंग कोबरा",
-                "D": "करैत"
+                "A": "कछुआ",
+                "B": "ऑक्टोपस",
+                "C": "शार्क",
+                "D": "व्हेल"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
+            "options": {
+                "A": "बुध",
+                "B": "शुक्र",
+                "C": "मंगल",
+                "D": "शनि"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "options": {
+                "A": "कोयल",
+                "B": "तोता",
+                "C": "हमिंगबर्ड",
+                "D": "गौरैया"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "मानव शरीर का कौन सा अंग कटने के बाद फिर से बढ़ सकता है?",
+            "question": "एक नवजात शिशु के शरीर में कुल कितनी हड्डियां होती हैं?",
             "options": {
-                "A": "फेफड़ा",
-                "B": "यकृत",
-                "C": "हृदय",
-                "D": "गुर्दा"
+                "A": "दो सौ छह",
+                "B": "दो सौ पचास",
+                "C": "तीन सौ",
+                "D": "दो सौ सत्तर"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "C"
         },
         {
-            "question": "किस जीव का खून नीले रंग का होता है?",
+            "question": "दुनिया का वह कौन सा देश है जहाँ एक भी मच्छर नहीं पाया जाता?",
             "options": {
-                "A": "शार्क",
-                "B": "ऑक्टोपस",
-                "C": "बिच्छू",
-                "D": "मगरमच्छ"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
-            "options": {
-                "A": "फ्रांस",
-                "B": "आइसलैंड",
-                "C": "जापान",
+                "A": "आइसलैंड",
+                "B": "जापान",
+                "C": "फ्रांस",
                 "D": "कनाडा"
             },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "भारत के किस राज्य में सूर्य सबसे पहले निकलता है?",
-            "options": {
-                "A": "असम",
-                "B": "सिक्किम",
-                "C": "अरुणाचल प्रदेश",
-                "D": "मेघालय"
-            },
-            "correctAnswer": "C"
+            "correctAnswer": "A"
         }
     ]
 }
