@@ -1,15 +1,25 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% People Get Question 4 Wrong! 😱",
-    "description": "Think you're a genius? Prove it! 🧠 You have 5 seconds for each question. Comment your score below! 👇 #quiz #gk #shorts #challenge",
+    "title": "99% People Fail This Quiz 😱",
+    "description": "Test your brain in 5 seconds per question ⏳ Comment your score below 👇 #quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "किस जीव के पास तीन दिल होते हैं?",
+            "question": "किस देश में सबसे अधिक द्वीप पाए जाते हैं?",
             "options": {
-                "A": "कछुआ",
-                "B": "ऑक्टोपस",
-                "C": "शार्क",
-                "D": "व्हेल"
+                "A": "इंडोनेशिया",
+                "B": "स्वीडन",
+                "C": "फिलीपींस",
+                "D": "मालदीव"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "शरीर के किस हिस्से में रक्त की आपूर्ति नहीं होती है?",
+            "options": {
+                "A": "नाखून",
+                "B": "कॉर्निया",
+                "C": "बाल",
+                "D": "दांत"
             },
             "correctAnswer": "B"
         },
@@ -24,34 +34,24 @@
             "correctAnswer": "B"
         },
         {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "question": "कौन सा जानवर अपनी त्वचा से सांस ले सकता है?",
             "options": {
-                "A": "कोयल",
-                "B": "तोता",
-                "C": "हमिंगबर्ड",
-                "D": "गौरैया"
+                "A": "मछली",
+                "B": "कछुआ",
+                "C": "मेंढक",
+                "D": "सांप"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "एक नवजात शिशु के शरीर में कुल कितनी हड्डियां होती हैं?",
+            "question": "मनुष्य द्वारा सबसे पहले किस धातु का उपयोग किया गया था?",
             "options": {
-                "A": "दो सौ छह",
-                "B": "दो सौ पचास",
-                "C": "तीन सौ",
-                "D": "दो सौ सत्तर"
+                "A": "लोहा",
+                "B": "सोना",
+                "C": "तांबा",
+                "D": "चांदी"
             },
             "correctAnswer": "C"
-        },
-        {
-            "question": "दुनिया का वह कौन सा देश है जहाँ एक भी मच्छर नहीं पाया जाता?",
-            "options": {
-                "A": "आइसलैंड",
-                "B": "जापान",
-                "C": "फ्रांस",
-                "D": "कनाडा"
-            },
-            "correctAnswer": "A"
         }
     ]
 }
