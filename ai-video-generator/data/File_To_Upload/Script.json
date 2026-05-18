@@ -1,35 +1,25 @@
 {
     "quizTopic": "General Knowledge",
     "title": "97% People Get Question 4 Wrong! 😱",
-    "description": "Think you're a genius? Prove it in 30 seconds! ⏳ Comment your final score below 👇 #quiz #gk #shorts #challenge",
+    "description": "Think you're a genius? Prove it in this 5-second challenge! ⏳ Comment your score below 👇 #quiz #gk #challenge",
     "questions": [
         {
-            "question": "किस ग्रह को 'भोर का तारा' कहा जाता है?",
+            "question": "किस जीव के पास न तो दिमाग होता है और न ही दिल?",
             "options": {
-                "A": "मंगल",
-                "B": "शुक्र",
-                "C": "बृहस्पति",
-                "D": "शनि"
+                "A": "कछुआ",
+                "B": "जेलीफ़िश",
+                "C": "ऑक्टोपस",
+                "D": "केकड़ा"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "शरीर का कौन सा अंग कभी आराम नहीं करता?",
+            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
             "options": {
-                "A": "आँख",
-                "B": "फेफड़े",
-                "C": "हृदय",
-                "D": "मस्तिष्क"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "अंतरिक्ष में भेजा गया पहला जानवर कौन सा था?",
-            "options": {
-                "A": "बंदर",
-                "B": "कुत्ता",
-                "C": "बिल्ली",
-                "D": "चूहा"
+                "A": "मंगल",
+                "B": "शुक्र",
+                "C": "बुध",
+                "D": "शनि"
             },
             "correctAnswer": "B"
         },
@@ -37,21 +27,31 @@
             "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
             "options": {
                 "A": "कोयल",
-                "B": "गुंजन पक्षी",
-                "C": "गौरैया",
-                "D": "तोता"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "कौन सा पेड़ 24 घंटे ऑक्सीजन देता है?",
-            "options": {
-                "A": "नीम",
-                "B": "बरगद",
-                "C": "पीपल",
-                "D": "आम"
+                "B": "तोता",
+                "C": "हमिंगबर्ड",
+                "D": "बाज"
             },
             "correctAnswer": "C"
+        },
+        {
+            "question": "वह कौन सा जीव है जो दूध और अंडे दोनों देता है?",
+            "options": {
+                "A": "कंगारू",
+                "B": "जिराफ़",
+                "C": "चूहा",
+                "D": "प्लैटिपस"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "मानव शरीर के किस अंग में रक्त नहीं होता?",
+            "options": {
+                "A": "कॉर्निया",
+                "B": "नाखून",
+                "C": "दांत",
+                "D": "बाल"
+            },
+            "correctAnswer": "A"
         }
     ]
 }
