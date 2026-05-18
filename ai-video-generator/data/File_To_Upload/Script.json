@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% People Get Question 4 Wrong! 🤯",
-    "description": "Think you're a genius? Prove it in 25 seconds! ⏳ Comment your final score below 👇 #quiz #gk #shorts #challenge",
+    "title": "Only 1% Can Score 5/5! 🤯",
+    "description": "Challenge your brain with these 5 tricky questions! ⏳ You have only 5 seconds for each. Comment your score! 👇 #gk #quiz #shorts #hindi",
     "questions": [
         {
-            "question": "किस ग्रह को 'भोर का तारा' कहा जाता है?",
+            "question": "किस जीव के पास तीन हृदय होते हैं?",
             "options": {
-                "A": "मंगल",
-                "B": "शुक्र",
-                "C": "बृहस्पति",
-                "D": "शनि"
+                "A": "शार्क",
+                "B": "अष्टबाहु",
+                "C": "व्हेल",
+                "D": "कछुआ"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "मानव शरीर का कौन सा अंग कभी नहीं सोता?",
+            "question": "किस जीव का रक्त सफेद रंग का होता है?",
             "options": {
-                "A": "आँख",
-                "B": "मस्तिष्क",
-                "C": "हृदय",
-                "D": "फेफड़े"
+                "A": "छिपकली",
+                "B": "तिलचट्टा",
+                "C": "मच्छर",
+                "D": "मक्खी"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "B"
         },
         {
-            "question": "कौन सा जानवर बिना सिर घुमाए पीछे देख सकता है?",
+            "question": "किस देश में एक भी नदी नहीं बहती है?",
             "options": {
-                "A": "हाथी",
-                "B": "घोड़ा",
-                "C": "खरगोश",
-                "D": "शेर"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "कौन सा पक्षी पीछे की ओर उड़ सकता है?",
-            "options": {
-                "A": "हमिंगबर्ड",
-                "B": "कोयल",
-                "C": "तोता",
-                "D": "बाज"
+                "A": "सऊदी अरब",
+                "B": "कुवैत",
+                "C": "ओमान",
+                "D": "संयुक्त अरब अमीरात"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "कौन सी धातु कमरे के तापमान पर तरल रहती है?",
+            "question": "कौन सा पक्षी पीछे की ओर उड़ने में सक्षम है?",
             "options": {
-                "A": "लोहा",
-                "B": "सोना",
-                "C": "पारा",
-                "D": "तांबा"
+                "A": "गुंजन पक्षी",
+                "B": "गौरैया",
+                "C": "कोयल",
+                "D": "कबूतर"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "A"
+        },
+        {
+            "question": "किस जीव की आंखें उसके दिमाग से बड़ी होती हैं?",
+            "options": {
+                "A": "हाथी",
+                "B": "शुतुरमुर्ग",
+                "C": "उल्लू",
+                "D": "जिराफ"
+            },
+            "correctAnswer": "B"
         }
     ]
 }
