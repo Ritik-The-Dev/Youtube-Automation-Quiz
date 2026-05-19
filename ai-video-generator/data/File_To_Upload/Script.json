@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5! 🤯",
-    "description": "Challenge your brain with these 5 tricky questions! ⏳ You have only 5 seconds for each. Comment your score! 👇 #gk #quiz #shorts #hindi",
+    "title": "99% People Fail This Tricky Brain Test 🤯",
+    "description": "Can you answer all 5 correctly in just 5 seconds? ⏳ Challenge your friends and comment your score! 👇 #quiz #gk #shorts #hindi",
     "questions": [
         {
-            "question": "किस जीव के पास तीन हृदय होते हैं?",
+            "question": "कौन सा जानवर अपनी आँखें बंद करके भी देख सकता है?",
             "options": {
-                "A": "शार्क",
+                "A": "ऊँट",
+                "B": "बिल्ली",
+                "C": "साँप",
+                "D": "हिरण"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "किस जीव का खून नीले रंग का होता है?",
+            "options": {
+                "A": "मछली",
                 "B": "अष्टबाहु",
-                "C": "व्हेल",
-                "D": "कछुआ"
+                "C": "कछुआ",
+                "D": "मेंढक"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस जीव का रक्त सफेद रंग का होता है?",
+            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
             "options": {
-                "A": "छिपकली",
-                "B": "तिलचट्टा",
-                "C": "मच्छर",
-                "D": "मक्खी"
+                "A": "बुध",
+                "B": "मंगल",
+                "C": "शुक्र",
+                "D": "शनि"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "C"
         },
         {
-            "question": "किस देश में एक भी नदी नहीं बहती है?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "सऊदी अरब",
-                "B": "कुवैत",
-                "C": "ओमान",
-                "D": "संयुक्त अरब अमीरात"
+                "A": "दरियाई घोड़ा",
+                "B": "ऊँट",
+                "C": "जिराफ",
+                "D": "बकरी"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "कौन सा पक्षी पीछे की ओर उड़ने में सक्षम है?",
+            "question": "वह कौन सा पक्षी है जो हाथ लगाते ही मर जाता है?",
             "options": {
-                "A": "गुंजन पक्षी",
-                "B": "गौरैया",
-                "C": "कोयल",
-                "D": "कबूतर"
+                "A": "टिटोनी",
+                "B": "कोयल",
+                "C": "बुलबुल",
+                "D": "गौरैया"
             },
             "correctAnswer": "A"
-        },
-        {
-            "question": "किस जीव की आंखें उसके दिमाग से बड़ी होती हैं?",
-            "options": {
-                "A": "हाथी",
-                "B": "शुतुरमुर्ग",
-                "C": "उल्लू",
-                "D": "जिराफ"
-            },
-            "correctAnswer": "B"
         }
     ]
 }
