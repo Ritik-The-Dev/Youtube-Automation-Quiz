@@ -1,47 +1,17 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% of People Fail This Simple Quiz! 🧠",
-    "description": "Think you are smart? Prove it in 5 seconds per question! Comment your final score below 👇 #quiz #gk #shorts #trending",
+    "title": "99% Of People Get Question 3 Wrong! 🤯",
+    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your final score below 👇 #quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
             "options": {
                 "A": "दरियाई घोड़ा",
-                "B": "ऊंट",
-                "C": "जिराफ",
-                "D": "बकरी"
+                "B": "ऊँट",
+                "C": "जिराफ़",
+                "D": "कंगारू"
             },
             "correctAnswer": "A"
-        },
-        {
-            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक नहीं बढ़ता है?",
-            "options": {
-                "A": "कान",
-                "B": "नाक",
-                "C": "आंख",
-                "D": "दांत"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "दुनिया के किस देश में एक भी पेड़ नहीं है?",
-            "options": {
-                "A": "कतर",
-                "B": "मिस्र",
-                "C": "सऊदी अरब",
-                "D": "सूडान"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "किस जीव के पास तीन दिल होते हैं?",
-            "options": {
-                "A": "शार्क",
-                "B": "ऑक्टोपस",
-                "C": "केंचुआ",
-                "D": "व्हेल"
-            },
-            "correctAnswer": "B"
         },
         {
             "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
@@ -50,6 +20,36 @@
                 "B": "आइसलैंड",
                 "C": "जापान",
                 "D": "कनाडा"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "options": {
+                "A": "हमिंगबर्ड",
+                "B": "कोयल",
+                "C": "तोता",
+                "D": "कबूतर"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक कभी नहीं बढ़ता?",
+            "options": {
+                "A": "कान",
+                "B": "नाक",
+                "C": "आँख",
+                "D": "दाँत"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "किस जीव के पास तीन दिल होते हैं?",
+            "options": {
+                "A": "शार्क",
+                "B": "ऑक्टोपस",
+                "C": "कछुआ",
+                "D": "ह्वेल"
             },
             "correctAnswer": "B"
         }
