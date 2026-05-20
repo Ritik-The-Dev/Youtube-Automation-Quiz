@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% of People Fail This Simple Test! 🧠",
-    "description": "Think you are smart? Prove it in 5 seconds per question! Comment your final score below 👇\n#quiz #gk #shorts #trending",
+    "title": "97% of People Fail This Simple Quiz! 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds per question! Comment your final score below 👇 #quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जीव का दिल उसके सिर में होता है?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "केकड़ा",
-                "B": "झींगा",
-                "C": "ऑक्टोपस",
-                "D": "कछुआ"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस जानवर का दूध कभी नहीं फटता है?",
-            "options": {
-                "A": "गाय",
-                "B": "बकरी",
-                "C": "ऊंटनी",
-                "D": "हथनी"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "भारत के किस राज्य में रावण की पूजा की जाती है?",
-            "options": {
-                "A": "मध्य प्रदेश",
-                "B": "उत्तर प्रदेश",
-                "C": "राजस्थान",
-                "D": "गुजरात"
+                "A": "दरियाई घोड़ा",
+                "B": "ऊंट",
+                "C": "जिराफ",
+                "D": "बकरी"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "कौन सा जीव पानी पीते ही मर जाता है?",
+            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक नहीं बढ़ता है?",
             "options": {
-                "A": "चमगादड़",
-                "B": "गिलहरी",
-                "C": "मेंढक",
-                "D": "कंगारू चूहा"
+                "A": "कान",
+                "B": "नाक",
+                "C": "आंख",
+                "D": "दांत"
             },
-            "correctAnswer": "D"
+            "correctAnswer": "C"
         },
         {
-            "question": "किस देश में पांच सूर्य दिखाई देते हैं?",
+            "question": "दुनिया के किस देश में एक भी पेड़ नहीं है?",
             "options": {
-                "A": "रूस",
-                "B": "चीन",
+                "A": "कतर",
+                "B": "मिस्र",
+                "C": "सऊदी अरब",
+                "D": "सूडान"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "किस जीव के पास तीन दिल होते हैं?",
+            "options": {
+                "A": "शार्क",
+                "B": "ऑक्टोपस",
+                "C": "केंचुआ",
+                "D": "व्हेल"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "options": {
+                "A": "फ्रांस",
+                "B": "आइसलैंड",
                 "C": "जापान",
-                "D": "भारत"
+                "D": "कनाडा"
             },
             "correctAnswer": "B"
         }
