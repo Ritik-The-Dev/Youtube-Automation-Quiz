@@ -1,7 +1,7 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "93% Of People Fail This Simple Test 🧠",
-    "description": "Think you are smart? Prove it in 5 seconds per question! Comment your final score below 👇 #quiz #gk #shorts #trending",
+    "title": "Only 1% Can Score 5/5 On This 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds! Comment your final score below 👇\n#quiz #gk #shorts",
     "questions": [
         {
             "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
@@ -9,19 +9,9 @@
                 "A": "दरियाई घोड़ा",
                 "B": "ऊंट",
                 "C": "जिराफ",
-                "D": "बकरी"
+                "D": "कंगारू"
             },
             "correctAnswer": "A"
-        },
-        {
-            "question": "दुनिया का ऐसा कौन सा देश है जहां एक भी पेड़ नहीं है?",
-            "options": {
-                "A": "सऊदी अरब",
-                "B": "कतर",
-                "C": "मिस्र",
-                "D": "ओमान"
-            },
-            "correctAnswer": "B"
         },
         {
             "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
@@ -34,24 +24,34 @@
             "correctAnswer": "A"
         },
         {
-            "question": "नवजात शिशु के शरीर में कुल कितनी हड्डियां होती हैं?",
+            "question": "किस देश में एक भी नदी नहीं बहती है?",
             "options": {
-                "A": "दो सौ छह",
-                "B": "तीन सौ",
-                "C": "दो सौ आठ",
-                "D": "तीन सौ पचास"
+                "A": "सऊदी अरब",
+                "B": "मिस्र",
+                "C": "तुर्की",
+                "D": "ईरान"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "A"
         },
         {
-            "question": "मानव शरीर के किस अंग को चोट लगने पर दर्द महसूस नहीं होता है?",
+            "question": "किस जीव के पास तीन दिल होते हैं?",
             "options": {
-                "A": "दिल",
-                "B": "दिमाग",
-                "C": "यकृत",
-                "D": "फेफड़े"
+                "A": "ऑक्टोपस",
+                "B": "शार्क",
+                "C": "कछुआ",
+                "D": "मछली"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "A"
+        },
+        {
+            "question": "किस फल का बीज उसके बाहर की तरफ होता है?",
+            "options": {
+                "A": "स्ट्रॉबेरी",
+                "B": "सेब",
+                "C": "पपीता",
+                "D": "अमरूद"
+            },
+            "correctAnswer": "A"
         }
     ]
 }
