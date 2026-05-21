@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% of People Fail This Tricky Quiz! 🤯",
-    "description": "Can you answer all 5 questions in just 5 seconds each? Comment your final score below and challenge your friends! 👇\n#quiz #gk #shorts #trending",
+    "title": "93% Of People Fail This Simple Test 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds per question! Comment your final score below 👇 #quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस पक्षी को पीछे की ओर उड़ने की अनोखी क्षमता के लिए जाना जाता है?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "गौरैया",
-                "B": "गुंजन पक्षी",
-                "C": "कोयल",
+                "A": "दरियाई घोड़ा",
+                "B": "ऊंट",
+                "C": "जिराफ",
+                "D": "बकरी"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "दुनिया का ऐसा कौन सा देश है जहां एक भी पेड़ नहीं है?",
+            "options": {
+                "A": "सऊदी अरब",
+                "B": "कतर",
+                "C": "मिस्र",
+                "D": "ओमान"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "options": {
+                "A": "हमिंगबर्ड",
+                "B": "कोयल",
+                "C": "तोता",
                 "D": "कबूतर"
             },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस समुद्री जीव के पास तीन दिल और नौ दिमाग होते हैं?",
-            "options": {
-                "A": "शार्क",
-                "B": "ऑक्टोपस",
-                "C": "ह्वेल",
-                "D": "कछुआ"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "वैज्ञानिक शोध के अनुसार, ऐसा कौन सा जीव है जो कभी नहीं सोता?",
-            "options": {
-                "A": "बुलफ्रॉग",
-                "B": "तितली",
-                "C": "मछली",
-                "D": "सांप"
-            },
             "correctAnswer": "A"
         },
         {
-            "question": "वह एकमात्र फल कौन सा है जिसके बीज फल के बाहर की तरफ होते हैं?",
+            "question": "नवजात शिशु के शरीर में कुल कितनी हड्डियां होती हैं?",
             "options": {
-                "A": "स्ट्रॉबेरी",
-                "B": "केला",
-                "C": "अनानास",
-                "D": "पपीता"
+                "A": "दो सौ छह",
+                "B": "तीन सौ",
+                "C": "दो सौ आठ",
+                "D": "तीन सौ पचास"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
         },
         {
-            "question": "हमारे सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
+            "question": "मानव शरीर के किस अंग को चोट लगने पर दर्द महसूस नहीं होता है?",
             "options": {
-                "A": "बुध",
-                "B": "शुक्र",
-                "C": "मंगल",
-                "D": "शनि"
+                "A": "दिल",
+                "B": "दिमाग",
+                "C": "यकृत",
+                "D": "फेफड़े"
             },
             "correctAnswer": "B"
         }
