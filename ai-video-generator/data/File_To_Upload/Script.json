@@ -1,20 +1,30 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% Of People Fail This Simple Test! 🧠",
-    "description": "Can you get 5/5 in this tricky quiz? You only have 5 seconds per question! Comment your score below 👇 #quiz #gk #shorts #trending",
+    "title": "97% of People Fail This Simple Test! 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds per question! Comment your final score below 👇 #quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
+            "question": "किस पक्षी को पीछे की ओर उड़ने के लिए जाना जाता है?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊंट",
-                "C": "जिराफ",
-                "D": "याक"
+                "A": "गुंजन पक्षी",
+                "B": "गौरैया",
+                "C": "कबूतर",
+                "D": "कोयल"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "question": "किस जीव के पास तीन दिल होते हैं?",
+            "options": {
+                "A": "शार्क",
+                "B": "ऑक्टोपस",
+                "C": "केंचुआ",
+                "D": "ब्लू व्हेल"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "दुनिया का एकमात्र ऐसा देश कौन सा है जहाँ एक भी मच्छर नहीं पाया जाता?",
             "options": {
                 "A": "फ्रांस",
                 "B": "आइसलैंड",
@@ -24,34 +34,24 @@
             "correctAnswer": "B"
         },
         {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "question": "वह एकमात्र फल कौन सा है जिसके बीज उसके बाहर की तरफ होते हैं?",
             "options": {
-                "A": "गुंजन पक्षी",
-                "B": "कोयल",
-                "C": "गौरैया",
-                "D": "तोता"
+                "A": "स्ट्रॉबेरी",
+                "B": "सेब",
+                "C": "केला",
+                "D": "अनार"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "कौन सा जीव लगातार तीन साल तक सो सकता है?",
+            "question": "एक नवजात शिशु के शरीर में कुल कितनी हड्डियाँ होती हैं?",
             "options": {
-                "A": "कछुआ",
-                "B": "घोंघा",
-                "C": "मगरमच्छ",
-                "D": "भालू"
+                "A": "दो सौ छह",
+                "B": "तीन सौ",
+                "C": "ढाई सौ",
+                "D": "एक सौ अस्सी"
             },
             "correctAnswer": "B"
-        },
-        {
-            "question": "कौन सा सांप अपना घोंसला बनाता है?",
-            "options": {
-                "A": "नागराज",
-                "B": "अजगर",
-                "C": "करैत",
-                "D": "धामन"
-            },
-            "correctAnswer": "A"
         }
     ]
 }
