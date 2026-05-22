@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% of People Fail This Simple Test! 🧠",
-    "description": "Think you are smart? Prove it in just 5 seconds per question! Comment your final score below 👇\n#quiz #gk #shorts #trending",
+    "title": "97% Of People Fail This Simple Test! 🧠",
+    "description": "Can you get 5/5 in this tricky quiz? You only have 5 seconds per question! Comment your score below 👇 #quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
             "options": {
                 "A": "दरियाई घोड़ा",
-                "B": "ऊँट",
-                "C": "जिराफ़",
-                "D": "भेड़"
+                "B": "ऊंट",
+                "C": "जिराफ",
+                "D": "याक"
             },
             "correctAnswer": "A"
+        },
+        {
+            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "options": {
+                "A": "फ्रांस",
+                "B": "आइसलैंड",
+                "C": "जापान",
+                "D": "कनाडा"
+            },
+            "correctAnswer": "B"
         },
         {
             "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
             "options": {
-                "A": "कोयल",
-                "B": "गुंजन पक्षी",
+                "A": "गुंजन पक्षी",
+                "B": "कोयल",
                 "C": "गौरैया",
                 "D": "तोता"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस जीव का खून नीले रंग का होता है?",
-            "options": {
-                "A": "केकड़ा",
-                "B": "अष्टबाहु",
-                "C": "केंचुआ",
-                "D": "छिपकली"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "दुनिया के किस देश में एक भी पेड़ नहीं है?",
-            "options": {
-                "A": "कतर",
-                "B": "मिस्र",
-                "C": "सऊदी अरब",
-                "D": "सूडान"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक नहीं बढ़ता?",
+            "question": "कौन सा जीव लगातार तीन साल तक सो सकता है?",
             "options": {
-                "A": "कान",
-                "B": "नाक",
-                "C": "आँख",
-                "D": "दाँत"
+                "A": "कछुआ",
+                "B": "घोंघा",
+                "C": "मगरमच्छ",
+                "D": "भालू"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा सांप अपना घोंसला बनाता है?",
+            "options": {
+                "A": "नागराज",
+                "B": "अजगर",
+                "C": "करैत",
+                "D": "धामन"
+            },
+            "correctAnswer": "A"
         }
     ]
 }
