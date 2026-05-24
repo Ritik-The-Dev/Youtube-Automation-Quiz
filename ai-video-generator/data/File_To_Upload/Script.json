@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
     "title": "Only 1% Can Score 5/5 On This 🧠",
-    "description": "Test your brain in 5 seconds per question! ⏳ Comment your score below and challenge your friends. 👇 #quiz #gk #shorts",
+    "description": "Challenge your brain with these tricky questions! You only have 5 seconds for each. Comment your final score below! 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "कोयल",
-                "B": "गुंजन पक्षी",
-                "C": "गौरैया",
-                "D": "कबूतर"
+                "A": "ऊंट",
+                "B": "दरियाई घोड़ा",
+                "C": "हिरण",
+                "D": "बकरी"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस जीव के पास तीन दिल होते हैं?",
+            "question": "विश्व का ऐसा कौन सा देश है जहां एक भी पेड़ नहीं है?",
             "options": {
-                "A": "ऑक्टोपस",
-                "B": "केंचुआ",
-                "C": "शार्क",
-                "D": "ब्लू व्हेल"
+                "A": "कतर",
+                "B": "मिस्र",
+                "C": "सऊदी अरब",
+                "D": "ओमान"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "दुनिया के किस देश में एक भी पेड़ नहीं है?",
+            "question": "किस जीव का दिल उसके सिर में होता है?",
             "options": {
-                "A": "मिस्र",
-                "B": "सऊदी अरब",
-                "C": "कतर",
-                "D": "लीबिया"
+                "A": "केंचुआ",
+                "B": "घोंघा",
+                "C": "झींगा",
+                "D": "केकड़ा"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "किस जानवर के पसीने का रंग गुलाबी होता है?",
+            "question": "मानव शरीर का कौन सा अंग कटने के बाद भी दोबारा बढ़ सकता है?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "कंगारू",
-                "C": "जिराफ़",
-                "D": "भालू"
+                "A": "फेफड़ा",
+                "B": "हृदय",
+                "C": "गुर्दा",
+                "D": "यकृत"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "किस देश की तीन राजधानियां हैं?",
+            "options": {
+                "A": "दक्षिण अफ्रीका",
+                "B": "श्रीलंका",
+                "C": "नीदरलैंड",
+                "D": "बोलिविया"
             },
             "correctAnswer": "A"
-        },
-        {
-            "question": "कौन सा सांप अपना घोंसला खुद बनाता है?",
-            "options": {
-                "A": "करैत",
-                "B": "अजगर",
-                "C": "नागराज",
-                "D": "रसेल वाइपर"
-            },
-            "correctAnswer": "C"
         }
     ]
 }
