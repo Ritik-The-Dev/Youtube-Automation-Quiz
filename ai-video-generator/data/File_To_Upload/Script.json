@@ -1,15 +1,15 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 🧠",
-    "description": "Test your brain power in just 5 seconds! ⏳ Comment your final score below and challenge your friends. 👇 #quiz #gk #shorts",
+    "title": "Only 1% Can Score 5/5 On This Tricky Quiz! 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your score below 👇 #quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "ऐसा कौन सा जीव है जो कभी नहीं सोता?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊंट",
-                "C": "जिराफ",
-                "D": "बकरी"
+                "A": "चींटी",
+                "B": "सांप",
+                "C": "मेंढक",
+                "D": "मछली"
             },
             "correctAnswer": "A"
         },
@@ -24,34 +24,34 @@
             "correctAnswer": "B"
         },
         {
+            "question": "एक नवजात शिशु के शरीर में कुल कितनी हड्डियां होती हैं?",
+            "options": {
+                "A": "दो सौ छह",
+                "B": "तीन सौ",
+                "C": "दो सौ पचास",
+                "D": "एक सौ पचास"
+            },
+            "correctAnswer": "B"
+        },
+        {
             "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
             "options": {
                 "A": "कोयल",
                 "B": "तोता",
-                "C": "हमिंगबर्ड",
+                "C": "गुंजन पक्षी",
                 "D": "कबूतर"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "किस जीव के पास तीन दिल होते हैं?",
+            "question": "दरियाई घोड़े के पसीने का रंग कैसा होता है?",
             "options": {
-                "A": "ऑक्टोपस",
-                "B": "शार्क",
-                "C": "कछुआ",
-                "D": "केंचुआ"
+                "A": "लाल",
+                "B": "गुलाबी",
+                "C": "नीला",
+                "D": "पीला"
             },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "कौन सा सांप अपना घोंसला बनाता है?",
-            "options": {
-                "A": "अजगर",
-                "B": "रसेल वाइपर",
-                "C": "किंग कोबरा",
-                "D": "करत"
-            },
-            "correctAnswer": "C"
+            "correctAnswer": "B"
         }
     ]
 }
