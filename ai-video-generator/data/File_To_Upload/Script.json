@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 🧠",
-    "description": "Think you are smart? Prove it in 5 seconds per question! Comment your score below 👇\n#quiz #gk #shorts",
+    "title": "97% of People Fail This Tricky Quiz! 🧠",
+    "description": "Can you answer all 5 questions in just 5 seconds each? Comment your final score below! 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जीव का दिल उसके सिर में होता है?",
-            "options": {
-                "A": "केकड़ा",
-                "B": "झींगा",
-                "C": "कछुआ",
-                "D": "मेंढक"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "दुनिया के किस देश में एक भी नदी नहीं है?",
-            "options": {
-                "A": "भारत",
-                "B": "सऊदी अरब",
-                "C": "चीन",
-                "D": "जापान"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
             "options": {
                 "A": "दरियाई घोड़ा",
-                "B": "शेरनी",
-                "C": "बकरी",
-                "D": "गाय"
+                "B": "ऊंट",
+                "C": "जिराफ",
+                "D": "याक"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस जीव की आँखें उसके दिमाग से बड़ी होती हैं?",
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
             "options": {
-                "A": "उल्लू",
-                "B": "शुतुरमुर्ग",
-                "C": "चील",
-                "D": "तोता"
+                "A": "कोयल",
+                "B": "गुंजन पक्षी",
+                "C": "तोता",
+                "D": "बाज"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "एक नवजात शिशु के शरीर में कुल कितनी हड्डियां होती हैं?",
+            "question": "किस देश में एक भी नदी नहीं है?",
             "options": {
-                "A": "दो सौ छह",
-                "B": "तीन सौ",
-                "C": "एक सौ अस्सी",
-                "D": "चार सौ"
+                "A": "सऊदी अरब",
+                "B": "नेपाल",
+                "C": "सिंगापुर",
+                "D": "ईरान"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक नहीं बढ़ता है?",
+            "options": {
+                "A": "कान",
+                "B": "नाक",
+                "C": "आंख",
+                "D": "दांत"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "किस जीव के पास तीन दिल होते हैं?",
+            "options": {
+                "A": "शार्क",
+                "B": "ऑक्टोपस",
+                "C": "केंचुआ",
+                "D": "व्हेल"
             },
             "correctAnswer": "B"
         }
