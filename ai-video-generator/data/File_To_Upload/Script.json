@@ -1,50 +1,10 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% of People Fail This Tricky Quiz! 🧠",
-    "description": "Can you answer all 5 questions in just 5 seconds each? Comment your final score below! 👇\n#quiz #gk #shorts #trending",
+    "title": "Only 1% Can Get 5/5 On This Tricky Quiz! 🧠",
+    "description": "Test your brain power in just 5 seconds per question! ⏳ Comment your final score below and challenge your friends. 👇 #quiz #gk #shorts #viral",
     "questions": [
         {
-            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
-            "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊंट",
-                "C": "जिराफ",
-                "D": "याक"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
-            "options": {
-                "A": "कोयल",
-                "B": "गुंजन पक्षी",
-                "C": "तोता",
-                "D": "बाज"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस देश में एक भी नदी नहीं है?",
-            "options": {
-                "A": "सऊदी अरब",
-                "B": "नेपाल",
-                "C": "सिंगापुर",
-                "D": "ईरान"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक नहीं बढ़ता है?",
-            "options": {
-                "A": "कान",
-                "B": "नाक",
-                "C": "आंख",
-                "D": "दांत"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "किस जीव के पास तीन दिल होते हैं?",
+            "question": "किस जीव का खून नीला होता है?",
             "options": {
                 "A": "शार्क",
                 "B": "ऑक्टोपस",
@@ -52,6 +12,46 @@
                 "D": "व्हेल"
             },
             "correctAnswer": "B"
+        },
+        {
+            "question": "किस देश में एक भी पेड़ नहीं है?",
+            "options": {
+                "A": "सऊदी अरब",
+                "B": "कतर",
+                "C": "मिस्र",
+                "D": "सूडान"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा जीव कभी नहीं सोता है?",
+            "options": {
+                "A": "चींटी",
+                "B": "चमगादड़",
+                "C": "उल्लू",
+                "D": "गिलहरी"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "किस फल के बीज उसके बाहर होते हैं?",
+            "options": {
+                "A": "कीवी",
+                "B": "स्ट्रॉबेरी",
+                "C": "शहतूत",
+                "D": "अनानास"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "दुनिया में सबसे ज्यादा द्वीप किस देश में हैं?",
+            "options": {
+                "A": "इंडोनेशिया",
+                "B": "मालदीव",
+                "C": "स्वीडन",
+                "D": "जापान"
+            },
+            "correctAnswer": "C"
         }
     ]
 }
