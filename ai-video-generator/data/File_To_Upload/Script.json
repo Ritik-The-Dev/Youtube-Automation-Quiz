@@ -1,20 +1,20 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% of People Fail This Simple Test! 🧠",
-    "description": "Think you are smart? Prove it in just 5 seconds per question! Comment your final score below 👇 #quiz #gk #shorts",
+    "title": "Only 1% Can Score 5/5 On This 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds per question! Comment your final score below 👇 #quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस जीव की आंखें उसके दिमाग से बड़ी होती हैं?",
+            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
             "options": {
-                "A": "शुतुरमुर्ग",
-                "B": "उल्लू",
-                "C": "बाज",
-                "D": "चमगादड़"
+                "A": "दरियाई घोड़ा",
+                "B": "ऊंट",
+                "C": "जिराफ",
+                "D": "याक"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
                 "A": "फ्रांस",
                 "B": "आइसलैंड",
@@ -24,34 +24,34 @@
             "correctAnswer": "B"
         },
         {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
             "options": {
-                "A": "ऊंट",
-                "B": "जिराफ",
-                "C": "दरियाई घोड़ा",
-                "D": "याक"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "ऑक्टोपस के पास कुल कितने दिल होते हैं?",
-            "options": {
-                "A": "एक",
-                "B": "दो",
-                "C": "तीन",
-                "D": "नौ"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "किस फल के बीज उसके बाहर की तरफ होते हैं?",
-            "options": {
-                "A": "स्ट्रॉबेरी",
-                "B": "कीवी",
-                "C": "अनार",
-                "D": "सेब"
+                "A": "हमिंगबर्ड",
+                "B": "कोयल",
+                "C": "तोता",
+                "D": "कबूतर"
             },
             "correctAnswer": "A"
+        },
+        {
+            "question": "किस जीव के पास तीन दिल होते हैं?",
+            "options": {
+                "A": "शार्क",
+                "B": "ऑक्टोपस",
+                "C": "कछुआ",
+                "D": "डॉल्फिन"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा सांप अपना घोंसला बनाता है?",
+            "options": {
+                "A": "कोबरा",
+                "B": "किंग कोबरा",
+                "C": "अजगर",
+                "D": "करैत"
+            },
+            "correctAnswer": "B"
         }
     ]
 }
