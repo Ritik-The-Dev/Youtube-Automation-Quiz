@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 🧠",
-    "description": "Challenge your brain with these tricky questions! You only have 5 seconds for each. Comment your final score below 👇\n#quiz #gk #shorts #trending",
+    "title": "Only 1% Can Answer All 5 Questions! 🤯",
+    "description": "Test your brain in 5 seconds per question ⏳\nComment your score below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस पक्षी को पीछे की ओर उड़ने की अनोखी क्षमता के लिए जाना जाता है?",
+            "question": "भारत के किस राज्य में सबसे पहले सूर्योदय होता है?",
             "options": {
-                "A": "कोयल",
-                "B": "गुंजन पक्षी",
-                "C": "गौरैया",
-                "D": "कबूतर"
+                "A": "असम",
+                "B": "अरुणाचल प्रदेश",
+                "C": "सिक्किम",
+                "D": "नागालैंड"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "इनमें से कौन सा जीव अपने पूरे जीवनकाल में कभी नहीं सोता है?",
+            "question": "किस जानवर की आवाज नहीं होती है?",
             "options": {
-                "A": "चींटी",
-                "B": "मेंढक",
-                "C": "तितली",
-                "D": "सांप"
+                "A": "जिराफ",
+                "B": "कंगारू",
+                "C": "ऊंट",
+                "D": "हाथी"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस फल के बीज उसके फल के बाहर की तरफ होते हैं?",
+            "question": "मसालों का राजा किसे कहा जाता है?",
             "options": {
-                "A": "सेब",
-                "B": "केला",
-                "C": "स्ट्रॉबेरी",
-                "D": "अमरूद"
+                "A": "हरी मिर्च",
+                "B": "काली मिर्च",
+                "C": "इलायची",
+                "D": "लाल मिर्च"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा सांप अपना घोंसला बनाता है?",
+            "options": {
+                "A": "कोबरा",
+                "B": "अजगर",
+                "C": "किंग कोबरा",
+                "D": "करैत"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "हमारे सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
+            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक नहीं बढ़ता है?",
             "options": {
-                "A": "बुध",
-                "B": "शुक्र",
-                "C": "मंगल",
-                "D": "बृहस्पति"
+                "A": "कान",
+                "B": "नाक",
+                "C": "आंख",
+                "D": "दांत"
             },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "मानव शरीर का कौन सा अंग खुद को पूरी तरह से दोबारा विकसित कर सकता है?",
-            "options": {
-                "A": "फेफड़ा",
-                "B": "यकृत",
-                "C": "हृदय",
-                "D": "मस्तिष्क"
-            },
-            "correctAnswer": "B"
+            "correctAnswer": "C"
         }
     ]
 }
