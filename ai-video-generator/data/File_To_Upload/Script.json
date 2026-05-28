@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% of People Get Question 3 Wrong! 🧠",
-    "description": "Think you're a genius? Prove it in 5 seconds per question! ⏳ Comment your score below 👇 #quiz #gk #shorts #viral",
+    "title": "Only 1% Can Score 5/5 On This 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds per question! Comment your final score below 👇\n#quiz #gk #shorts #trending",
     "questions": [
+        {
+            "question": "किस जीव का दिल उसके सिर में होता है?",
+            "options": {
+                "A": "केकड़ा",
+                "B": "झींगा",
+                "C": "कछुआ",
+                "D": "मेंढक"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस देश में एक भी नदी नहीं है?",
+            "options": {
+                "A": "सऊदी अरब",
+                "B": "कुवैत",
+                "C": "कतर",
+                "D": "ओमान"
+            },
+            "correctAnswer": "A"
+        },
         {
             "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
                 "A": "दरियाई घोड़ा",
                 "B": "ऊंट",
-                "C": "जिराफ",
-                "D": "याक"
+                "C": "बकरी",
+                "D": "भेड़"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस देश में एक भी नदी नहीं है?",
+            "question": "किस देश में रात केवल चालीस मिनट की होती है?",
             "options": {
-                "A": "ओमान",
-                "B": "सऊदी अरब",
-                "C": "कुवैत",
-                "D": "कतर"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "भारत की राष्ट्रीय सब्जी कौन सी है?",
-            "options": {
-                "A": "आलू",
-                "B": "कद्दू",
-                "C": "टमाटर",
-                "D": "गोभी"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
-            "options": {
-                "A": "हमिंगबर्ड",
-                "B": "कोयल",
-                "C": "तोता",
-                "D": "कबूतर"
+                "A": "नॉर्वे",
+                "B": "कनाडा",
+                "C": "जापान",
+                "D": "रूस"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "कौन सा जीव जीवनभर बिना पानी पिए जीवित रह सकता है?",
+            "question": "कौन सा जीव एक ही समय में दो अलग-अलग दिशाओं में देख सकता है?",
             "options": {
-                "A": "कंगारू चूहा",
-                "B": "ऊंट",
-                "C": "बिच्छू",
-                "D": "छिपकली"
+                "A": "गिरगिट",
+                "B": "उल्लू",
+                "C": "सांप",
+                "D": "बंदर"
             },
             "correctAnswer": "A"
         }
