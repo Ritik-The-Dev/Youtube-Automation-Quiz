@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 🧠",
-    "description": "Think you are smart? Prove it in 5 seconds per question! Comment your final score below 👇\n#quiz #gk #shorts #trending",
+    "title": "Only 1% Can Answer All 5 Correctly! 🧠",
+    "description": "Challenge your brain with these tricky questions! You only have 5 seconds for each. Comment your final score below! 👇 #quiz #gk #shorts #trending",
     "questions": [
-        {
-            "question": "किस जीव का दिल उसके सिर में होता है?",
-            "options": {
-                "A": "केकड़ा",
-                "B": "झींगा",
-                "C": "कछुआ",
-                "D": "मेंढक"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस देश में एक भी नदी नहीं है?",
-            "options": {
-                "A": "सऊदी अरब",
-                "B": "कुवैत",
-                "C": "कतर",
-                "D": "ओमान"
-            },
-            "correctAnswer": "A"
-        },
         {
             "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
                 "A": "दरियाई घोड़ा",
-                "B": "ऊंट",
-                "C": "बकरी",
-                "D": "भेड़"
+                "B": "जिराफ़",
+                "C": "ऊँट",
+                "D": "कंगारू"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस देश में रात केवल चालीस मिनट की होती है?",
+            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "नॉर्वे",
-                "B": "कनाडा",
+                "A": "फ्रांस",
+                "B": "आइसलैंड",
                 "C": "जापान",
-                "D": "रूस"
+                "D": "कनाडा"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "options": {
+                "A": "हमिंगबर्ड",
+                "B": "कोयल",
+                "C": "तोता",
+                "D": "कबूतर"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "कौन सा जीव एक ही समय में दो अलग-अलग दिशाओं में देख सकता है?",
+            "question": "मनुष्य के शरीर का कौन सा अंग जन्म से मृत्यु तक नहीं बढ़ता है?",
             "options": {
-                "A": "गिरगिट",
-                "B": "उल्लू",
-                "C": "सांप",
-                "D": "बंदर"
+                "A": "कान",
+                "B": "नाक",
+                "C": "आँख",
+                "D": "दाँत"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "कौन सा जीव अपने पूरे जीवन में कभी पानी नहीं पीता है?",
+            "options": {
+                "A": "कंगारू चूहा",
+                "B": "ऊँट",
+                "C": "छिपकली",
+                "D": "चूहा"
             },
             "correctAnswer": "A"
         }
