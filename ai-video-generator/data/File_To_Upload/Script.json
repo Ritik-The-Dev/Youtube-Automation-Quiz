@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Answer All 5 Questions! 🤯",
-    "description": "Test your brain in 5 seconds per question ⏳\nComment your score below 👇\n#quiz #gk #shorts",
+    "title": "97% of People Get Question 3 Wrong! 🧠",
+    "description": "Think you're a genius? Prove it in 5 seconds per question! ⏳ Comment your score below 👇 #quiz #gk #shorts #viral",
     "questions": [
         {
-            "question": "भारत के किस राज्य में सबसे पहले सूर्योदय होता है?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "असम",
-                "B": "अरुणाचल प्रदेश",
-                "C": "सिक्किम",
-                "D": "नागालैंड"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस जानवर की आवाज नहीं होती है?",
-            "options": {
-                "A": "जिराफ",
-                "B": "कंगारू",
-                "C": "ऊंट",
-                "D": "हाथी"
+                "A": "दरियाई घोड़ा",
+                "B": "ऊंट",
+                "C": "जिराफ",
+                "D": "याक"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "मसालों का राजा किसे कहा जाता है?",
+            "question": "किस देश में एक भी नदी नहीं है?",
             "options": {
-                "A": "हरी मिर्च",
-                "B": "काली मिर्च",
-                "C": "इलायची",
-                "D": "लाल मिर्च"
+                "A": "ओमान",
+                "B": "सऊदी अरब",
+                "C": "कुवैत",
+                "D": "कतर"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "कौन सा सांप अपना घोंसला बनाता है?",
+            "question": "भारत की राष्ट्रीय सब्जी कौन सी है?",
             "options": {
-                "A": "कोबरा",
-                "B": "अजगर",
-                "C": "किंग कोबरा",
-                "D": "करैत"
+                "A": "आलू",
+                "B": "कद्दू",
+                "C": "टमाटर",
+                "D": "गोभी"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "B"
         },
         {
-            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक नहीं बढ़ता है?",
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
             "options": {
-                "A": "कान",
-                "B": "नाक",
-                "C": "आंख",
-                "D": "दांत"
+                "A": "हमिंगबर्ड",
+                "B": "कोयल",
+                "C": "तोता",
+                "D": "कबूतर"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "A"
+        },
+        {
+            "question": "कौन सा जीव जीवनभर बिना पानी पिए जीवित रह सकता है?",
+            "options": {
+                "A": "कंगारू चूहा",
+                "B": "ऊंट",
+                "C": "बिच्छू",
+                "D": "छिपकली"
+            },
+            "correctAnswer": "A"
         }
     ]
 }
