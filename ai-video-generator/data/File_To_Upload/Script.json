@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Answer All 5 Correctly! 🧠",
-    "description": "Challenge your brain with these tricky questions! You only have 5 seconds for each. Comment your final score below! 👇 #quiz #gk #shorts #trending",
+    "title": "97% of People Fail This Simple Test! 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your score below 👇 #quiz #gk #shorts #viral",
     "questions": [
         {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "किस जीव की जीभ उसके शरीर से दोगुनी लंबी होती है?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "जिराफ़",
-                "C": "ऊँट",
-                "D": "कंगारू"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
-            "options": {
-                "A": "फ्रांस",
-                "B": "आइसलैंड",
-                "C": "जापान",
-                "D": "कनाडा"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
-            "options": {
-                "A": "हमिंगबर्ड",
-                "B": "कोयल",
-                "C": "तोता",
-                "D": "कबूतर"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "मनुष्य के शरीर का कौन सा अंग जन्म से मृत्यु तक नहीं बढ़ता है?",
-            "options": {
-                "A": "कान",
-                "B": "नाक",
-                "C": "आँख",
-                "D": "दाँत"
+                "A": "छिपकली",
+                "B": "मेंढक",
+                "C": "गिरगिट",
+                "D": "सांप"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "कौन सा जीव अपने पूरे जीवन में कभी पानी नहीं पीता है?",
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
             "options": {
-                "A": "कंगारू चूहा",
-                "B": "ऊँट",
-                "C": "छिपकली",
-                "D": "चूहा"
+                "A": "कोयल",
+                "B": "गुंजन पक्षी",
+                "C": "बाज",
+                "D": "चमगादड़"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "दुनिया के किस देश में एक भी पेड़ नहीं है?",
+            "options": {
+                "A": "कतर",
+                "B": "मिस्र",
+                "C": "सऊदी अरब",
+                "D": "ओमान"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "किस जानवर का पसीना गुलाबी रंग का होता है?",
+            "options": {
+                "A": "दरियाई घोड़ा",
+                "B": "भालू",
+                "C": "हिरण",
+                "D": "हाथी"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "कौन सा जीव छह दिनों तक अपनी सांस रोक सकता है?",
+            "options": {
+                "A": "बिच्छू",
+                "B": "मगरमच्छ",
+                "C": "कछुआ",
+                "D": "मेंढक"
             },
             "correctAnswer": "A"
         }
