@@ -1,25 +1,25 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% of People Fail This Simple Test! 🧠",
-    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your score below 👇 #quiz #gk #shorts #viral",
+    "title": "Only 1% Can Score 5/5 On This Tricky Quiz! 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your score below 👇 #quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जीव की जीभ उसके शरीर से दोगुनी लंबी होती है?",
+            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
             "options": {
-                "A": "छिपकली",
-                "B": "मेंढक",
-                "C": "गिरगिट",
-                "D": "सांप"
+                "A": "दरियाई घोड़ा",
+                "B": "ऊंट",
+                "C": "जिराफ",
+                "D": "कंगारू"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "A"
         },
         {
             "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
             "options": {
                 "A": "कोयल",
                 "B": "गुंजन पक्षी",
-                "C": "बाज",
-                "D": "चमगादड़"
+                "C": "गौरैया",
+                "D": "कबूतर"
             },
             "correctAnswer": "B"
         },
@@ -29,26 +29,26 @@
                 "A": "कतर",
                 "B": "मिस्र",
                 "C": "सऊदी अरब",
-                "D": "ओमान"
+                "D": "लीबिया"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस जानवर का पसीना गुलाबी रंग का होता है?",
+            "question": "ऑक्टोपस के पास कुल कितने दिल होते हैं?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "भालू",
-                "C": "हिरण",
-                "D": "हाथी"
+                "A": "एक",
+                "B": "दो",
+                "C": "तीन",
+                "D": "चार"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "C"
         },
         {
-            "question": "कौन सा जीव छह दिनों तक अपनी सांस रोक सकता है?",
+            "question": "ऐसा कौन सा जीव है जो कभी नहीं सोता है?",
             "options": {
-                "A": "बिच्छू",
-                "B": "मगरमच्छ",
-                "C": "कछुआ",
+                "A": "चींटी",
+                "B": "तितली",
+                "C": "मकड़ी",
                 "D": "मेंढक"
             },
             "correctAnswer": "A"
