@@ -1,7 +1,7 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This Tricky Quiz! 🧠",
-    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your score below 👇 #quiz #gk #shorts #trending",
+    "title": "Only 1% Can Score 5/5 On This 🧠",
+    "description": "Test your brain power in just 5 seconds per question! ⏳ Comment your final score below and challenge your friends. 👇 #quiz #gk #shorts",
     "questions": [
         {
             "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
@@ -14,44 +14,44 @@
             "correctAnswer": "A"
         },
         {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक कभी नहीं बढ़ता?",
             "options": {
-                "A": "कोयल",
-                "B": "गुंजन पक्षी",
-                "C": "गौरैया",
-                "D": "कबूतर"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "दुनिया के किस देश में एक भी पेड़ नहीं है?",
-            "options": {
-                "A": "कतर",
-                "B": "मिस्र",
-                "C": "सऊदी अरब",
-                "D": "लीबिया"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "ऑक्टोपस के पास कुल कितने दिल होते हैं?",
-            "options": {
-                "A": "एक",
-                "B": "दो",
-                "C": "तीन",
-                "D": "चार"
+                "A": "कान",
+                "B": "नाक",
+                "C": "आँख",
+                "D": "दाँत"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "ऐसा कौन सा जीव है जो कभी नहीं सोता है?",
+            "question": "भारत के किस राज्य में रावण की पूजा की जाती है?",
             "options": {
-                "A": "चींटी",
-                "B": "तितली",
-                "C": "मकड़ी",
-                "D": "मेंढक"
+                "A": "मध्य प्रदेश",
+                "B": "राजस्थान",
+                "C": "उत्तर प्रदेश",
+                "D": "गुजरात"
             },
             "correctAnswer": "A"
+        },
+        {
+            "question": "किस देश में एक भी नदी नहीं बहती है?",
+            "options": {
+                "A": "सऊदी अरब",
+                "B": "मिस्र",
+                "C": "कुवैत",
+                "D": "ओमान"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "कौन सा जीव लगातार तीन साल तक सो सकता है?",
+            "options": {
+                "A": "कछुआ",
+                "B": "घोंघा",
+                "C": "मगरमच्छ",
+                "D": "भालू"
+            },
+            "correctAnswer": "B"
         }
     ]
 }
