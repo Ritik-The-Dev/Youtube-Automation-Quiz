@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "93% Of People Fail This Simple Test 🧠",
-    "description": "Think you are smart? Prove it in 5 seconds per question! Comment your score below 👇 #quiz #gk #shorts #trending",
+    "title": "Only 1% Can Score 5/5 On This 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your final score below 👇 #quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊंट",
-                "C": "जिराफ",
-                "D": "याक"
+                "A": "हमिंगबर्ड",
+                "B": "गौरैया",
+                "C": "कबूतर",
+                "D": "कोयल"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस देश में एक भी नदी नहीं बहती है?",
+            "question": "किस देश में एक भी पेड़ नहीं है?",
             "options": {
-                "A": "सऊदी अरब",
-                "B": "सिंगापुर",
-                "C": "नेपाल",
+                "A": "कतर",
+                "B": "मिस्र",
+                "C": "सऊदी अरब",
                 "D": "ओमान"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "question": "किस जीव के पास तीन दिल होते हैं?",
             "options": {
-                "A": "हमिंगबर्ड",
-                "B": "कोयल",
-                "C": "तोता",
-                "D": "कबूतर"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "मानव शरीर के किस हिस्से में रक्त की आपूर्ति नहीं होती है?",
-            "options": {
-                "A": "कॉर्निया",
-                "B": "नाखून",
-                "C": "त्वचा",
-                "D": "बाल"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "किस समुद्री जीव के पास तीन दिल होते हैं?",
-            "options": {
-                "A": "ऑक्टोपस",
-                "B": "शार्क",
-                "C": "कछुआ",
+                "A": "शार्क",
+                "B": "ऑक्टोपस",
+                "C": "केंचुआ",
                 "D": "व्हेल"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा सांप अपना घोंसला बनाता है?",
+            "options": {
+                "A": "कोबरा",
+                "B": "रसेल वाइपर",
+                "C": "किंग कोबरा",
+                "D": "अजगर"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "मानव शरीर का कौन सा अंग खुद को दोबारा पूरी तरह ठीक कर सकता है?",
+            "options": {
+                "A": "फेफड़ा",
+                "B": "दिमाग",
+                "C": "यकृत",
+                "D": "गुर्दा"
+            },
+            "correctAnswer": "C"
         }
     ]
 }
