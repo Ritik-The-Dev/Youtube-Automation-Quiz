@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 🧠",
-    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your final score below 👇 #quiz #gk #shorts #trending",
+    "title": "97% of People Fail This Tricky Quiz! 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your score below 👇 #quiz #gk #shorts #viral",
     "questions": [
+        {
+            "question": "किस जीव का खून नीले रंग का होता है?",
+            "options": {
+                "A": "ऑक्टोपस",
+                "B": "केंचुआ",
+                "C": "शार्क",
+                "D": "मगरमच्छ"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "दुनिया के किस देश में एक भी पेड़ नहीं है?",
+            "options": {
+                "A": "कतर",
+                "B": "सऊदी अरब",
+                "C": "मिस्र",
+                "D": "सूडान"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "options": {
+                "A": "दरियाई घोड़ा",
+                "B": "ऊंट",
+                "C": "जिराफ",
+                "D": "बकरी"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक कभी नहीं बढ़ता?",
+            "options": {
+                "A": "आँख",
+                "B": "कान",
+                "C": "नाक",
+                "D": "दाँत"
+            },
+            "correctAnswer": "A"
+        },
         {
             "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
             "options": {
                 "A": "हमिंगबर्ड",
-                "B": "गौरैया",
+                "B": "कोयल",
                 "C": "कबूतर",
-                "D": "कोयल"
+                "D": "बाज"
             },
             "correctAnswer": "A"
-        },
-        {
-            "question": "किस देश में एक भी पेड़ नहीं है?",
-            "options": {
-                "A": "कतर",
-                "B": "मिस्र",
-                "C": "सऊदी अरब",
-                "D": "ओमान"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "किस जीव के पास तीन दिल होते हैं?",
-            "options": {
-                "A": "शार्क",
-                "B": "ऑक्टोपस",
-                "C": "केंचुआ",
-                "D": "व्हेल"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "कौन सा सांप अपना घोंसला बनाता है?",
-            "options": {
-                "A": "कोबरा",
-                "B": "रसेल वाइपर",
-                "C": "किंग कोबरा",
-                "D": "अजगर"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "मानव शरीर का कौन सा अंग खुद को दोबारा पूरी तरह ठीक कर सकता है?",
-            "options": {
-                "A": "फेफड़ा",
-                "B": "दिमाग",
-                "C": "यकृत",
-                "D": "गुर्दा"
-            },
-            "correctAnswer": "C"
         }
     ]
 }
