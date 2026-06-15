@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 🧠",
-    "description": "Challenge your brain with these tricky questions! You only have 5 seconds for each. Comment your final score below! 👇\n#quiz #gk #shorts #trending",
+    "title": "Only 1% Can Pass This Tricky Quiz! 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your final score below 👇 #quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊँट",
-                "C": "जिराफ़",
-                "D": "बकरी"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
-            "options": {
-                "A": "फ़्रांस",
-                "B": "आइसलैंड",
-                "C": "जापान",
-                "D": "कनाडा"
+                "A": "कबूतर",
+                "B": "हमिंगबर्ड",
+                "C": "गौरैया",
+                "D": "कोयल"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "question": "किस जीव के पास तीन दिल होते हैं?",
             "options": {
-                "A": "गुंजन पक्षी",
-                "B": "कोयल",
-                "C": "तोता",
-                "D": "कबूतर"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "मानव शरीर का कौन सा अंग जन्म से लेकर मृत्यु तक कभी नहीं बढ़ता?",
-            "options": {
-                "A": "कान",
-                "B": "नाक",
-                "C": "आँख",
-                "D": "दाँत"
+                "A": "शार्क",
+                "B": "केंचुआ",
+                "C": "ऑक्टोपस",
+                "D": "ब्लू व्हेल"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "ऑक्टोपस के शरीर में कुल कितने दिल होते हैं?",
+            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "एक",
-                "B": "दो",
-                "C": "तीन",
-                "D": "चार"
+                "A": "आइसलैंड",
+                "B": "फ्रांस",
+                "C": "जापान",
+                "D": "कनाडा"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "किस जानवर के पसीने का रंग गुलाबी होता है?",
+            "options": {
+                "A": "कंगारू",
+                "B": "दरियाई घोड़ा",
+                "C": "जिराफ़",
+                "D": "भालू"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा सांप अपना घोंसला खुद बनाता है?",
+            "options": {
+                "A": "अजगर",
+                "B": "करैत",
+                "C": "किंग कोबरा",
+                "D": "रसेल वाइपर"
             },
             "correctAnswer": "C"
         }
