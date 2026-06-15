@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Pass This Tricky Quiz! 🧠",
-    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your final score below 👇 #quiz #gk #shorts",
+    "title": "97% of People Fail This Simple Test 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds per question! Comment your final score below 👇 #quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
             "options": {
-                "A": "कबूतर",
-                "B": "हमिंगबर्ड",
-                "C": "गौरैया",
-                "D": "कोयल"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस जीव के पास तीन दिल होते हैं?",
-            "options": {
-                "A": "शार्क",
-                "B": "केंचुआ",
-                "C": "ऑक्टोपस",
-                "D": "ब्लू व्हेल"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता है?",
-            "options": {
-                "A": "आइसलैंड",
-                "B": "फ्रांस",
-                "C": "जापान",
-                "D": "कनाडा"
+                "A": "दरियाई घोड़ा",
+                "B": "ऊंट",
+                "C": "याक",
+                "D": "जिराफ"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस जानवर के पसीने का रंग गुलाबी होता है?",
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
             "options": {
-                "A": "कंगारू",
-                "B": "दरियाई घोड़ा",
-                "C": "जिराफ़",
-                "D": "भालू"
+                "A": "कोयल",
+                "B": "हमिंगबर्ड",
+                "C": "गौरैया",
+                "D": "तोता"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "कौन सा सांप अपना घोंसला खुद बनाता है?",
+            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "अजगर",
-                "B": "करैत",
-                "C": "किंग कोबरा",
-                "D": "रसेल वाइपर"
+                "A": "फ्रांस",
+                "B": "आइसलैंड",
+                "C": "जापान",
+                "D": "कनाडा"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक नहीं बढ़ता है?",
+            "options": {
+                "A": "कान",
+                "B": "नाक",
+                "C": "आंख",
+                "D": "दांत"
             },
             "correctAnswer": "C"
+        },
+        {
+            "question": "किस जीव के पास तीन दिल होते हैं?",
+            "options": {
+                "A": "ऑक्टोपस",
+                "B": "शार्क",
+                "C": "केंचुआ",
+                "D": "ह्वेल"
+            },
+            "correctAnswer": "A"
         }
     ]
 }
