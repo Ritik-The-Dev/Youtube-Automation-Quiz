@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% of People Fail This Simple Test 🧠",
-    "description": "Think you are smart? Prove it in 5 seconds per question! Comment your final score below 👇 #quiz #gk #shorts #trending",
+    "title": "Only 1% Can Score 5/5 On This 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your score below 👇 #quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
+            "question": "भारत के किस राज्य में सबसे पहले सूर्योदय होता है?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊंट",
-                "C": "याक",
-                "D": "जिराफ"
+                "A": "अरुणाचल प्रदेश",
+                "B": "असम",
+                "C": "गुजरात",
+                "D": "सिक्किम"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "कोयल",
-                "B": "हमिंगबर्ड",
-                "C": "गौरैया",
-                "D": "तोता"
+                "A": "ऊंट",
+                "B": "दरियाई घोड़ा",
+                "C": "जिराफ",
+                "D": "बंदर"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "question": "मनुष्य के शरीर का कौन सा अंग बिजली पैदा कर सकता है?",
             "options": {
-                "A": "फ्रांस",
-                "B": "आइसलैंड",
-                "C": "जापान",
-                "D": "कनाडा"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक नहीं बढ़ता है?",
-            "options": {
-                "A": "कान",
-                "B": "नाक",
-                "C": "आंख",
-                "D": "दांत"
+                "A": "दिल",
+                "B": "फेफड़े",
+                "C": "दिमाग",
+                "D": "किडनी"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "किस जीव के पास तीन दिल होते हैं?",
+            "question": "किस फल को पकने में दो साल का समय लगता है?",
             "options": {
-                "A": "ऑक्टोपस",
-                "B": "शार्क",
-                "C": "केंचुआ",
-                "D": "ह्वेल"
+                "A": "केला",
+                "B": "सेब",
+                "C": "कटहल",
+                "D": "अनानास"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "D"
+        },
+        {
+            "question": "मसालों की रानी किसे कहा जाता है?",
+            "options": {
+                "A": "काली मिर्च",
+                "B": "इलायची",
+                "C": "हल्दी",
+                "D": "दालचीनी"
+            },
+            "correctAnswer": "B"
         }
     ]
 }
