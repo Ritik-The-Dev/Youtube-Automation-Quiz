@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 🧠",
-    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your score below 👇 #quiz #gk #shorts",
+    "title": "97% Of People Fail This Simple Test! 🧠",
+    "description": "Think you are smart? Prove it in just 5 seconds per question! Comment your final score below 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "भारत के किस राज्य में सबसे पहले सूर्योदय होता है?",
+            "question": "कौन सा जीव कभी नहीं सोता है?",
             "options": {
-                "A": "अरुणाचल प्रदेश",
-                "B": "असम",
-                "C": "गुजरात",
-                "D": "सिक्किम"
+                "A": "चींटी",
+                "B": "सांप",
+                "C": "मछली",
+                "D": "चमगादड़"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "ऊंट",
-                "B": "दरियाई घोड़ा",
-                "C": "जिराफ",
-                "D": "बंदर"
+                "A": "फ्रांस",
+                "B": "आइसलैंड",
+                "C": "जापान",
+                "D": "कनाडा"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "मनुष्य के शरीर का कौन सा अंग बिजली पैदा कर सकता है?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "दिल",
-                "B": "फेफड़े",
-                "C": "दिमाग",
-                "D": "किडनी"
+                "A": "जिराफ",
+                "B": "ऊंट",
+                "C": "हिप्पो",
+                "D": "बकरी"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "किस फल को पकने में दो साल का समय लगता है?",
+            "question": "कौन सा एकमात्र पक्षी पीछे की ओर उड़ सकता है?",
             "options": {
-                "A": "केला",
-                "B": "सेब",
-                "C": "कटहल",
-                "D": "अनानास"
+                "A": "हमिंगबर्ड",
+                "B": "कोयल",
+                "C": "तोता",
+                "D": "कबूतर"
             },
-            "correctAnswer": "D"
+            "correctAnswer": "A"
         },
         {
-            "question": "मसालों की रानी किसे कहा जाता है?",
+            "question": "किस फल के बीज में जहर पाया जाता है?",
             "options": {
-                "A": "काली मिर्च",
-                "B": "इलायची",
-                "C": "हल्दी",
-                "D": "दालचीनी"
+                "A": "आम",
+                "B": "सेब",
+                "C": "पपीता",
+                "D": "अनार"
             },
             "correctAnswer": "B"
         }
