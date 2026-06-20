@@ -1,27 +1,47 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Get 5/5 Right! 🧠",
-    "description": "Test your brain in just 5 seconds per question! ⏳ Comment your final score below and challenge your friends. 👇 #quiz #gk #shorts #trending",
+    "title": "Only 1% Can Score 5/5 on This! 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your score below 👇 #quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
             "options": {
                 "A": "दरियाई घोड़ा",
-                "B": "जिराफ",
-                "C": "ऊंट",
-                "D": "कंगारू"
+                "B": "ऊंट",
+                "C": "जिराफ",
+                "D": "याक"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "question": "किस देश में एक भी पेड़ नहीं है?",
             "options": {
-                "A": "ग्रीनलैंड",
-                "B": "आइसलैंड",
-                "C": "जापान",
-                "D": "फ्रांस"
+                "A": "सऊदी अरब",
+                "B": "कतर",
+                "C": "मिस्र",
+                "D": "ओमान"
             },
             "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "options": {
+                "A": "हमिंगबर्ड",
+                "B": "कोयल",
+                "C": "गौरैया",
+                "D": "तोता"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक नहीं बढ़ता है?",
+            "options": {
+                "A": "कान",
+                "B": "नाक",
+                "C": "आंख",
+                "D": "दांत"
+            },
+            "correctAnswer": "C"
         },
         {
             "question": "किस जीव के पास तीन दिल होते हैं?",
@@ -29,27 +49,7 @@
                 "A": "शार्क",
                 "B": "ऑक्टोपस",
                 "C": "केंचुआ",
-                "D": "ब्लू व्हेल"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस फल के बीज उसके बाहर की तरफ होते हैं?",
-            "options": {
-                "A": "सेब",
-                "B": "स्ट्रॉबेरी",
-                "C": "पपीता",
-                "D": "अनार"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "कौन सा जानवर कभी कूद नहीं सकता?",
-            "options": {
-                "A": "जिराफ",
-                "B": "हाथी",
-                "C": "ऊंट",
-                "D": "गेंडा"
+                "D": "ह्वेल"
             },
             "correctAnswer": "B"
         }
