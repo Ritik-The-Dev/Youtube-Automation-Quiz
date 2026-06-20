@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% of People Fail This Tricky Quiz! 🧠",
-    "description": "Can you get a perfect score in just 5 seconds per question? ⏳ Comment your final score below! 👇 #quiz #gk #shorts #trending",
+    "title": "Only 1% Can Get 5/5 Right! 🧠",
+    "description": "Test your brain in just 5 seconds per question! ⏳ Comment your final score below and challenge your friends. 👇 #quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जीव के पास फेफड़े नहीं होते और वह कभी सोता नहीं है?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "चींटी",
-                "B": "मछली",
-                "C": "केंचुआ",
-                "D": "मेंढक"
+                "A": "दरियाई घोड़ा",
+                "B": "जिराफ",
+                "C": "ऊंट",
+                "D": "कंगारू"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "दुनिया का एकमात्र ऐसा देश कौन सा है जहां एक भी मच्छर नहीं पाया जाता?",
+            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "फ्रांस",
+                "A": "ग्रीनलैंड",
                 "B": "आइसलैंड",
                 "C": "जापान",
-                "D": "कनाडा"
+                "D": "फ्रांस"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस जीव के पास तीन दिल होते हैं?",
+            "options": {
+                "A": "शार्क",
+                "B": "ऑक्टोपस",
+                "C": "केंचुआ",
+                "D": "ब्लू व्हेल"
             },
             "correctAnswer": "B"
         },
         {
             "question": "किस फल के बीज उसके बाहर की तरफ होते हैं?",
             "options": {
-                "A": "कीवी",
+                "A": "सेब",
                 "B": "स्ट्रॉबेरी",
-                "C": "अनार",
-                "D": "पपीता"
+                "C": "पपीता",
+                "D": "अनार"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "कौन सा जानवर कभी कूद नहीं सकता?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊंट",
-                "C": "जिराफ",
-                "D": "याक"
+                "A": "जिराफ",
+                "B": "हाथी",
+                "C": "ऊंट",
+                "D": "गेंडा"
             },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "ऑक्टोपस के पास कुल कितने दिल होते हैं?",
-            "options": {
-                "A": "एक",
-                "B": "दो",
-                "C": "तीन",
-                "D": "चार"
-            },
-            "correctAnswer": "C"
+            "correctAnswer": "B"
         }
     ]
 }
