@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% of People Fail This Tricky Quiz! 🧠",
-    "description": "Can you beat the clock? You only have 5 seconds per question! ⏳ Comment your final score below! 👇 #quiz #gk #shorts #trending",
+    "title": "93% of People Fail This Simple Test! 🧠",
+    "description": "You only have 5 seconds for each question! ⏳ Comment your final score below and challenge a friend! 👇 #quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जीव के पास तीन दिल होते हैं?",
+            "question": "किस जीव के पास फेफड़े नहीं होते और वह कभी सोता नहीं है?",
             "options": {
-                "A": "शार्क",
-                "B": "ऑक्टोपस",
-                "C": "कछुआ",
-                "D": "व्हेल"
+                "A": "चींटी",
+                "B": "मछली",
+                "C": "सांप",
+                "D": "केंचुआ"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "दुनिया का एकमात्र ऐसा देश कौन सा है जहां एक भी मच्छर नहीं पाया जाता?",
+            "options": {
+                "A": "फ्रांस",
+                "B": "आइसलैंड",
+                "C": "जापान",
+                "D": "कनाडा"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "question": "मानव शरीर की कौन सी हड्डी कंक्रीट से भी ज्यादा मजबूत होती है?",
             "options": {
-                "A": "फ्रांस",
-                "B": "जापान",
-                "C": "आइसलैंड",
-                "D": "कनाडा"
+                "A": "रीढ़ की हड्डी",
+                "B": "जांघ की हड्डी",
+                "C": "हाथ की हड्डी",
+                "D": "जबड़े की हड्डी"
             },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "मानव शरीर का कौन सा अंग अपने आप को दोबारा ठीक कर सकता है?",
-            "options": {
-                "A": "यकृत",
-                "B": "फेफड़ा",
-                "C": "दिमाग",
-                "D": "हृदय"
-            },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
         },
         {
             "question": "किस फल के बीज उसके बाहर की तरफ होते हैं?",
             "options": {
                 "A": "कीवी",
-                "B": "अनार",
-                "C": "पपीता",
-                "D": "स्ट्रॉबेरी"
+                "B": "स्ट्रॉबेरी",
+                "C": "अनार",
+                "D": "पपीता"
             },
-            "correctAnswer": "D"
+            "correctAnswer": "B"
         },
         {
-            "question": "कौन सा जानवर कभी कूद नहीं सकता?",
+            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
             "options": {
-                "A": "जिराफ",
-                "B": "हाथी",
-                "C": "ऊँट",
-                "D": "दरियाई घोड़ा"
+                "A": "ऊंट",
+                "B": "दरियाई घोड़ा",
+                "C": "बकरी",
+                "D": "शेरनी"
             },
             "correctAnswer": "B"
         }
