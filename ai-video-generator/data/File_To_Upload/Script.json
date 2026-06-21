@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "93% of People Fail This Simple Test! 🧠",
-    "description": "You only have 5 seconds for each question! ⏳ Comment your final score below and challenge a friend! 👇 #quiz #gk #shorts #trending",
+    "title": "Only 1% Can Score 5/5 on This 🧠",
+    "description": "Challenge your brain with these tricky questions! ⏳ You only have 5 seconds per question. Comment your score below! 👇 #quiz #gk #shorts #viral",
     "questions": [
         {
-            "question": "किस जीव के पास फेफड़े नहीं होते और वह कभी सोता नहीं है?",
+            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
             "options": {
-                "A": "चींटी",
-                "B": "मछली",
-                "C": "सांप",
-                "D": "केंचुआ"
+                "A": "जिराफ़",
+                "B": "दरियाई घोड़ा",
+                "C": "ऊँट",
+                "D": "कंगारू"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "options": {
+                "A": "हमिंगबर्ड",
+                "B": "कोयल",
+                "C": "तोता",
+                "D": "बाज"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "दुनिया का एकमात्र ऐसा देश कौन सा है जहां एक भी मच्छर नहीं पाया जाता?",
+            "question": "ऑक्टोपस के पास कुल कितने दिल होते हैं?",
             "options": {
-                "A": "फ्रांस",
-                "B": "आइसलैंड",
-                "C": "जापान",
-                "D": "कनाडा"
+                "A": "एक",
+                "B": "दो",
+                "C": "तीन",
+                "D": "चार"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "C"
         },
         {
-            "question": "मानव शरीर की कौन सी हड्डी कंक्रीट से भी ज्यादा मजबूत होती है?",
+            "question": "किस देश में एक भी नदी नहीं बहती है?",
             "options": {
-                "A": "रीढ़ की हड्डी",
-                "B": "जांघ की हड्डी",
-                "C": "हाथ की हड्डी",
-                "D": "जबड़े की हड्डी"
+                "A": "सऊदी अरब",
+                "B": "मिस्र",
+                "C": "तुर्की",
+                "D": "ईरान"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "A"
         },
         {
-            "question": "किस फल के बीज उसके बाहर की तरफ होते हैं?",
+            "question": "ऐसा कौन सा जीव है जो कभी नहीं सोता?",
             "options": {
-                "A": "कीवी",
-                "B": "स्ट्रॉबेरी",
-                "C": "अनार",
-                "D": "पपीता"
+                "A": "चींटी",
+                "B": "तितली",
+                "C": "मकड़ी",
+                "D": "मच्छर"
             },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
-            "options": {
-                "A": "ऊंट",
-                "B": "दरियाई घोड़ा",
-                "C": "बकरी",
-                "D": "शेरनी"
-            },
-            "correctAnswer": "B"
+            "correctAnswer": "A"
         }
     ]
 }
