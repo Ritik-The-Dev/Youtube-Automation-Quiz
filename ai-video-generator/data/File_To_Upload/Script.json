@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "99% Of People Fail This Tricky Quiz 😱",
-    "description": "Test your brain in 5 seconds per question ⏳\nComment your score below 👇\n#gk #quiz #shorts",
+    "title": "97% of People Fail This Tricky Quiz! 🧠",
+    "description": "Can you beat the clock? You only have 5 seconds per question! ⏳ Comment your final score below! 👇 #quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "किस जीव के पास तीन दिल होते हैं?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊंट",
-                "C": "जिराफ",
-                "D": "याक"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "किस देश में एक भी पेड़ नहीं है?",
-            "options": {
-                "A": "कतर",
-                "B": "मिस्र",
-                "C": "सऊदी अरब",
-                "D": "लीबिया"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "मनुष्य का कौन सा अंग जन्म से मृत्यु तक नहीं बढ़ता है?",
-            "options": {
-                "A": "कान",
-                "B": "नाक",
-                "C": "आँख",
-                "D": "दाँत"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "कौन सा जीव तीन साल तक सो सकता है?",
-            "options": {
-                "A": "कछुआ",
-                "B": "घोंघा",
-                "C": "भालू",
-                "D": "मेंढक"
+                "A": "शार्क",
+                "B": "ऑक्टोपस",
+                "C": "कछुआ",
+                "D": "व्हेल"
             },
             "correctAnswer": "B"
         },
         {
             "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "आइसलैंड",
-                "B": "फ्रांस",
-                "C": "जापान",
+                "A": "फ्रांस",
+                "B": "जापान",
+                "C": "आइसलैंड",
                 "D": "कनाडा"
             },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "मानव शरीर का कौन सा अंग अपने आप को दोबारा ठीक कर सकता है?",
+            "options": {
+                "A": "यकृत",
+                "B": "फेफड़ा",
+                "C": "दिमाग",
+                "D": "हृदय"
+            },
             "correctAnswer": "A"
+        },
+        {
+            "question": "किस फल के बीज उसके बाहर की तरफ होते हैं?",
+            "options": {
+                "A": "कीवी",
+                "B": "अनार",
+                "C": "पपीता",
+                "D": "स्ट्रॉबेरी"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "कौन सा जानवर कभी कूद नहीं सकता?",
+            "options": {
+                "A": "जिराफ",
+                "B": "हाथी",
+                "C": "ऊँट",
+                "D": "दरियाई घोड़ा"
+            },
+            "correctAnswer": "B"
         }
     ]
 }
