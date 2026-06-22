@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "93% of People Fail This Simple Test! 🧠",
-    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your score below 👇 #quiz #gk #shorts #viral",
+    "title": "Only 1% Can Answer All 5 Correctly! 🧠",
+    "description": "Test your brain power in just 5 seconds per question! ⏳ Comment your final score below to prove your smarts! 👇 #quiz #gk #shorts #viral",
     "questions": [
         {
-            "question": "किस पक्षी को पीछे की ओर उड़ने की क्षमता के लिए जाना जाता है?",
+            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
             "options": {
-                "A": "हमिंगबर्ड",
-                "B": "गौरैया",
-                "C": "चमगादड़",
-                "D": "कठफोड़वा"
+                "A": "दरियाई घोड़ा",
+                "B": "ऊंट",
+                "C": "जिराफ",
+                "D": "कंगारू"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस समुद्री जीव के पास तीन दिल होते हैं?",
+            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "शार्क",
-                "B": "ऑक्टोपस",
-                "C": "ब्लू व्हेल",
-                "D": "कछुआ"
+                "A": "फ्रांस",
+                "B": "आइसलैंड",
+                "C": "जापान",
+                "D": "कनाडा"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "दुनिया का ऐसा कौन सा देश है जहां एक भी नदी नहीं बहती?",
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
             "options": {
-                "A": "मिस्र",
-                "B": "सऊदी अरब",
-                "C": "ओमान",
-                "D": "लीबिया"
+                "A": "कोयल",
+                "B": "हमिंगबर्ड",
+                "C": "तोता",
+                "D": "कबूतर"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "ऐसा कौन सा फल है जिसके बीज उसके बाहर की तरफ होते हैं?",
+            "question": "मनुष्य के शरीर का कौन सा अंग जन्म से मृत्यु तक नहीं बढ़ता है?",
             "options": {
-                "A": "स्ट्रॉबेरी",
-                "B": "कीवी",
-                "C": "अनार",
-                "D": "अंजीर"
+                "A": "कान",
+                "B": "नाक",
+                "C": "आँख",
+                "D": "दाँत"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "C"
         },
         {
-            "question": "ऐसा कौन सा जीव है जो अपने पूरे जीवन में कभी नहीं सोता?",
+            "question": "किस देश को 'सफेद हाथियों की भूमि' कहा जाता है?",
             "options": {
-                "A": "चींटी",
-                "B": "तितली",
-                "C": "मक्खी",
-                "D": "केंचुआ"
+                "A": "भारत",
+                "B": "थाईलैंड",
+                "C": "श्रीलंका",
+                "D": "नेपाल"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
         }
     ]
 }
