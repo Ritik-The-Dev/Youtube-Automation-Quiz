@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 on This 🧠",
-    "description": "Challenge your brain with these tricky questions! ⏳ You only have 5 seconds per question. Comment your score below! 👇 #quiz #gk #shorts #viral",
+    "title": "93% of People Fail This Simple Test! 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your score below 👇 #quiz #gk #shorts #viral",
     "questions": [
         {
-            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
+            "question": "किस पक्षी को पीछे की ओर उड़ने की क्षमता के लिए जाना जाता है?",
             "options": {
-                "A": "जिराफ़",
-                "B": "दरियाई घोड़ा",
-                "C": "ऊँट",
-                "D": "कंगारू"
+                "A": "हमिंगबर्ड",
+                "B": "गौरैया",
+                "C": "चमगादड़",
+                "D": "कठफोड़वा"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "किस समुद्री जीव के पास तीन दिल होते हैं?",
+            "options": {
+                "A": "शार्क",
+                "B": "ऑक्टोपस",
+                "C": "ब्लू व्हेल",
+                "D": "कछुआ"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "question": "दुनिया का ऐसा कौन सा देश है जहां एक भी नदी नहीं बहती?",
             "options": {
-                "A": "हमिंगबर्ड",
-                "B": "कोयल",
-                "C": "तोता",
-                "D": "बाज"
+                "A": "मिस्र",
+                "B": "सऊदी अरब",
+                "C": "ओमान",
+                "D": "लीबिया"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "ऐसा कौन सा फल है जिसके बीज उसके बाहर की तरफ होते हैं?",
+            "options": {
+                "A": "स्ट्रॉबेरी",
+                "B": "कीवी",
+                "C": "अनार",
+                "D": "अंजीर"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "ऑक्टोपस के पास कुल कितने दिल होते हैं?",
-            "options": {
-                "A": "एक",
-                "B": "दो",
-                "C": "तीन",
-                "D": "चार"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "किस देश में एक भी नदी नहीं बहती है?",
-            "options": {
-                "A": "सऊदी अरब",
-                "B": "मिस्र",
-                "C": "तुर्की",
-                "D": "ईरान"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "ऐसा कौन सा जीव है जो कभी नहीं सोता?",
+            "question": "ऐसा कौन सा जीव है जो अपने पूरे जीवन में कभी नहीं सोता?",
             "options": {
                 "A": "चींटी",
                 "B": "तितली",
-                "C": "मकड़ी",
-                "D": "मच्छर"
+                "C": "मक्खी",
+                "D": "केंचुआ"
             },
             "correctAnswer": "A"
         }
