@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Answer All 5 Correctly! 🧠",
-    "description": "Test your brain power in just 5 seconds per question! ⏳ Comment your final score below to prove your smarts! 👇 #quiz #gk #shorts #viral",
+    "title": "97% of People Fail This Simple Test! 🧠",
+    "description": "Think you are smart? Prove it in just 5 seconds per question! Comment your final score below 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
+            "question": "किस जानवर का दूध कभी नहीं फटता है?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊंट",
-                "C": "जिराफ",
-                "D": "कंगारू"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
-            "options": {
-                "A": "फ्रांस",
-                "B": "आइसलैंड",
-                "C": "जापान",
-                "D": "कनाडा"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
-            "options": {
-                "A": "कोयल",
-                "B": "हमिंगबर्ड",
-                "C": "तोता",
-                "D": "कबूतर"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "मनुष्य के शरीर का कौन सा अंग जन्म से मृत्यु तक नहीं बढ़ता है?",
-            "options": {
-                "A": "कान",
-                "B": "नाक",
-                "C": "आँख",
-                "D": "दाँत"
+                "A": "गाय",
+                "B": "बकरी",
+                "C": "ऊँट",
+                "D": "भेड़"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "किस देश को 'सफेद हाथियों की भूमि' कहा जाता है?",
+            "question": "भारत के किस राज्य में रावण की पूजा की जाती है?",
             "options": {
-                "A": "भारत",
-                "B": "थाईलैंड",
-                "C": "श्रीलंका",
-                "D": "नेपाल"
+                "A": "उत्तर प्रदेश",
+                "B": "मध्य प्रदेश",
+                "C": "गुजरात",
+                "D": "राजस्थान"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "मसालों की रानी किसे कहा जाता है?",
+            "options": {
+                "A": "काली मिर्च",
+                "B": "इलायची",
+                "C": "लाल मिर्च",
+                "D": "हल्दी"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस देश में पांच सूर्य दिखाई देते हैं?",
+            "options": {
+                "A": "चीन",
+                "B": "जापान",
+                "C": "रूस",
+                "D": "अमेरिका"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "मनुष्य के शरीर का कौन सा अंग बिजली पैदा कर सकता है?",
+            "options": {
+                "A": "दिल",
+                "B": "दिमाग",
+                "C": "किडनी",
+                "D": "फेफड़े"
             },
             "correctAnswer": "B"
         }
