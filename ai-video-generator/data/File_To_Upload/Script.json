@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% Of People Fail This Simple Quiz! 🧠",
-    "description": "Think you are smart? Prove it in 5 seconds! ⏳ Comment your final score below 👇 #quiz #gk #shorts #trending",
+    "title": "93% Of People Fail This Tricky Quiz! 🧠",
+    "description": "Test your brain in just 5 seconds per question! ⏳ Comment your final score below to prove your smartness. 👇 #quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "किस देश में एक भी नदी नहीं है?",
+            "options": {
+                "A": "दुबई",
+                "B": "सऊदी अरब",
+                "C": "कतर",
+                "D": "ओमान"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "ऐसा कौन सा जीव है जो कभी नहीं सोता?",
+            "options": {
+                "A": "छिपकली",
+                "B": "मेंढक",
+                "C": "चींटी",
+                "D": "सांप"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "किस फल को पकने में दो साल का समय लगता है?",
+            "options": {
+                "A": "कटहल",
+                "B": "नारियल",
+                "C": "पपीता",
+                "D": "अनानास"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "किस जानवर का पसीना गुलाबी रंग का होता है?",
             "options": {
                 "A": "दरियाई घोड़ा",
-                "B": "जिराफ",
-                "C": "ऊंट",
-                "D": "कंगारू"
+                "B": "कंगारू",
+                "C": "जिराफ़",
+                "D": "भालू"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "question": "ऐसा कौन सा पक्षी है जो हाथ लगाते ही मर जाता है?",
             "options": {
-                "A": "गुंजन पक्षी",
-                "B": "कोयल",
-                "C": "बाज",
-                "D": "शुतुरमुर्ग"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "मानव शरीर का कौन सा अंग खुद को दोबारा ठीक कर सकता है?",
-            "options": {
-                "A": "फेफड़ा",
-                "B": "यकृत",
-                "C": "मस्तिष्क",
-                "D": "हृदय"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस जानवर के दूध से कभी दही नहीं जमता है?",
-            "options": {
-                "A": "बकरी",
-                "B": "ऊंट",
-                "C": "गाय",
-                "D": "भैंस"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "भारत के किस राज्य में केवल दो ही जिले हैं?",
-            "options": {
-                "A": "सिक्किम",
-                "B": "गोवा",
-                "C": "असम",
-                "D": "बिहार"
+                "A": "कोयल",
+                "B": "टिटोनी पक्षी",
+                "C": "बुलबुल",
+                "D": "गौरैया"
             },
             "correctAnswer": "B"
         }
