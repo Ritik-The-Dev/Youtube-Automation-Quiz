@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This Tricky Quiz! 🧠",
-    "description": "Think you're smart? Prove it in 5 seconds per question! ⏳ Comment your score below 👇 #quiz #gk #shorts",
+    "title": "97% Of People Fail This Simple Quiz! 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds! ⏳ Comment your final score below 👇 #quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "ऑक्टोपस के पास कुल कितने दिल होते हैं?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "एक",
-                "B": "दो",
-                "C": "तीन",
-                "D": "चार"
+                "A": "दरियाई घोड़ा",
+                "B": "जिराफ",
+                "C": "ऊंट",
+                "D": "कंगारू"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "A"
         },
         {
-            "question": "हमारे सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
             "options": {
-                "A": "बुध",
-                "B": "शुक्र",
-                "C": "मंगल",
-                "D": "बृहस्पति"
+                "A": "गुंजन पक्षी",
+                "B": "कोयल",
+                "C": "बाज",
+                "D": "शुतुरमुर्ग"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "A"
         },
         {
-            "question": "कौन सा जानवर कभी कूद नहीं सकता?",
+            "question": "मानव शरीर का कौन सा अंग खुद को दोबारा ठीक कर सकता है?",
             "options": {
-                "A": "ऊंट",
-                "B": "हाथी",
-                "C": "जिराफ",
-                "D": "सुअर"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "भारत के किस राज्य में सबसे पहले सूर्योदय होता है?",
-            "options": {
-                "A": "असम",
-                "B": "अरुणाचल प्रदेश",
-                "C": "सिक्किम",
-                "D": "मणिपुर"
+                "A": "फेफड़ा",
+                "B": "यकृत",
+                "C": "मस्तिष्क",
+                "D": "हृदय"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "एक नवजात शिशु के शरीर में लगभग कितनी हड्डियां होती हैं?",
+            "question": "किस जानवर के दूध से कभी दही नहीं जमता है?",
             "options": {
-                "A": "दो सौ छह",
-                "B": "तीन सौ",
-                "C": "ढाई सौ",
-                "D": "एक सौ अस्सी"
+                "A": "बकरी",
+                "B": "ऊंट",
+                "C": "गाय",
+                "D": "भैंस"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "भारत के किस राज्य में केवल दो ही जिले हैं?",
+            "options": {
+                "A": "सिक्किम",
+                "B": "गोवा",
+                "C": "असम",
+                "D": "बिहार"
             },
             "correctAnswer": "B"
         }
