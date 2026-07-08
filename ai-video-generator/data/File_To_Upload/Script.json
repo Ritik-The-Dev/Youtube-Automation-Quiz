@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "93% Of People Fail This Tricky Quiz! 🧠",
-    "description": "Test your brain in just 5 seconds per question! ⏳ Comment your final score below to prove your smartness. 👇 #quiz #gk #shorts",
+    "title": "97% of People Fail This Simple Quiz! 🤯",
+    "description": "Think you are smart? Try to answer these 5 tricky questions in 5 seconds! Comment your score below 👇 #quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस देश में एक भी नदी नहीं है?",
-            "options": {
-                "A": "दुबई",
-                "B": "सऊदी अरब",
-                "C": "कतर",
-                "D": "ओमान"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "ऐसा कौन सा जीव है जो कभी नहीं सोता?",
-            "options": {
-                "A": "छिपकली",
-                "B": "मेंढक",
-                "C": "चींटी",
-                "D": "सांप"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "किस फल को पकने में दो साल का समय लगता है?",
-            "options": {
-                "A": "कटहल",
-                "B": "नारियल",
-                "C": "पपीता",
-                "D": "अनानास"
-            },
-            "correctAnswer": "D"
-        },
-        {
-            "question": "किस जानवर का पसीना गुलाबी रंग का होता है?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
                 "A": "दरियाई घोड़ा",
-                "B": "कंगारू",
-                "C": "जिराफ़",
-                "D": "भालू"
+                "B": "ऊंट",
+                "C": "जिराफ",
+                "D": "कंगारू"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "ऐसा कौन सा पक्षी है जो हाथ लगाते ही मर जाता है?",
+            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "कोयल",
-                "B": "टिटोनी पक्षी",
-                "C": "बुलबुल",
-                "D": "गौरैया"
+                "A": "फ्रांस",
+                "B": "आइसलैंड",
+                "C": "जापान",
+                "D": "कनाडा"
             },
             "correctAnswer": "B"
+        },
+        {
+            "question": "किस जीव के पास तीन दिल होते हैं?",
+            "options": {
+                "A": "ऑक्टोपस",
+                "B": "शार्क",
+                "C": "कछुआ",
+                "D": "डॉल्फिन"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "options": {
+                "A": "कोयल",
+                "B": "हमिंगबर्ड",
+                "C": "तोता",
+                "D": "कबूतर"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "दुनिया में सबसे ज्यादा द्वीप किस देश में हैं?",
+            "options": {
+                "A": "इंडोनेशिया",
+                "B": "मालदीव",
+                "C": "स्वीडन",
+                "D": "फिलीपींस"
+            },
+            "correctAnswer": "C"
         }
     ]
 }
