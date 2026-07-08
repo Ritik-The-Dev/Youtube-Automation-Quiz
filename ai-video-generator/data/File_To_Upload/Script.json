@@ -1,7 +1,7 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% of People Fail This Simple Quiz! 🤯",
-    "description": "Think you are smart? Try to answer these 5 tricky questions in 5 seconds! Comment your score below 👇 #quiz #gk #shorts #trending",
+    "title": "Only 1% Can Score 5/5 On This Tricky Quiz! 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds! Comment your final score below 👇 #quiz #gk #shorts #trending",
     "questions": [
         {
             "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
@@ -9,12 +9,12 @@
                 "A": "दरियाई घोड़ा",
                 "B": "ऊंट",
                 "C": "जिराफ",
-                "D": "कंगारू"
+                "D": "बकरी"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "question": "दुनिया का ऐसा कौन सा देश है जहां एक भी मच्छर नहीं पाया जाता है?",
             "options": {
                 "A": "फ्रांस",
                 "B": "आइसलैंड",
@@ -24,34 +24,34 @@
             "correctAnswer": "B"
         },
         {
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "options": {
+                "A": "कोयल",
+                "B": "तोता",
+                "C": "हमिंगबर्ड",
+                "D": "कबूतर"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक कभी नहीं बढ़ता है?",
+            "options": {
+                "A": "कान",
+                "B": "नाक",
+                "C": "आँख",
+                "D": "दाँत"
+            },
+            "correctAnswer": "C"
+        },
+        {
             "question": "किस जीव के पास तीन दिल होते हैं?",
             "options": {
                 "A": "ऑक्टोपस",
                 "B": "शार्क",
                 "C": "कछुआ",
-                "D": "डॉल्फिन"
+                "D": "केंचुआ"
             },
             "correctAnswer": "A"
-        },
-        {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
-            "options": {
-                "A": "कोयल",
-                "B": "हमिंगबर्ड",
-                "C": "तोता",
-                "D": "कबूतर"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "दुनिया में सबसे ज्यादा द्वीप किस देश में हैं?",
-            "options": {
-                "A": "इंडोनेशिया",
-                "B": "मालदीव",
-                "C": "स्वीडन",
-                "D": "फिलीपींस"
-            },
-            "correctAnswer": "C"
         }
     ]
 }
