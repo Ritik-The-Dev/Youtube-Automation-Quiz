@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 🧠",
-    "description": "Think you are smart? Test your brain in just 5 seconds per question! Comment your final score below 👇\n#quiz #gk #shorts #trending",
+    "title": "Only 1% Can Score 5/5 On This Tricky Quiz! 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds per question! Comment your final score below 👇 #quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊंट",
-                "C": "जिराफ",
+                "A": "ऊंट",
+                "B": "दरियाई घोड़ा",
+                "C": "याक",
                 "D": "बकरी"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
         },
         {
-            "question": "मनुष्य का कौन सा अंग जीवनभर बढ़ता रहता है?",
+            "question": "किस देश में एक भी पेड़ नहीं है?",
             "options": {
-                "A": "आंख",
-                "B": "कान",
-                "C": "दांत",
-                "D": "दिमाग"
+                "A": "सऊदी अरब",
+                "B": "ग्रीनलैंड",
+                "C": "कतर",
+                "D": "सिंगापुर"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "C"
         },
         {
             "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
             "options": {
                 "A": "कोयल",
                 "B": "तोता",
-                "C": "गुंजन पक्षी",
-                "D": "कबूतर"
+                "C": "कबूतर",
+                "D": "हमिंगबर्ड"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "इंसान का कौन सा अंग जन्म से मृत्यु तक नहीं बढ़ता है?",
+            "options": {
+                "A": "कान",
+                "B": "नाक",
+                "C": "आंख",
+                "D": "दांत"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "दुनिया के किस देश में एक भी पेड़ नहीं है?",
+            "question": "किस जीव के पास तीन दिल होते हैं?",
             "options": {
-                "A": "कतर",
-                "B": "मिस्र",
-                "C": "सऊदी अरब",
-                "D": "सूडान"
+                "A": "ऑक्टोपस",
+                "B": "शार्क",
+                "C": "कछुआ",
+                "D": "केंचुआ"
             },
             "correctAnswer": "A"
-        },
-        {
-            "question": "किस फल को पकने में लगभग दो साल का समय लगता है?",
-            "options": {
-                "A": "कटहल",
-                "B": "अनानास",
-                "C": "नारियल",
-                "D": "पपीता"
-            },
-            "correctAnswer": "B"
         }
     ]
 }
