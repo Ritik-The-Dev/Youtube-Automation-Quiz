@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Get 5/5 on This Tricky Quiz! 🧠",
-    "description": "Think you are smart? Prove it in 5 seconds! ⏳ Comment your score below 👇 #quiz #gk #shorts #trending",
+    "title": "97% Of People Fail This Simple Test! 🧠",
+    "description": "Can you get a perfect score in just 5 seconds? Comment your final score below and challenge your friends! 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस पक्षी को पीछे की ओर उड़ने की अनोखी क्षमता होती है?",
+            "question": "किस जीव का दिल उसके सिर में होता है?",
             "options": {
-                "A": "गौरैया",
-                "B": "कोयल",
-                "C": "हमिंगबर्ड",
-                "D": "तोता"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "किस समुद्री जीव के पास तीन दिल और नौ दिमाग होते हैं?",
-            "options": {
-                "A": "शार्क",
-                "B": "ऑक्टोपस",
-                "C": "जेलिफ़िश",
+                "A": "केकड़ा",
+                "B": "झींगा",
+                "C": "मछली",
                 "D": "कछुआ"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "question": "किस देश में एक भी नदी नहीं है?",
             "options": {
-                "A": "आइसलैंड",
-                "B": "फ्रांस",
-                "C": "जापान",
-                "D": "कनाडा"
+                "A": "सऊदी अरब",
+                "B": "ओमान",
+                "C": "कुवैत",
+                "D": "कतर"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "वह एकमात्र फल कौन सा है जिसके बीज फल के बाहर होते हैं?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "अंजीर",
-                "B": "स्ट्रॉबेरी",
-                "C": "कीवी",
-                "D": "अनार"
+                "A": "दरियाई घोड़ा",
+                "B": "ऊंट",
+                "C": "बकरी",
+                "D": "शेरनी"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "भारत के किस राज्य में सबसे पहले सूर्योदय होता है?",
+            "options": {
+                "A": "असम",
+                "B": "अरुणाचल प्रदेश",
+                "C": "सिक्किम",
+                "D": "मेघालय"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "ऐसा कौन सा जीव है जो अपने पूरे जीवनकाल में कभी नहीं सोता?",
+            "question": "किस जीव का खून सफेद रंग का होता है?",
             "options": {
-                "A": "चींटी",
-                "B": "चमगादड़",
-                "C": "घोंघा",
-                "D": "छिपकली"
+                "A": "छिपकली",
+                "B": "तिलचट्टा",
+                "C": "मेंढक",
+                "D": "चूहा"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
         }
     ]
 }
