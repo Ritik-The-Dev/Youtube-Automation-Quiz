@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
     "title": "Only 1% Can Score 5/5 On This Tricky Quiz! 🧠",
-    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your score below 👇 #quiz #gk #shorts #trending",
+    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your final score below 👇 #quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "भारत के किस राज्य में सबसे पहले सूर्य निकलता है?",
+            "options": {
+                "A": "अरुणाचल प्रदेश",
+                "B": "असम",
+                "C": "सिक्किम",
+                "D": "मणिपुर"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "ऐसा कौन सा जीव है जो कभी नहीं सोता?",
+            "options": {
+                "A": "चींटी",
+                "B": "मेंढक",
+                "C": "सांप",
+                "D": "मछली"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "मसालों का राजा किसे माना जाता है?",
+            "options": {
+                "A": "काली मिर्च",
+                "B": "हरी मिर्च",
+                "C": "इलायची",
+                "D": "लाल मिर्च"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "मानव शरीर का कौन सा अंग खुद को दोबारा विकसित कर सकता है?",
+            "options": {
+                "A": "यकृत",
+                "B": "फेफड़े",
+                "C": "दिमाग",
+                "D": "गुर्दा"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "किस जानवर के पसीने का रंग गुलाबी होता है?",
             "options": {
                 "A": "दरियाई घोड़ा",
-                "B": "बकरी",
-                "C": "शेरनी",
-                "D": "गाय"
+                "B": "कंगारू",
+                "C": "भालू",
+                "D": "जिराफ़"
             },
             "correctAnswer": "A"
-        },
-        {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
-            "options": {
-                "A": "कोयल",
-                "B": "गुंजन पक्षी",
-                "C": "गौरैया",
-                "D": "कबूतर"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "मानव शरीर का कौन सा अंग कटने के बाद भी दोबारा बढ़ सकता है?",
-            "options": {
-                "A": "फेफड़ा",
-                "B": "यकृत",
-                "C": "गुर्दा",
-                "D": "हृदय"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस देश में एक भी नदी नहीं बहती है?",
-            "options": {
-                "A": "सऊदी अरब",
-                "B": "मिस्र",
-                "C": "ईरान",
-                "D": "तुर्की"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "किस जीव का दिल उसके सिर में होता है?",
-            "options": {
-                "A": "केकड़ा",
-                "B": "झींगा",
-                "C": "घोंघा",
-                "D": "कछुआ"
-            },
-            "correctAnswer": "B"
         }
     ]
 }
