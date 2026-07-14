@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This! 🧠",
-    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your score below 👇 #quiz #gk #shorts #trending",
+    "title": "Only 1% Can Score 5/5 On This 🧠",
+    "description": "Test your brain power in just 5 seconds per question! ⏳ Comment your final score below to prove your smartness. 👇 #quiz #gk #shorts",
     "questions": [
         {
             "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊंट",
-                "C": "जिराफ",
-                "D": "बकरी"
+                "A": "जिराफ",
+                "B": "दरियाई घोड़ा",
+                "C": "कंगारू",
+                "D": "ऊंट"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
         },
         {
-            "question": "किस देश में एक भी पेड़ नहीं है?",
+            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "कतर",
-                "B": "मिस्र",
-                "C": "सऊदी अरब",
-                "D": "ओमान"
+                "A": "फ्रांस",
+                "B": "आइसलैंड",
+                "C": "जापान",
+                "D": "कनाडा"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
         },
         {
-            "question": "कौन सा जीव जिंदगी में कभी नहीं सोता है?",
+            "question": "कौन सा जीव लगातार तीन साल तक सो सकता है?",
             "options": {
-                "A": "चींटी",
-                "B": "शार्क",
-                "C": "उल्लू",
-                "D": "चमगादड़"
+                "A": "घोंघा",
+                "B": "कछुआ",
+                "C": "भालू",
+                "D": "मेंढक"
             },
             "correctAnswer": "A"
         },
         {
             "question": "किस फल के बीज उसके बाहर की तरफ होते हैं?",
             "options": {
-                "A": "स्ट्रॉबेरी",
-                "B": "कीवी",
-                "C": "अनार",
-                "D": "पपीता"
+                "A": "कीवी",
+                "B": "स्ट्रॉबेरी",
+                "C": "शहतूत",
+                "D": "अनानास"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
         },
         {
-            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "question": "किस जीव के पास तीन दिल होते हैं?",
             "options": {
-                "A": "आइसलैंड",
-                "B": "फ्रांस",
-                "C": "जापान",
-                "D": "कनाडा"
+                "A": "शार्क",
+                "B": "ऑक्टोपस",
+                "C": "केंचुआ",
+                "D": "ब्लू व्हेल"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
         }
     ]
 }
