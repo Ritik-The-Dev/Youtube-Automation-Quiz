@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This Tricky Quiz! 🧠",
-    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your final score below 👇 #quiz #gk #shorts #trending",
+    "title": "Only 1% Can Score 5/5 On This! 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your score below 👇 #quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "भारत के किस राज्य में सबसे पहले सूर्य निकलता है?",
-            "options": {
-                "A": "अरुणाचल प्रदेश",
-                "B": "असम",
-                "C": "सिक्किम",
-                "D": "मणिपुर"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "ऐसा कौन सा जीव है जो कभी नहीं सोता?",
-            "options": {
-                "A": "चींटी",
-                "B": "मेंढक",
-                "C": "सांप",
-                "D": "मछली"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "मसालों का राजा किसे माना जाता है?",
-            "options": {
-                "A": "काली मिर्च",
-                "B": "हरी मिर्च",
-                "C": "इलायची",
-                "D": "लाल मिर्च"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "मानव शरीर का कौन सा अंग खुद को दोबारा विकसित कर सकता है?",
-            "options": {
-                "A": "यकृत",
-                "B": "फेफड़े",
-                "C": "दिमाग",
-                "D": "गुर्दा"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "किस जानवर के पसीने का रंग गुलाबी होता है?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
                 "A": "दरियाई घोड़ा",
-                "B": "कंगारू",
-                "C": "भालू",
-                "D": "जिराफ़"
+                "B": "ऊंट",
+                "C": "जिराफ",
+                "D": "बकरी"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "किस देश में एक भी पेड़ नहीं है?",
+            "options": {
+                "A": "कतर",
+                "B": "मिस्र",
+                "C": "सऊदी अरब",
+                "D": "ओमान"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "कौन सा जीव जिंदगी में कभी नहीं सोता है?",
+            "options": {
+                "A": "चींटी",
+                "B": "शार्क",
+                "C": "उल्लू",
+                "D": "चमगादड़"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "किस फल के बीज उसके बाहर की तरफ होते हैं?",
+            "options": {
+                "A": "स्ट्रॉबेरी",
+                "B": "कीवी",
+                "C": "अनार",
+                "D": "पपीता"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "options": {
+                "A": "आइसलैंड",
+                "B": "फ्रांस",
+                "C": "जापान",
+                "D": "कनाडा"
             },
             "correctAnswer": "A"
         }
