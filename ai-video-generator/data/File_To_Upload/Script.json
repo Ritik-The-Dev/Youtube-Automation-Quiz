@@ -1,20 +1,20 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 🧠",
-    "description": "Test your brain power in just 5 seconds per question! ⏳ Comment your final score below to prove your smartness. 👇 #quiz #gk #shorts",
+    "title": "93% Of People Fail This Simple Quiz! 🧠",
+    "description": "Can you score 5/5 under 5 seconds per question? ⏳ Comment your final score below! 👇 #quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "किस जीव के पास फेफड़े नहीं होते और वह कभी सोता नहीं है?",
             "options": {
-                "A": "जिराफ",
-                "B": "दरियाई घोड़ा",
-                "C": "कंगारू",
-                "D": "ऊंट"
+                "A": "चींटी",
+                "B": "मछली",
+                "C": "सांप",
+                "D": "मेंढक"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "A"
         },
         {
-            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "question": "दुनिया का एकमात्र ऐसा देश कौन सा है जहां एक भी मच्छर नहीं पाया जाता?",
             "options": {
                 "A": "फ्रांस",
                 "B": "आइसलैंड",
@@ -24,34 +24,34 @@
             "correctAnswer": "B"
         },
         {
-            "question": "कौन सा जीव लगातार तीन साल तक सो सकता है?",
+            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
             "options": {
-                "A": "घोंघा",
-                "B": "कछुआ",
-                "C": "भालू",
-                "D": "मेंढक"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "किस फल के बीज उसके बाहर की तरफ होते हैं?",
-            "options": {
-                "A": "कीवी",
-                "B": "स्ट्रॉबेरी",
-                "C": "शहतूत",
-                "D": "अनानास"
+                "A": "ऊंट",
+                "B": "दरियाई घोड़ा",
+                "C": "बकरी",
+                "D": "शेरनी"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस जीव के पास तीन दिल होते हैं?",
+            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक कभी नहीं बढ़ता?",
             "options": {
-                "A": "शार्क",
-                "B": "ऑक्टोपस",
-                "C": "केंचुआ",
-                "D": "ब्लू व्हेल"
+                "A": "नाक",
+                "B": "कान",
+                "C": "आँख",
+                "D": "जीभ"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "C"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "options": {
+                "A": "कोयल",
+                "B": "तोता",
+                "C": "हमिंगबर्ड",
+                "D": "कबूतर"
+            },
+            "correctAnswer": "C"
         }
     ]
 }
