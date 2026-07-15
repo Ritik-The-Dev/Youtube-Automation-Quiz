@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "93% Of People Fail This Simple Quiz! 🧠",
-    "description": "Can you score 5/5 under 5 seconds per question? ⏳ Comment your final score below! 👇 #quiz #gk #shorts #trending",
+    "title": "97% of People Fail This Simple Quiz! 🧠",
+    "description": "Can you answer these 5 tricky questions in just 5 seconds each? Comment your final score below! 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जीव के पास फेफड़े नहीं होते और वह कभी सोता नहीं है?",
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
             "options": {
-                "A": "चींटी",
-                "B": "मछली",
-                "C": "सांप",
-                "D": "मेंढक"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "दुनिया का एकमात्र ऐसा देश कौन सा है जहां एक भी मच्छर नहीं पाया जाता?",
-            "options": {
-                "A": "फ्रांस",
-                "B": "आइसलैंड",
-                "C": "जापान",
-                "D": "कनाडा"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
-            "options": {
-                "A": "ऊंट",
-                "B": "दरियाई घोड़ा",
-                "C": "बकरी",
-                "D": "शेरनी"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक कभी नहीं बढ़ता?",
-            "options": {
-                "A": "नाक",
-                "B": "कान",
-                "C": "आँख",
-                "D": "जीभ"
+                "A": "गौरैया",
+                "B": "कोयल",
+                "C": "हमिंगबर्ड",
+                "D": "चमगादड़"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "question": "किस जीव के पास तीन दिल होते हैं?",
             "options": {
-                "A": "कोयल",
-                "B": "तोता",
-                "C": "हमिंगबर्ड",
-                "D": "कबूतर"
+                "A": "शार्क",
+                "B": "ऑक्टोपस",
+                "C": "केंचुआ",
+                "D": "ब्लू व्हेल"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "दुनिया का ऐसा कौन सा देश है जहां एक भी पेड़ नहीं है?",
+            "options": {
+                "A": "सऊदी अरब",
+                "B": "मिस्र",
+                "C": "कतर",
+                "D": "सूडान"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "एक नवजात शिशु के शरीर में कुल कितनी हड्डियां होती हैं?",
+            "options": {
+                "A": "दो सौ छह",
+                "B": "तीन सौ",
+                "C": "ढाई सौ",
+                "D": "तीन सौ पचास"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "सौरमंडल के किस ग्रह को 'भोर का तारा' कहा जाता है?",
+            "options": {
+                "A": "मंगल",
+                "B": "बुध",
+                "C": "शुक्र",
+                "D": "बृहस्पति"
             },
             "correctAnswer": "C"
         }
