@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% of People Fail This Simple Quiz! 🧠",
-    "description": "Can you answer these 5 tricky questions in just 5 seconds each? Comment your final score below! 👇\n#quiz #gk #shorts #trending",
+    "title": "97% of People Fail This Simple Test! 🧠",
+    "description": "Think you are smart? Prove it in just 5 seconds per question! ⏳ Comment your score below 👇 #quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "question": "कौन सा जीव अपने पैरों से स्वाद चखता है?",
             "options": {
-                "A": "गौरैया",
-                "B": "कोयल",
-                "C": "हमिंगबर्ड",
-                "D": "चमगादड़"
+                "A": "तितली",
+                "B": "मधुमक्खी",
+                "C": "चींटी",
+                "D": "मकड़ी"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "A"
         },
         {
-            "question": "किस जीव के पास तीन दिल होते हैं?",
+            "question": "मानव शरीर की सबसे मजबूत हड्डी कहाँ होती है?",
             "options": {
-                "A": "शार्क",
-                "B": "ऑक्टोपस",
-                "C": "केंचुआ",
-                "D": "ब्लू व्हेल"
+                "A": "जांघ",
+                "B": "जबड़ा",
+                "C": "हाथ",
+                "D": "पीठ"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "दुनिया का ऐसा कौन सा देश है जहां एक भी पेड़ नहीं है?",
+            "question": "दुनिया के किस देश में एक भी नदी नहीं है?",
             "options": {
                 "A": "सऊदी अरब",
-                "B": "मिस्र",
-                "C": "कतर",
-                "D": "सूडान"
+                "B": "कतर",
+                "C": "ओमान",
+                "D": "कुवैत"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "A"
         },
         {
-            "question": "एक नवजात शिशु के शरीर में कुल कितनी हड्डियां होती हैं?",
+            "question": "ऐसा कौन सा जीव है जो जिंदगी में कभी नहीं सोता?",
             "options": {
-                "A": "दो सौ छह",
-                "B": "तीन सौ",
-                "C": "ढाई सौ",
-                "D": "तीन सौ पचास"
+                "A": "चींटी",
+                "B": "मेंढक",
+                "C": "सांप",
+                "D": "मछली"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "A"
         },
         {
-            "question": "सौरमंडल के किस ग्रह को 'भोर का तारा' कहा जाता है?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "मंगल",
-                "B": "बुध",
-                "C": "शुक्र",
-                "D": "बृहस्पति"
+                "A": "दरियाई घोड़ा",
+                "B": "ऊंट",
+                "C": "जिराफ",
+                "D": "याक"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "A"
         }
     ]
 }
