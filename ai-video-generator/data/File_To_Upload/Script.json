@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "99% of People Fail This Tricky Quiz! 🧠",
-    "description": "Think you are smart? Prove it in 5 seconds per question! Comment your score below 👇\n#quiz #gk #shorts #trending",
+    "title": "Only 1% Can Answer All 5 Questions! 🧠",
+    "description": "Challenge your brain with these tricky questions! You only have 5 seconds for each. Comment your final score below! 👇\n#quiz #gk #shorts #trending",
     "questions": [
-        {
-            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
-            "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊंट",
-                "C": "जिराफ",
-                "D": "बकरी"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "किस देश में एक भी नदी नहीं बहती है?",
-            "options": {
-                "A": "सऊदी अरब",
-                "B": "कुवैत",
-                "C": "ओमान",
-                "D": "कतर"
-            },
-            "correctAnswer": "A"
-        },
         {
             "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
             "options": {
                 "A": "हमिंगबर्ड",
-                "B": "कोयल",
-                "C": "गौरैया",
-                "D": "तोता"
+                "B": "गौरैया",
+                "C": "कोयल",
+                "D": "कठफोड़वा"
             },
             "correctAnswer": "A"
         },
         {
             "question": "किस जीव के पास तीन दिल होते हैं?",
             "options": {
-                "A": "ऑक्टोपस",
-                "B": "शार्क",
-                "C": "केंचुआ",
-                "D": "व्हेल"
+                "A": "केंचुआ",
+                "B": "ऑक्टोपस",
+                "C": "शार्क",
+                "D": "जेलीफिश"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "दुनिया का ऐसा कौन सा देश है जहां एक भी पेड़ नहीं है?",
+            "options": {
+                "A": "कतर",
+                "B": "मिस्र",
+                "C": "सऊदी अरब",
+                "D": "सूडान"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस फल के बीज उसके बाहर होते हैं?",
+            "question": "किस जानवर के पसीने का रंग गुलाबी होता है?",
             "options": {
-                "A": "स्ट्रॉबेरी",
-                "B": "कीवी",
-                "C": "सेब",
-                "D": "अनार"
+                "A": "कंगारू",
+                "B": "दरियाई घोड़ा",
+                "C": "ऊंट",
+                "D": "जिराफ"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा सांप अपना घोंसला बनाता है?",
+            "options": {
+                "A": "अजगर",
+                "B": "रसेल वाइपर",
+                "C": "किंग कोबरा",
+                "D": "करैत"
+            },
+            "correctAnswer": "C"
         }
     ]
 }
