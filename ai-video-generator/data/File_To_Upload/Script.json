@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% of People Fail This Simple Test! 🧠",
-    "description": "Think you are smart? Prove it in just 5 seconds per question! ⏳ Comment your score below 👇 #quiz #gk #shorts #trending",
+    "title": "99% of People Fail This Tricky Quiz! 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds per question! Comment your score below 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "कौन सा जीव अपने पैरों से स्वाद चखता है?",
-            "options": {
-                "A": "तितली",
-                "B": "मधुमक्खी",
-                "C": "चींटी",
-                "D": "मकड़ी"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "मानव शरीर की सबसे मजबूत हड्डी कहाँ होती है?",
-            "options": {
-                "A": "जांघ",
-                "B": "जबड़ा",
-                "C": "हाथ",
-                "D": "पीठ"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "दुनिया के किस देश में एक भी नदी नहीं है?",
-            "options": {
-                "A": "सऊदी अरब",
-                "B": "कतर",
-                "C": "ओमान",
-                "D": "कुवैत"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "ऐसा कौन सा जीव है जो जिंदगी में कभी नहीं सोता?",
-            "options": {
-                "A": "चींटी",
-                "B": "मेंढक",
-                "C": "सांप",
-                "D": "मछली"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
             "options": {
                 "A": "दरियाई घोड़ा",
                 "B": "ऊंट",
                 "C": "जिराफ",
-                "D": "याक"
+                "D": "बकरी"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "किस देश में एक भी नदी नहीं बहती है?",
+            "options": {
+                "A": "सऊदी अरब",
+                "B": "कुवैत",
+                "C": "ओमान",
+                "D": "कतर"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "options": {
+                "A": "हमिंगबर्ड",
+                "B": "कोयल",
+                "C": "गौरैया",
+                "D": "तोता"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "किस जीव के पास तीन दिल होते हैं?",
+            "options": {
+                "A": "ऑक्टोपस",
+                "B": "शार्क",
+                "C": "केंचुआ",
+                "D": "व्हेल"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "किस फल के बीज उसके बाहर होते हैं?",
+            "options": {
+                "A": "स्ट्रॉबेरी",
+                "B": "कीवी",
+                "C": "सेब",
+                "D": "अनार"
             },
             "correctAnswer": "A"
         }
