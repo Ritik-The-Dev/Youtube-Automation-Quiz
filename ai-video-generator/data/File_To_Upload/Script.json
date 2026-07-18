@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 🧠",
-    "description": "Think you are smart? Prove it in 5 seconds per question! Comment your final score below 👇 #quiz #gk #shorts",
+    "title": "97% Of People Fail This Simple Quiz! 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your final score below 👇 #quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "हमारे सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
+            "question": "किस देश में एक भी सांप नहीं पाया जाता है?",
             "options": {
-                "A": "बुध",
-                "B": "शुक्र",
-                "C": "मंगल",
-                "D": "बृहस्पति"
+                "A": "भारत",
+                "B": "आयरलैंड",
+                "C": "ऑस्ट्रेलिया",
+                "D": "ब्राजील"
             },
             "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "options": {
+                "A": "कोयल",
+                "B": "तोता",
+                "C": "हमिंगबर्ड",
+                "D": "कबूतर"
+            },
+            "correctAnswer": "C"
         },
         {
             "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
                 "A": "ऊंट",
                 "B": "दरियाई घोड़ा",
-                "C": "शेरनी",
+                "C": "जिराफ",
                 "D": "बकरी"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "दुनिया का ऐसा कौन सा देश है जहां एक भी पेड़ नहीं है?",
-            "options": {
-                "A": "कतर",
-                "B": "मिस्र",
-                "C": "सऊदी अरब",
-                "D": "ओमान"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "एक नवजात शिशु के शरीर में कुल कितनी हड्डियां होती हैं?",
-            "options": {
-                "A": "दो सौ छह",
-                "B": "तीन सौ",
-                "C": "दो सौ सत्तर",
-                "D": "साढ़े तीन सौ"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक कभी नहीं बढ़ता?",
+            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक नहीं बढ़ता है?",
             "options": {
                 "A": "नाक",
                 "B": "कान",
-                "C": "आंख",
+                "C": "आँख",
                 "D": "दांत"
             },
             "correctAnswer": "C"
+        },
+        {
+            "question": "किस देश की तीन राजधानियां हैं?",
+            "options": {
+                "A": "दक्षिण अफ्रीका",
+                "B": "श्रीलंका",
+                "C": "अमेरिका",
+                "D": "चीन"
+            },
+            "correctAnswer": "A"
         }
     ]
 }
