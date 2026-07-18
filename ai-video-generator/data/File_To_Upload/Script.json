@@ -1,25 +1,25 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Answer All 5 Questions! 🧠",
-    "description": "Challenge your brain with these tricky questions! You only have 5 seconds for each. Comment your final score below! 👇\n#quiz #gk #shorts #trending",
+    "title": "Only 1% Can Score 5/5 On This 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds per question! Comment your final score below 👇 #quiz #gk #shorts",
     "questions": [
         {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "question": "हमारे सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
             "options": {
-                "A": "हमिंगबर्ड",
-                "B": "गौरैया",
-                "C": "कोयल",
-                "D": "कठफोड़वा"
+                "A": "बुध",
+                "B": "शुक्र",
+                "C": "मंगल",
+                "D": "बृहस्पति"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
         },
         {
-            "question": "किस जीव के पास तीन दिल होते हैं?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "केंचुआ",
-                "B": "ऑक्टोपस",
-                "C": "शार्क",
-                "D": "जेलीफिश"
+                "A": "ऊंट",
+                "B": "दरियाई घोड़ा",
+                "C": "शेरनी",
+                "D": "बकरी"
             },
             "correctAnswer": "B"
         },
@@ -29,27 +29,27 @@
                 "A": "कतर",
                 "B": "मिस्र",
                 "C": "सऊदी अरब",
-                "D": "सूडान"
+                "D": "ओमान"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस जानवर के पसीने का रंग गुलाबी होता है?",
+            "question": "एक नवजात शिशु के शरीर में कुल कितनी हड्डियां होती हैं?",
             "options": {
-                "A": "कंगारू",
-                "B": "दरियाई घोड़ा",
-                "C": "ऊंट",
-                "D": "जिराफ"
+                "A": "दो सौ छह",
+                "B": "तीन सौ",
+                "C": "दो सौ सत्तर",
+                "D": "साढ़े तीन सौ"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "कौन सा सांप अपना घोंसला बनाता है?",
+            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक कभी नहीं बढ़ता?",
             "options": {
-                "A": "अजगर",
-                "B": "रसेल वाइपर",
-                "C": "किंग कोबरा",
-                "D": "करैत"
+                "A": "नाक",
+                "B": "कान",
+                "C": "आंख",
+                "D": "दांत"
             },
             "correctAnswer": "C"
         }
