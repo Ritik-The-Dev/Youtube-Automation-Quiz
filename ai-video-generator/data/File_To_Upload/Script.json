@@ -1,27 +1,37 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "97% Of People Fail This Simple Quiz! 🧠",
-    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your final score below 👇 #quiz #gk #shorts #trending",
+    "title": "97% of People Fail This Tricky Quiz! 🧠",
+    "description": "You only have 5 seconds for each question! ⏳ Comment your final score below and challenge your friends! 👇 #quiz #gk #shorts",
     "questions": [
-        {
-            "question": "किस देश में एक भी सांप नहीं पाया जाता है?",
-            "options": {
-                "A": "भारत",
-                "B": "आयरलैंड",
-                "C": "ऑस्ट्रेलिया",
-                "D": "ब्राजील"
-            },
-            "correctAnswer": "B"
-        },
         {
             "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
             "options": {
                 "A": "कोयल",
-                "B": "तोता",
-                "C": "हमिंगबर्ड",
+                "B": "गुंजन पक्षी",
+                "C": "गौरैया",
                 "D": "कबूतर"
             },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस जीव के पास तीन दिल होते हैं?",
+            "options": {
+                "A": "केंचुआ",
+                "B": "शार्क",
+                "C": "ऑक्टोपस",
+                "D": "व्हेल"
+            },
             "correctAnswer": "C"
+        },
+        {
+            "question": "दुनिया का ऐसा कौन सा देश है जहां एक भी पेड़ नहीं है?",
+            "options": {
+                "A": "कतर",
+                "B": "मिस्र",
+                "C": "सऊदी अरब",
+                "D": "सूडान"
+            },
+            "correctAnswer": "A"
         },
         {
             "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
@@ -34,24 +44,14 @@
             "correctAnswer": "B"
         },
         {
-            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक नहीं बढ़ता है?",
+            "question": "एकमात्र ऐसा कौन सा सांप है जो घोंसला बनाता है?",
             "options": {
-                "A": "नाक",
-                "B": "कान",
-                "C": "आँख",
-                "D": "दांत"
+                "A": "अजगर",
+                "B": "रसेल वाइपर",
+                "C": "किंग कोबरा",
+                "D": "करैत"
             },
             "correctAnswer": "C"
-        },
-        {
-            "question": "किस देश की तीन राजधानियां हैं?",
-            "options": {
-                "A": "दक्षिण अफ्रीका",
-                "B": "श्रीलंका",
-                "C": "अमेरिका",
-                "D": "चीन"
-            },
-            "correctAnswer": "A"
         }
     ]
 }
