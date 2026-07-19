@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This Tricky Quiz! 🧠",
-    "description": "Think you are smart? Prove it in 5 seconds per question! ⏳ Comment your final score below 👇 #quiz #gk #shorts #trending",
+    "title": "93% of People Fail This Simple Test! 🧠",
+    "description": "Think you are smart? Prove it in 5 seconds! Comment your final score below 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जानवर के दूध का रंग गुलाबी होता है?",
+            "question": "किस जीव की आँखें नहीं होती हैं?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊंट",
-                "C": "जिराफ",
-                "D": "कंगारू"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "दुनिया के किस देश में एक भी पेड़ नहीं है?",
-            "options": {
-                "A": "सऊदी अरब",
-                "B": "कतर",
-                "C": "मिस्र",
-                "D": "ओमान"
+                "A": "सांप",
+                "B": "केंचुआ",
+                "C": "चमगादड़",
+                "D": "चींटी"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "हमिंगबर्ड",
-                "B": "कोयल",
-                "C": "बाज",
-                "D": "गौरैया"
+                "A": "फ्रांस",
+                "B": "आइसलैंड",
+                "C": "जापान",
+                "D": "कनाडा"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
         },
         {
-            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक नहीं बढ़ता है?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "कान",
-                "B": "नाक",
-                "C": "आंख",
-                "D": "दांत"
+                "A": "जिराफ",
+                "B": "ऊंट",
+                "C": "हिप्पो",
+                "D": "बंदर"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "दुनिया में सबसे ज्यादा द्वीप किस देश में हैं?",
+            "question": "किस फल का बीज उसके बाहर की तरफ होता है?",
             "options": {
-                "A": "इंडोनेशिया",
-                "B": "मालदीव",
-                "C": "स्वीडन",
-                "D": "फिलीपींस"
+                "A": "स्ट्रॉबेरी",
+                "B": "सेब",
+                "C": "केला",
+                "D": "पपीता"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "options": {
+                "A": "कोयल",
+                "B": "तोता",
+                "C": "हमिंगबर्ड",
+                "D": "कबूतर"
             },
             "correctAnswer": "C"
         }
