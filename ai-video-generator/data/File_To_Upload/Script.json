@@ -1,57 +1,57 @@
 {
-    "quizTopic": "Tricky World Facts",
-    "title": "Only 1% Can Score 5/5 On This Quiz! 😱",
-    "description": "Test your brain power in 5 seconds per question! ⏳\nComment your final score below! 👇\n#quiz #gk #shorts",
+    "quizTopic": "General Knowledge",
+    "title": "99% People Fail This Tricky Mind Test 😱",
+    "description": "Test your brain in 5 seconds per question ⏳\nComment your score below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "हमारे सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
+            "question": "किस जीव का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "बुध",
-                "B": "शुक्र",
-                "C": "मंगल",
-                "D": "बृहस्पति"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "एक ऑक्टोपस के शरीर में कुल कितने दिल होते हैं?",
-            "options": {
-                "A": "एक",
-                "B": "दो",
-                "C": "तीन",
-                "D": "चार"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "मानव शरीर का कौन सा अंग कटने के बाद दोबारा बढ़ सकता है?",
-            "options": {
-                "A": "हृदय",
-                "B": "यकृत",
-                "C": "फेफड़ा",
-                "D": "गुर्दा"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "दुनिया के किस देश में एक भी सांप नहीं पाया जाता?",
-            "options": {
-                "A": "न्यूजीलैंड",
-                "B": "ब्राजील",
-                "C": "फ्रांस",
-                "D": "जापान"
+                "A": "दरियाई घोड़ा",
+                "B": "ऊंट",
+                "C": "हाथी",
+                "D": "बकरी"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस फल के बीज उसके फल के बाहर होते हैं?",
+            "question": "ऐसा कौन सा जीव है जो अपनी पूरी जिंदगी में कभी नहीं सोता?",
             "options": {
-                "A": "अनार",
-                "B": "स्ट्रॉबेरी",
-                "C": "अमरूद",
-                "D": "तरबूज"
+                "A": "चींटी",
+                "B": "कछुआ",
+                "C": "सांप",
+                "D": "मछली"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "A"
+        },
+        {
+            "question": "भारत के किस राज्य में केवल दो ही जिले हैं?",
+            "options": {
+                "A": "गोवा",
+                "B": "सिक्किम",
+                "C": "नागालैंड",
+                "D": "मणिपुर"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "दुनिया के किस देश में एक भी नदी नहीं बहती है?",
+            "options": {
+                "A": "सऊदी अरब",
+                "B": "नेपाल",
+                "C": "भूटान",
+                "D": "बांग्लादेश"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "किस फल के बीज में जहरीला पदार्थ पाया जाता है?",
+            "options": {
+                "A": "सेब",
+                "B": "आम",
+                "C": "संतरा",
+                "D": "पपीता"
+            },
+            "correctAnswer": "A"
         }
     ]
 }
