@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This Tricky Quiz! 🤯",
-    "description": "Test your brain in 5 seconds per question ⏳ Comment your score below 👇 #gk #quiz #shorts",
+    "title": "Only 1% Can Score 5/5 On This Tricky Quiz! 😱",
+    "description": "Test your brain with these tricky questions in just 5 seconds! ⏳\nComment your score below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "किस जीव का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "हाथी",
-                "B": "दरियाई घोड़ा",
-                "C": "ऊंट",
-                "D": "जिराफ"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता है?",
-            "options": {
-                "A": "फ्रांस",
-                "B": "आइसलैंड",
-                "C": "जापान",
-                "D": "स्विट्जरलैंड"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
-            "options": {
-                "A": "गुंजन पक्षी",
-                "B": "बाज",
-                "C": "उल्लू",
-                "D": "कोयल"
+                "A": "हिप्पो",
+                "B": "ऊंट",
+                "C": "जिराफ",
+                "D": "बकरी"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस जीव का दिल उसके सिर में स्थित होता है?",
+            "question": "मधुमक्खी के पास कुल कितनी आंखें होती हैं?",
             "options": {
-                "A": "केकड़ा",
-                "B": "झींगा",
-                "C": "ऑक्टोपस",
-                "D": "तारा मछली"
+                "A": "दो",
+                "B": "चार",
+                "C": "पांच",
+                "D": "आठ"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "पीछे की ओर उड़ने वाला एकमात्र पक्षी कौन सा है?",
+            "options": {
+                "A": "मोर",
+                "B": "हमिंगबर्ड",
+                "C": "तोता",
+                "D": "चील"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "मानव शरीर का कौन सा अंग कटने के बाद भी दोबारा बढ़ सकता है?",
+            "question": "किस देश में एक भी सांप नहीं पाया जाता है?",
             "options": {
-                "A": "दिल",
-                "B": "दिमाग",
-                "C": "यकृत",
-                "D": "गुर्दा"
+                "A": "भारत",
+                "B": "ब्राजील",
+                "C": "न्यूजीलैंड",
+                "D": "जापान"
             },
             "correctAnswer": "C"
+        },
+        {
+            "question": "किस फल का बीज उसके बाहर की तरफ होता है?",
+            "options": {
+                "A": "सेब",
+                "B": "स्ट्रॉबेरी",
+                "C": "आम",
+                "D": "अमरूद"
+            },
+            "correctAnswer": "B"
         }
     ]
 }
