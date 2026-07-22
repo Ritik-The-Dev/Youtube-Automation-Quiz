@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "99% People Fail This Tricky Mind Test 😱",
-    "description": "Test your brain in 5 seconds per question ⏳\nComment your score below 👇\n#quiz #gk #shorts",
+    "title": "Only 1% Can Score 5/5 On This Tricky Quiz! 🤯",
+    "description": "Test your brain in 5 seconds per question ⏳ Comment your score below 👇 #gk #quiz #shorts",
     "questions": [
         {
-            "question": "किस जीव का दूध गुलाबी रंग का होता है?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊंट",
-                "C": "हाथी",
-                "D": "बकरी"
+                "A": "हाथी",
+                "B": "दरियाई घोड़ा",
+                "C": "ऊंट",
+                "D": "जिराफ"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "options": {
+                "A": "फ्रांस",
+                "B": "आइसलैंड",
+                "C": "जापान",
+                "D": "स्विट्जरलैंड"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "options": {
+                "A": "गुंजन पक्षी",
+                "B": "बाज",
+                "C": "उल्लू",
+                "D": "कोयल"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "ऐसा कौन सा जीव है जो अपनी पूरी जिंदगी में कभी नहीं सोता?",
+            "question": "किस जीव का दिल उसके सिर में स्थित होता है?",
             "options": {
-                "A": "चींटी",
-                "B": "कछुआ",
-                "C": "सांप",
-                "D": "मछली"
+                "A": "केकड़ा",
+                "B": "झींगा",
+                "C": "ऑक्टोपस",
+                "D": "तारा मछली"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
         },
         {
-            "question": "भारत के किस राज्य में केवल दो ही जिले हैं?",
+            "question": "मानव शरीर का कौन सा अंग कटने के बाद भी दोबारा बढ़ सकता है?",
             "options": {
-                "A": "गोवा",
-                "B": "सिक्किम",
-                "C": "नागालैंड",
-                "D": "मणिपुर"
+                "A": "दिल",
+                "B": "दिमाग",
+                "C": "यकृत",
+                "D": "गुर्दा"
             },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "दुनिया के किस देश में एक भी नदी नहीं बहती है?",
-            "options": {
-                "A": "सऊदी अरब",
-                "B": "नेपाल",
-                "C": "भूटान",
-                "D": "बांग्लादेश"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "किस फल के बीज में जहरीला पदार्थ पाया जाता है?",
-            "options": {
-                "A": "सेब",
-                "B": "आम",
-                "C": "संतरा",
-                "D": "पपीता"
-            },
-            "correctAnswer": "A"
+            "correctAnswer": "C"
         }
     ]
 }
