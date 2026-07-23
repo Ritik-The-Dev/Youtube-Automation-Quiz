@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This Tricky Quiz! 😱",
-    "description": "Test your brain with these tricky questions in just 5 seconds! ⏳\nComment your score below 👇\n#quiz #gk #shorts",
+    "title": "Only 1% Can Get 5/5 On This GK Quiz! 😱",
+    "description": "Test your general knowledge in just 5 seconds per question! ⏳\nComment your final score below! 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
             "question": "किस जीव का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "हिप्पो",
-                "B": "ऊंट",
-                "C": "जिराफ",
-                "D": "बकरी"
+                "A": "ऊँट",
+                "B": "दरियाई घोड़ा",
+                "C": "हाथी",
+                "D": "जिराफ"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस फल के बीज फल के बाहर की तरफ होते हैं?",
+            "options": {
+                "A": "स्ट्रॉबेरी",
+                "B": "अमरूद",
+                "C": "अनानास",
+                "D": "लीची"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "मधुमक्खी के पास कुल कितनी आंखें होती हैं?",
+            "question": "मानव शरीर का कौन सा अंग कटने के बाद फिर से बढ़ सकता है?",
             "options": {
-                "A": "दो",
-                "B": "चार",
-                "C": "पांच",
-                "D": "आठ"
+                "A": "दिमाग",
+                "B": "दिल",
+                "C": "यकृत",
+                "D": "गुर्दा"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "पीछे की ओर उड़ने वाला एकमात्र पक्षी कौन सा है?",
-            "options": {
-                "A": "मोर",
-                "B": "हमिंगबर्ड",
-                "C": "तोता",
-                "D": "चील"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस देश में एक भी सांप नहीं पाया जाता है?",
+            "question": "दुनिया के किस देश में एक भी साँप नहीं पाया जाता है?",
             "options": {
                 "A": "भारत",
-                "B": "ब्राजील",
-                "C": "न्यूजीलैंड",
-                "D": "जापान"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "किस फल का बीज उसके बाहर की तरफ होता है?",
-            "options": {
-                "A": "सेब",
-                "B": "स्ट्रॉबेरी",
-                "C": "आम",
-                "D": "अमरूद"
+                "B": "न्यूजीलैंड",
+                "C": "ब्राजील",
+                "D": "ऑस्ट्रेलिया"
             },
             "correctAnswer": "B"
+        },
+        {
+            "question": "समुद्री जीव ऑक्टोपस के पास कुल कितने दिल होते हैं?",
+            "options": {
+                "A": "एक",
+                "B": "दो",
+                "C": "तीन",
+                "D": "चार"
+            },
+            "correctAnswer": "C"
         }
     ]
 }
