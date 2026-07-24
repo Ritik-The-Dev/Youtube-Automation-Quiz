@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only Smart Minds Can Pass This Quiz 🤯",
-    "description": "Test your brain with these 5 tricky questions in 5 seconds ⏳ Comment your final score below! 👇 #quiz #gk #shorts",
+    "title": "Only 1% Can Score 5/5 On This Quiz! 😱",
+    "description": "Think you are smart? Test your brain with these 5 tricky questions in 5 seconds! ⏳\nComment your final score below! 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "मानव शरीर का कौन सा अंग अंधेरे में अपने आप बड़ा हो जाता है?",
+            "question": "किस जीव का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "कान",
-                "B": "आँख की पुतली",
-                "C": "नाक",
-                "D": "जीभ"
+                "A": "ऊँट",
+                "B": "दरियाई घोड़ा",
+                "C": "बकरी",
+                "D": "जिराफ़"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "ऐसा कौन सा जीव है जो अपने पूरे जीवन में कभी नहीं सोता?",
+            "question": "किस जीव के पास तीन दिल होते हैं?",
             "options": {
-                "A": "चींटी",
-                "B": "साँप",
-                "C": "कछुआ",
-                "D": "मछली"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "ऐसा कौन सा समुद्री जीव है जिसका दिल उसके सिर में होता है?",
-            "options": {
-                "A": "केकड़ा",
-                "B": "झींगा",
+                "A": "शार्क",
+                "B": "जेलीफिश",
                 "C": "ऑक्टोपस",
                 "D": "स्टारफिश"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "C"
         },
         {
-            "question": "किस फल के बीज में जहरीला पदार्थ पाया जाता है?",
+            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "सेब",
-                "B": "केला",
-                "C": "संतरा",
-                "D": "अनार"
+                "A": "आइसलैंड",
+                "B": "जापान",
+                "C": "फ्रांस",
+                "D": "स्विट्जरलैंड"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "दुनिया में सबसे अधिक ऑक्सीजन देने वाला पेड़ कौन सा है?",
+            "question": "किस फल के बीज फल के बाहर होते हैं?",
             "options": {
-                "A": "नीम",
-                "B": "बरगद",
-                "C": "पीपल",
-                "D": "अमरूद"
+                "A": "सेब",
+                "B": "स्ट्रॉबेरी",
+                "C": "केला",
+                "D": "अनानास"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "मानव शरीर का कौन सा अंग सबसे ज्यादा ऊर्जा खर्च करता है?",
+            "options": {
+                "A": "हृदय",
+                "B": "यकृत",
+                "C": "मस्तिष्क",
+                "D": "फेफड़े"
             },
             "correctAnswer": "C"
         }
