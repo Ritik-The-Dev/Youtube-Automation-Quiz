@@ -1,57 +1,57 @@
 {
-    "quizTopic": "Tricky World Facts",
-    "title": "Only 1% Can Score 5/5 On This Tricky Test 😱",
-    "description": "Test your brain in 5 seconds per question ⏳\nComment your score below 👇\n#quiz #gk #shorts #trending",
+    "quizTopic": "General Knowledge",
+    "title": "Only Smart Minds Can Pass This Quiz 🤯",
+    "description": "Test your brain with these 5 tricky questions in 5 seconds ⏳ Comment your final score below! 👇 #quiz #gk #shorts",
     "questions": [
         {
-            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
+            "question": "मानव शरीर का कौन सा अंग अंधेरे में अपने आप बड़ा हो जाता है?",
             "options": {
-                "A": "बुध",
-                "B": "शुक्र",
-                "C": "मंगल",
-                "D": "बृहस्पति"
+                "A": "कान",
+                "B": "आँख की पुतली",
+                "C": "नाक",
+                "D": "जीभ"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "दुनिया का सबसे बड़ा मरुस्थल कौन सा है?",
+            "question": "ऐसा कौन सा जीव है जो अपने पूरे जीवन में कभी नहीं सोता?",
             "options": {
-                "A": "सहारा",
-                "B": "थार",
-                "C": "अंटार्कटिका",
-                "D": "गोबी"
+                "A": "चींटी",
+                "B": "साँप",
+                "C": "कछुआ",
+                "D": "मछली"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "ऐसा कौन सा समुद्री जीव है जिसका दिल उसके सिर में होता है?",
+            "options": {
+                "A": "केकड़ा",
+                "B": "झींगा",
+                "C": "ऑक्टोपस",
+                "D": "स्टारफिश"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस फल के बीज में जहरीला पदार्थ पाया जाता है?",
+            "options": {
+                "A": "सेब",
+                "B": "केला",
+                "C": "संतरा",
+                "D": "अनार"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "दुनिया में सबसे अधिक ऑक्सीजन देने वाला पेड़ कौन सा है?",
+            "options": {
+                "A": "नीम",
+                "B": "बरगद",
+                "C": "पीपल",
+                "D": "अमरूद"
             },
             "correctAnswer": "C"
-        },
-        {
-            "question": "मानव शरीर की सबसे मजबूत मांसपेशी कौन सी है?",
-            "options": {
-                "A": "जीभ",
-                "B": "जबड़ा",
-                "C": "जांघ",
-                "D": "हृदय"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस जीव का खून नीले रंग का होता है?",
-            "options": {
-                "A": "ऑक्टोपस",
-                "B": "शार्क",
-                "C": "कछुआ",
-                "D": "तेंदुआ"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "कौन सा पक्षी पीछे की दिशा में भी उड़ सकता है?",
-            "options": {
-                "A": "गुंजन पक्षी",
-                "B": "बाज",
-                "C": "उल्लू",
-                "D": "कोयल"
-            },
-            "correctAnswer": "A"
         }
     ]
 }
