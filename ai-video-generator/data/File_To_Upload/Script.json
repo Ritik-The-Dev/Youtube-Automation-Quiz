@@ -1,55 +1,55 @@
 {
-    "quizTopic": "Tricky General Knowledge",
-    "title": "Only 1% Can Get 5/5 Right! 🤯",
-    "description": "Test your brain in 5 seconds per question ⏳\nComment your score below! 👇\n#quiz #gk #shorts #trending",
+    "quizTopic": "Tricky World Facts",
+    "title": "Only 1% Can Score 5/5 On This Tricky Test 😱",
+    "description": "Test your brain in 5 seconds per question ⏳\nComment your score below 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जीव का दिल उसके सिर में होता है?",
+            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
             "options": {
-                "A": "झींगा",
-                "B": "केकड़ा",
-                "C": "ऑक्टोपस",
-                "D": "मछली"
+                "A": "बुध",
+                "B": "शुक्र",
+                "C": "मंगल",
+                "D": "बृहस्पति"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
         },
         {
-            "question": "किस जीव के पास तीन दिल और नीला खून होता है?",
+            "question": "दुनिया का सबसे बड़ा मरुस्थल कौन सा है?",
             "options": {
-                "A": "ऑक्टोपस",
-                "B": "व्हेल",
-                "C": "शार्क",
-                "D": "कछुआ"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक कभी नहीं बढ़ता?",
-            "options": {
-                "A": "कान",
-                "B": "नाक",
-                "C": "आंख की पुतली",
-                "D": "दांत"
+                "A": "सहारा",
+                "B": "थार",
+                "C": "अंटार्कटिका",
+                "D": "गोबी"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "कौन सा पक्षी पीछे की तरफ भी उड़ सकता है?",
+            "question": "मानव शरीर की सबसे मजबूत मांसपेशी कौन सी है?",
             "options": {
-                "A": "गुंजन पक्षी",
-                "B": "कोयल",
-                "C": "बाज",
-                "D": "गौरैया"
+                "A": "जीभ",
+                "B": "जबड़ा",
+                "C": "जांघ",
+                "D": "हृदय"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस जीव का खून नीले रंग का होता है?",
+            "options": {
+                "A": "ऑक्टोपस",
+                "B": "शार्क",
+                "C": "कछुआ",
+                "D": "तेंदुआ"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "दुनिया के किस देश में एक भी नदी नहीं बहती है?",
+            "question": "कौन सा पक्षी पीछे की दिशा में भी उड़ सकता है?",
             "options": {
-                "A": "सऊदी अरब",
-                "B": "मिस्र",
-                "C": "ईरान",
-                "D": "तुर्की"
+                "A": "गुंजन पक्षी",
+                "B": "बाज",
+                "C": "उल्लू",
+                "D": "कोयल"
             },
             "correctAnswer": "A"
         }
