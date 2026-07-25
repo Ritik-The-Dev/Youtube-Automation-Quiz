@@ -1,15 +1,25 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "99% People Fail This Mind-Bending Quiz 😱",
-    "description": "Test your brain in 5 seconds per question ⏳\nComment your score below! 👇\n#quiz #gk #shorts #trending",
+    "title": "Only 1% Can Score 5/5 On This Tricky Quiz! 😱",
+    "description": "Test your brain with these 5 tricky questions in 5 seconds! ⏳\nComment your score below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "ऑस्ट्रेलिया की राजधानी कौन सी है?",
+            "question": "किस जानवर का दूध कभी नहीं जमता?",
             "options": {
-                "A": "सिडनी",
-                "B": "कैनबरा",
-                "C": "मेलबर्न",
-                "D": "पर्थ"
+                "A": "गाय",
+                "B": "भैंस",
+                "C": "ऊंट",
+                "D": "बकरी"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "options": {
+                "A": "चील",
+                "B": "गुंजन पक्षी",
+                "C": "तोता",
+                "D": "कोयल"
             },
             "correctAnswer": "B"
         },
@@ -17,41 +27,31 @@
             "question": "किस देश में एक भी नदी नहीं बहती है?",
             "options": {
                 "A": "सऊदी अरब",
-                "B": "इरान",
-                "C": "मिस्र",
-                "D": "तुर्की"
+                "B": "मिस्र",
+                "C": "ईरान",
+                "D": "नेपाल"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "चाँद पर पानी की खोज सबसे पहले किस देश ने की थी?",
+            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक नहीं बढ़ता?",
             "options": {
-                "A": "अमेरिका",
-                "B": "रूस",
-                "C": "चीन",
-                "D": "भारत"
+                "A": "नाक",
+                "B": "कान",
+                "C": "आंख की पुतली",
+                "D": "दांत"
             },
-            "correctAnswer": "D"
+            "correctAnswer": "C"
         },
         {
-            "question": "कौन सा जीव अपनी सांस 6 दिनों तक रोक सकता है?",
+            "question": "कौन सा पेड़ सबसे अधिक ऑक्सीजन देता है?",
             "options": {
-                "A": "सांप",
-                "B": "बिच्छू",
-                "C": "मेंढक",
-                "D": "कछुआ"
+                "A": "नीम",
+                "B": "बरगद",
+                "C": "पीपल",
+                "D": "शीशम"
             },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस फल के बीज में जहर पाया जाता है?",
-            "options": {
-                "A": "सेब",
-                "B": "आम",
-                "C": "पपीता",
-                "D": "अनार"
-            },
-            "correctAnswer": "A"
+            "correctAnswer": "C"
         }
     ]
 }
