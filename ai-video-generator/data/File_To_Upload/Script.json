@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This Quiz! 😱",
-    "description": "Think you are smart? Test your brain with these 5 tricky questions in 5 seconds! ⏳\nComment your final score below! 👇\n#quiz #gk #shorts #trending",
+    "title": "99% People Fail This Mind-Bending Quiz 😱",
+    "description": "Test your brain in 5 seconds per question ⏳\nComment your score below! 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जीव का दूध गुलाबी रंग का होता है?",
+            "question": "ऑस्ट्रेलिया की राजधानी कौन सी है?",
             "options": {
-                "A": "ऊँट",
-                "B": "दरियाई घोड़ा",
-                "C": "बकरी",
-                "D": "जिराफ़"
+                "A": "सिडनी",
+                "B": "कैनबरा",
+                "C": "मेलबर्न",
+                "D": "पर्थ"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस जीव के पास तीन दिल होते हैं?",
+            "question": "किस देश में एक भी नदी नहीं बहती है?",
             "options": {
-                "A": "शार्क",
-                "B": "जेलीफिश",
-                "C": "ऑक्टोपस",
-                "D": "स्टारफिश"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
-            "options": {
-                "A": "आइसलैंड",
-                "B": "जापान",
-                "C": "फ्रांस",
-                "D": "स्विट्जरलैंड"
+                "A": "सऊदी अरब",
+                "B": "इरान",
+                "C": "मिस्र",
+                "D": "तुर्की"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस फल के बीज फल के बाहर होते हैं?",
+            "question": "चाँद पर पानी की खोज सबसे पहले किस देश ने की थी?",
             "options": {
-                "A": "सेब",
-                "B": "स्ट्रॉबेरी",
-                "C": "केला",
-                "D": "अनानास"
+                "A": "अमेरिका",
+                "B": "रूस",
+                "C": "चीन",
+                "D": "भारत"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "कौन सा जीव अपनी सांस 6 दिनों तक रोक सकता है?",
+            "options": {
+                "A": "सांप",
+                "B": "बिच्छू",
+                "C": "मेंढक",
+                "D": "कछुआ"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "मानव शरीर का कौन सा अंग सबसे ज्यादा ऊर्जा खर्च करता है?",
+            "question": "किस फल के बीज में जहर पाया जाता है?",
             "options": {
-                "A": "हृदय",
-                "B": "यकृत",
-                "C": "मस्तिष्क",
-                "D": "फेफड़े"
+                "A": "सेब",
+                "B": "आम",
+                "C": "पपीता",
+                "D": "अनार"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "A"
         }
     ]
 }
