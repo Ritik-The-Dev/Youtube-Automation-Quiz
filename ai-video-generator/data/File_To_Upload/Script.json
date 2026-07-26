@@ -1,57 +1,57 @@
 {
-    "quizTopic": "General Knowledge",
-    "title": "99% Of People Will Fail This Brain Challenge! 😱",
-    "description": "Test your brain in 5 seconds per question! ⏳\nComment your final score below! 👇\n#quiz #gk #shorts #trending",
+    "quizTopic": "Tricky General Knowledge",
+    "title": "Only 1% Can Score 5/5 On This Quiz 🤯",
+    "description": "Test your brain in 5 seconds per question! ⏳\nComment your final score below 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "ऐसा कौन सा पक्षी है जो पीछे की दिशा में भी उड़ सकता है?",
             "options": {
-                "A": "हाथी",
-                "B": "दरियाई घोड़ा",
-                "C": "ऊंट",
-                "D": "जिराफ"
+                "A": "गुंजन पक्षी",
+                "B": "बाज",
+                "C": "कोयल",
+                "D": "शुतुरमुर्ग"
             },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "ऑक्टोपस के पास कुल कितने दिल होते हैं?",
-            "options": {
-                "A": "एक",
-                "B": "दो",
-                "C": "तीन",
-                "D": "चार"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "कौन सा पक्षी पीछे की दिशा में भी उड़ सकता है?",
-            "options": {
-                "A": "कोयल",
-                "B": "गुंजन पक्षी",
-                "C": "गौरैया",
-                "D": "तोता"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "कौन सी धातु सामान्य तापमान पर तरल रूप में रहती है?",
-            "options": {
-                "A": "सोना",
-                "B": "चांदी",
-                "C": "पारा",
-                "D": "लोहा"
-            },
-            "correctAnswer": "C"
+            "correctAnswer": "A"
         },
         {
             "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक कभी नहीं बढ़ता?",
             "options": {
                 "A": "कान",
                 "B": "नाक",
-                "C": "आंख",
-                "D": "दिल"
+                "C": "आंख की पुतली",
+                "D": "नाखून"
             },
             "correctAnswer": "C"
+        },
+        {
+            "question": "किस जीव का हृदय उसके सिर के अंदर स्थित होता है?",
+            "options": {
+                "A": "झींगा",
+                "B": "बिच्छू",
+                "C": "कछुआ",
+                "D": "सांप"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "विश्व का ऐसा कौन सा महाद्वीप है जहां एक भी मरुस्थल नहीं है?",
+            "options": {
+                "A": "एशिया",
+                "B": "यूरोप",
+                "C": "दक्षिण अमेरिका",
+                "D": "ऑस्ट्रेलिया"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "ऐसा कौन सा जीव है जो अपने पूरे जीवन में कभी पानी नहीं पीता?",
+            "options": {
+                "A": "कंगारू चूहा",
+                "B": "ऊंट",
+                "C": "बिच्छू",
+                "D": "गिरगिट"
+            },
+            "correctAnswer": "A"
         }
     ]
 }
