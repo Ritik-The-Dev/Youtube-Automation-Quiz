@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This Tricky Quiz! 😱",
-    "description": "Test your brain with these 5 tricky questions in 5 seconds! ⏳\nComment your score below 👇\n#quiz #gk #shorts",
+    "title": "99% Of People Will Fail This Brain Challenge! 😱",
+    "description": "Test your brain in 5 seconds per question! ⏳\nComment your final score below! 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जानवर का दूध कभी नहीं जमता?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "गाय",
-                "B": "भैंस",
+                "A": "हाथी",
+                "B": "दरियाई घोड़ा",
                 "C": "ऊंट",
-                "D": "बकरी"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
-            "options": {
-                "A": "चील",
-                "B": "गुंजन पक्षी",
-                "C": "तोता",
-                "D": "कोयल"
+                "D": "जिराफ"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस देश में एक भी नदी नहीं बहती है?",
+            "question": "ऑक्टोपस के पास कुल कितने दिल होते हैं?",
             "options": {
-                "A": "सऊदी अरब",
-                "B": "मिस्र",
-                "C": "ईरान",
-                "D": "नेपाल"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक नहीं बढ़ता?",
-            "options": {
-                "A": "नाक",
-                "B": "कान",
-                "C": "आंख की पुतली",
-                "D": "दांत"
+                "A": "एक",
+                "B": "दो",
+                "C": "तीन",
+                "D": "चार"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "कौन सा पेड़ सबसे अधिक ऑक्सीजन देता है?",
+            "question": "कौन सा पक्षी पीछे की दिशा में भी उड़ सकता है?",
             "options": {
-                "A": "नीम",
-                "B": "बरगद",
-                "C": "पीपल",
-                "D": "शीशम"
+                "A": "कोयल",
+                "B": "गुंजन पक्षी",
+                "C": "गौरैया",
+                "D": "तोता"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सी धातु सामान्य तापमान पर तरल रूप में रहती है?",
+            "options": {
+                "A": "सोना",
+                "B": "चांदी",
+                "C": "पारा",
+                "D": "लोहा"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक कभी नहीं बढ़ता?",
+            "options": {
+                "A": "कान",
+                "B": "नाक",
+                "C": "आंख",
+                "D": "दिल"
             },
             "correctAnswer": "C"
         }
