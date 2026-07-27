@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "99% Of People Fail This Tricky Brain Quiz! 😱",
-    "description": "Test your brain in 5 seconds per question! ⏳\nComment your final score below 👇\n#quiz #gk #shorts #viral",
+    "title": "99% Of People Fail This Tricky Brain Test 😱",
+    "description": "Test your brain power in just 5 seconds per question ⏳\nComment your final score below 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस समुद्री जीव का दिल उसके सिर में होता है?",
+            "question": "किस जीव की आँखें उसके दिमाग से भी बड़ी होती हैं?",
             "options": {
-                "A": "झींगा",
-                "B": "केकड़ा",
-                "C": "ऑक्टोपस",
-                "D": "तारा मछली"
+                "A": "शुतुरमुर्ग",
+                "B": "चील",
+                "C": "तोता",
+                "D": "मोर"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "भारत का कौन सा राज्य कभी अंग्रेजों का गुलाम नहीं हुआ?",
+            "question": "दुनिया के किस देश में एक भी नदी नहीं है?",
             "options": {
-                "A": "केरल",
+                "A": "सऊदी अरब",
+                "B": "मिस्र",
+                "C": "सूडान",
+                "D": "मोरक्को"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "भारत के किस राज्य में केवल दो ही जिले हैं?",
+            "options": {
+                "A": "सिक्किम",
                 "B": "गोवा",
-                "C": "सिक्किम",
-                "D": "असम"
+                "C": "त्रिपुरा",
+                "D": "नागालैंड"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "मानव शरीर का कौन सा अंग कभी विश्राम नहीं करता?",
+            "question": "कौआ किस देश का राष्ट्रीय पक्षी है?",
             "options": {
-                "A": "आंख",
-                "B": "यकृत",
-                "C": "हृदय",
-                "D": "मस्तिष्क"
+                "A": "भूटान",
+                "B": "नेपाल",
+                "C": "भारत",
+                "D": "म्यांमार"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "A"
         },
         {
-            "question": "ऐसा कौन सा जीव है जो बिना पानी पिए जिंदगी भर जीवित रह सकता है?",
+            "question": "किस फल को पकने में पूरे दो साल का समय लगता है?",
             "options": {
-                "A": "ऊंट",
-                "B": "कंगारू चूहा",
-                "C": "बिच्छू",
-                "D": "जिराफ"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "सूर्य का प्रकाश पृथ्वी तक पहुंचने में कितना समय लेता है?",
-            "options": {
-                "A": "लगभग ८ मिनट २० सेकंड",
-                "B": "लगभग ५ मिनट १० सेकंड",
-                "C": "लगभग १० मिनट ३० सेकंड",
-                "D": "लगभग १२ मिनट १५ सेकंड"
+                "A": "अनानास",
+                "B": "सेब",
+                "C": "नारियल",
+                "D": "अमरूद"
             },
             "correctAnswer": "A"
         }
