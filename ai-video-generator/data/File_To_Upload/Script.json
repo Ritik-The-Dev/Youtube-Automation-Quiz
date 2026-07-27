@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "99% Of People Fail This Tricky Brain Test 😱",
-    "description": "Test your brain power in just 5 seconds per question ⏳\nComment your final score below 👇\n#quiz #gk #shorts #trending",
+    "title": "Only 1% Can Score 5/5 On This Test! 🤯",
+    "description": "Test your brain in 5 seconds per question! ⏳\nComment your score below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस जीव की आँखें उसके दिमाग से भी बड़ी होती हैं?",
+            "question": "किस जीव के दूध का रंग गुलाबी होता है?",
             "options": {
-                "A": "शुतुरमुर्ग",
-                "B": "चील",
-                "C": "तोता",
-                "D": "मोर"
+                "A": "दरियाई घोड़ा",
+                "B": "ऊंट",
+                "C": "जिराफ",
+                "D": "बकरी"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "दुनिया के किस देश में एक भी नदी नहीं है?",
+            "question": "ऑक्टोपस के शरीर में कुल कितने दिल होते हैं?",
             "options": {
-                "A": "सऊदी अरब",
-                "B": "मिस्र",
-                "C": "सूडान",
-                "D": "मोरक्को"
+                "A": "एक",
+                "B": "दो",
+                "C": "तीन",
+                "D": "चार"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "C"
         },
         {
-            "question": "भारत के किस राज्य में केवल दो ही जिले हैं?",
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
             "options": {
-                "A": "सिक्किम",
-                "B": "गोवा",
-                "C": "त्रिपुरा",
-                "D": "नागालैंड"
+                "A": "कोयल",
+                "B": "गुंजन पक्षी",
+                "C": "शुतुरमुर्ग",
+                "D": "बाज"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "कौआ किस देश का राष्ट्रीय पक्षी है?",
+            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "भूटान",
-                "B": "नेपाल",
-                "C": "भारत",
-                "D": "म्यांमार"
+                "A": "जापान",
+                "B": "फ्रांस",
+                "C": "आइसलैंड",
+                "D": "स्विट्जरलैंड"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "C"
         },
         {
-            "question": "किस फल को पकने में पूरे दो साल का समय लगता है?",
+            "question": "कौन सा स्तनधारी जीव बच्चे पैदा करने के बजाय अंडे देता है?",
             "options": {
-                "A": "अनानास",
-                "B": "सेब",
-                "C": "नारियल",
-                "D": "अमरूद"
+                "A": "चमगादड़",
+                "B": "प्लेटिपस",
+                "C": "डॉल्फिन",
+                "D": "कंगारू"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
         }
     ]
 }
