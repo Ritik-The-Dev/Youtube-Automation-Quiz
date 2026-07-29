@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only Smart Minds Can Get 5/5 Right! 🤯",
-    "description": "Test your brain in 5 seconds per question ⏳\nComment your score below 👇\n#quiz #gk #shorts",
+    "title": "Only 1% Can Score 5/5 On This Quiz! 🤯",
+    "description": "Test your brain with these tricky trivia questions in 5 seconds! ⏳\nComment your final score below 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस फल के बीज में हल्का जहर पाया जाता है?",
+            "question": "किस जीव के पास तीन दिल होते हैं?",
             "options": {
-                "A": "आम",
-                "B": "सेब",
-                "C": "संतरा",
-                "D": "केला"
+                "A": "ऑक्टोपस",
+                "B": "शार्क",
+                "C": "डॉल्फिन",
+                "D": "व्हेल"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "A"
         },
         {
-            "question": "किस समुद्री जीव के पास तीन दिल और नीला खून होता है?",
+            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "शार्क",
-                "B": "ऑक्टोपस",
-                "C": "स्टारफिश",
-                "D": "डॉल्फ़िन"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक कभी नहीं बढ़ता?",
-            "options": {
-                "A": "कान",
-                "B": "नाक",
-                "C": "आँख",
-                "D": "दाँत"
+                "A": "जापान",
+                "B": "फ्रांस",
+                "C": "आइसलैंड",
+                "D": "नॉर्वे"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "दुनिया का सबसे बड़ा फूल कौन सा है?",
+            "question": "जन्म के समय फ्लेमिंगो पक्षी का रंग कैसा होता है?",
             "options": {
-                "A": "सूरजमुखी",
-                "B": "रेफ़्लेशिया",
-                "C": "गुलाब",
-                "D": "कमल"
+                "A": "गुलाबी",
+                "B": "सफेद या भूरा",
+                "C": "लाल",
+                "D": "पीला"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस देश में एक भी चींटी नहीं पाई जाती है?",
+            "question": "सौरमंडल का कौन सा ग्रह अपनी धुरी पर उल्टा घूमता है?",
             "options": {
-                "A": "जापान",
-                "B": "ग्रीनलैंड",
-                "C": "फ्रांस",
-                "D": "ब्राजील"
+                "A": "मंगल",
+                "B": "शुक्र",
+                "C": "बृहस्पति",
+                "D": "शनि"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "वैज्ञानिक रूप से इनमें से कौन सा फल वास्तव में एक बेरी है?",
+            "options": {
+                "A": "स्ट्रॉबेरी",
+                "B": "केला",
+                "C": "सेब",
+                "D": "संतरा"
             },
             "correctAnswer": "B"
         }
