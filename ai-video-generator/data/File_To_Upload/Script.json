@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "99% People Get Question 3 Wrong! 🤯",
-    "description": "Can you get 5/5 in this fast-paced brain test? ⏳\nComment your score below! 👇\n#quiz #gk #shorts",
+    "title": "99% Of People Fail This Tricky Brain Test! 😱",
+    "description": "Test your intelligence with these 5 tricky questions! ⏳\nComment your final score below! 👇\n#quiz #gk #shorts #viral",
     "questions": [
         {
-            "question": "किस जीव के दूध का रंग गुलाबी होता है?",
+            "question": "किस जीव के दूध का रंग प्राकृतिक रूप से गुलाबी होता है?",
             "options": {
-                "A": "हाथी",
-                "B": "दरियाई घोड़ा",
-                "C": "ऊंट",
-                "D": "जिराफ"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "विश्व के किस देश की तीन राजधानियां हैं?",
-            "options": {
-                "A": "दक्षिण अफ्रीका",
-                "B": "कनाडा",
-                "C": "ब्राजील",
-                "D": "नॉर्वे"
+                "A": "दरियाई घोड़ा",
+                "B": "ऊंट",
+                "C": "जिराफ",
+                "D": "नीलगाय"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "पीछे की ओर उड़ने वाला एकमात्र पक्षी कौन सा है?",
+            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक कभी नहीं बढ़ता?",
             "options": {
-                "A": "गिद्ध",
+                "A": "कान",
+                "B": "नाक",
+                "C": "आँख की पुतली",
+                "D": "दाँत"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "options": {
+                "A": "फ्रांस",
+                "B": "आइसलैंड",
+                "C": "जापान",
+                "D": "स्विट्जरलैंड"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की तरफ भी उड़ सकता है?",
+            "options": {
+                "A": "कबूतर",
                 "B": "गुंजन पक्षी",
-                "C": "कोयल",
-                "D": "चील"
+                "C": "बाज",
+                "D": "शुतुरमुर्ग"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस महाद्वीप में एक भी रेगिस्तान नहीं है?",
+            "question": "किस फल के बीज में जहर की मात्रा पाई जाती है?",
             "options": {
-                "A": "एशिया",
-                "B": "यूरोप",
-                "C": "अफ्रीका",
-                "D": "ऑस्ट्रेलिया"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "मानव शरीर का कौन सा अंग इंसान के पूरे जीवन भर बढ़ता रहता है?",
-            "options": {
-                "A": "आंख",
-                "B": "कान और नाक",
-                "C": "दांत",
-                "D": "मस्तिष्क"
+                "A": "आम",
+                "B": "सेब",
+                "C": "केला",
+                "D": "अमरूद"
             },
             "correctAnswer": "B"
         }
