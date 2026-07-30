@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This Quiz! 🤯",
-    "description": "Test your brain power with these 5 tricky questions in 5 seconds per question! ⏳\nComment your score below and challenge your friends! 👇\n#quiz #gk #shorts",
+    "title": "99% People Get Question 3 Wrong! 🤯",
+    "description": "Can you get 5/5 in this fast-paced brain test? ⏳\nComment your score below! 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "दुनिया का सबसे बड़ा रेगिस्तान कौन सा है?",
+            "question": "किस जीव के दूध का रंग गुलाबी होता है?",
             "options": {
-                "A": "सहारा",
-                "B": "अंटार्कटिका",
-                "C": "थार",
-                "D": "गोबी"
+                "A": "हाथी",
+                "B": "दरियाई घोड़ा",
+                "C": "ऊंट",
+                "D": "जिराफ"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस जीव का दिल उसके सिर में होता है?",
+            "question": "विश्व के किस देश की तीन राजधानियां हैं?",
             "options": {
-                "A": "केकड़ा",
-                "B": "झींगा",
-                "C": "ऑक्टोपस",
-                "D": "तारामछली"
+                "A": "दक्षिण अफ्रीका",
+                "B": "कनाडा",
+                "C": "ब्राजील",
+                "D": "नॉर्वे"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "पीछे की ओर उड़ने वाला एकमात्र पक्षी कौन सा है?",
+            "options": {
+                "A": "गिद्ध",
+                "B": "गुंजन पक्षी",
+                "C": "कोयल",
+                "D": "चील"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "मानव शरीर की सबसे मजबूत मांसपेशी कौन सी होती है?",
+            "question": "किस महाद्वीप में एक भी रेगिस्तान नहीं है?",
             "options": {
-                "A": "जीभ",
-                "B": "जबड़ा",
-                "C": "जांघ",
-                "D": "हृदय"
+                "A": "एशिया",
+                "B": "यूरोप",
+                "C": "अफ्रीका",
+                "D": "ऑस्ट्रेलिया"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस ग्रह पर एक दिन उसके एक साल से भी बड़ा होता है?",
+            "question": "मानव शरीर का कौन सा अंग इंसान के पूरे जीवन भर बढ़ता रहता है?",
             "options": {
-                "A": "मंगल",
-                "B": "शुक्र",
-                "C": "बुध",
-                "D": "बृहस्पति"
+                "A": "आंख",
+                "B": "कान और नाक",
+                "C": "दांत",
+                "D": "मस्तिष्क"
             },
             "correctAnswer": "B"
-        },
-        {
-            "question": "कौन सा पक्षी उल्टी दिशा में भी उड़ सकता है?",
-            "options": {
-                "A": "मोर",
-                "B": "बाज़",
-                "C": "गुंजन पक्षी",
-                "D": "कबूतर"
-            },
-            "correctAnswer": "C"
         }
     ]
 }
