@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "99% Of People Fail This Tricky Brain Test! 😱",
-    "description": "Test your intelligence with these 5 tricky questions! ⏳\nComment your final score below! 👇\n#quiz #gk #shorts #viral",
+    "title": "Only 1% Can Get 5/5 On This Tricky Quiz! 🤯",
+    "description": "Test your brain with these 5 tricky questions in 5 seconds ⏳\nComment your score below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस जीव के दूध का रंग प्राकृतिक रूप से गुलाबी होता है?",
+            "question": "चंद्रमा पर पानी की खोज सबसे पहले किस देश ने की थी?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊंट",
-                "C": "जिराफ",
-                "D": "नीलगाय"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक कभी नहीं बढ़ता?",
-            "options": {
-                "A": "कान",
-                "B": "नाक",
-                "C": "आँख की पुतली",
-                "D": "दाँत"
+                "A": "अमेरिका",
+                "B": "रूस",
+                "C": "भारत",
+                "D": "चीन"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "question": "मानव शरीर का कौन सा अंग अंधेरा होते ही बड़ा हो जाता है?",
             "options": {
-                "A": "फ्रांस",
-                "B": "आइसलैंड",
-                "C": "जापान",
-                "D": "स्विट्जरलैंड"
+                "A": "कान",
+                "B": "आंख की पुतली",
+                "C": "नाक",
+                "D": "जीभ"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "कौन सा पक्षी पीछे की तरफ भी उड़ सकता है?",
+            "question": "किस समुद्री जीव का दिल उसके सिर में होता है?",
             "options": {
-                "A": "कबूतर",
-                "B": "गुंजन पक्षी",
-                "C": "बाज",
-                "D": "शुतुरमुर्ग"
+                "A": "केकड़ा",
+                "B": "झींगा",
+                "C": "कछुआ",
+                "D": "स्टारफिश"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस फल के बीज में जहर की मात्रा पाई जाती है?",
+            "question": "दुनिया के किस देश में एक भी नदी नहीं है?",
             "options": {
-                "A": "आम",
-                "B": "सेब",
-                "C": "केला",
-                "D": "अमरूद"
+                "A": "सऊदी अरब",
+                "B": "कुवैत",
+                "C": "ओमान",
+                "D": "मिस्र"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "A"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "options": {
+                "A": "उल्लू",
+                "B": "तोता",
+                "C": "गुंजन पक्षी",
+                "D": "चील"
+            },
+            "correctAnswer": "C"
         }
     ]
 }
