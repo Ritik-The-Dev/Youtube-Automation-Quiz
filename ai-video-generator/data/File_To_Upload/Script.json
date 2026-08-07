@@ -1,0 +1,57 @@
+{
+    "quizTopic": "General Knowledge",
+    "title": "Only 1% Can Get 5/5 On This Tricky Quiz! 😱",
+    "description": "Test your brain power in 5 seconds per question ⏳\nComment your score below! 👇\n#quiz #gk #shorts",
+    "questions": [
+        {
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "options": {
+                "A": "दरियाई घोड़ा",
+                "B": "ऊंट",
+                "C": "जिराफ़",
+                "D": "बकरी"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "एक ऑक्टोपस के पास कुल कितने दिल होते हैं?",
+            "options": {
+                "A": "एक",
+                "B": "दो",
+                "C": "तीन",
+                "D": "चार"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "options": {
+                "A": "आइसलैंड",
+                "B": "जापान",
+                "C": "फ्रांस",
+                "D": "स्विट्जरलैंड"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "options": {
+                "A": "बाज",
+                "B": "हमिंगबर्ड",
+                "C": "शुतुरमुर्ग",
+                "D": "तोता"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "मानव शरीर के किस अंग में खून की नसें नहीं होती हैं?",
+            "options": {
+                "A": "कॉर्निया",
+                "B": "त्वचा",
+                "C": "यकृत",
+                "D": "फेफड़ा"
+            },
+            "correctAnswer": "A"
+        }
+    ]
+}
