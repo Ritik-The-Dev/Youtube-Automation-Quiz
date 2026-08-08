@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This Tricky Quiz! 😱",
-    "description": "Test your brain power in 5 seconds per question! ⏳\nComment your score below to prove your intelligence! 👇\n#quiz #gk #shorts #viral",
+    "title": "Only 1% Can Score 5/5 On This Tricky Quiz! 🤯",
+    "description": "Test your brain with these tricky questions in 5 seconds! ⏳\nComment your final score below 👇\n#quiz #gk #shorts #viral",
     "questions": [
+        {
+            "question": "अंतरिक्ष से देखने पर सूर्य का वास्तविक रंग कौन सा दिखाई देता है?",
+            "options": {
+                "A": "पीला",
+                "B": "सफेद",
+                "C": "लाल",
+                "D": "नारंगी"
+            },
+            "correctAnswer": "B"
+        },
         {
             "question": "किस जीव का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊंट",
-                "C": "बकरी",
-                "D": "जिराफ"
+                "A": "जिराफ",
+                "B": "दरियाई घोड़ा",
+                "C": "ऊंट",
+                "D": "हाथी"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
         },
         {
-            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता?",
+            "question": "सौरमंडल का कौन सा ग्रह घड़ी की दिशा में घूमता है?",
             "options": {
-                "A": "आइसलैंड",
-                "B": "जापान",
-                "C": "फ्रांस",
-                "D": "स्विट्जरलैंड"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "एक ऑक्टोपस के शरीर में कुल कितने दिल होते हैं?",
-            "options": {
-                "A": "एक",
-                "B": "दो",
-                "C": "तीन",
-                "D": "चार"
+                "A": "मंगल",
+                "B": "बुध",
+                "C": "शुक्र",
+                "D": "बृहस्पति"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "किस फल के बीज में हल्का जहर (सायनाइड) पाया जाता है?",
+            "question": "दुनिया के किस महाद्वीप में एक भी रेगिस्तान नहीं है?",
             "options": {
-                "A": "सेब",
-                "B": "आम",
-                "C": "केला",
-                "D": "अमरूद"
+                "A": "यूरोप",
+                "B": "अफ्रीका",
+                "C": "एशिया",
+                "D": "दक्षिण अमेरिका"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "कौन सा पक्षी पीछे की तरफ भी उड़ सकता है?",
+            "question": "दुनिया का ऐसा कौन सा देश है जहाँ एक भी नदी नहीं है?",
             "options": {
-                "A": "गुंजन पक्षी",
-                "B": "कौआ",
-                "C": "कबूतर",
-                "D": "उल्लू"
+                "A": "मिस्र",
+                "B": "सऊदी अरब",
+                "C": "ईरान",
+                "D": "तुर्की"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
         }
     ]
 }
