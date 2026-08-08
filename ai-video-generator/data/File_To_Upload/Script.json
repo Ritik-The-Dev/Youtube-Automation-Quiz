@@ -1,30 +1,20 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Get 5/5 On This Tricky Quiz! 😱",
-    "description": "Test your brain power in 5 seconds per question ⏳\nComment your score below! 👇\n#quiz #gk #shorts",
+    "title": "Only 1% Can Score 5/5 On This Tricky Quiz! 😱",
+    "description": "Test your brain power in 5 seconds per question! ⏳\nComment your score below to prove your intelligence! 👇\n#quiz #gk #shorts #viral",
     "questions": [
         {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "किस जीव का दूध गुलाबी रंग का होता है?",
             "options": {
                 "A": "दरियाई घोड़ा",
                 "B": "ऊंट",
-                "C": "जिराफ़",
-                "D": "बकरी"
+                "C": "बकरी",
+                "D": "जिराफ"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "एक ऑक्टोपस के पास कुल कितने दिल होते हैं?",
-            "options": {
-                "A": "एक",
-                "B": "दो",
-                "C": "तीन",
-                "D": "चार"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता?",
             "options": {
                 "A": "आइसलैंड",
                 "B": "जापान",
@@ -34,22 +24,32 @@
             "correctAnswer": "A"
         },
         {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "question": "एक ऑक्टोपस के शरीर में कुल कितने दिल होते हैं?",
             "options": {
-                "A": "बाज",
-                "B": "हमिंगबर्ड",
-                "C": "शुतुरमुर्ग",
-                "D": "तोता"
+                "A": "एक",
+                "B": "दो",
+                "C": "तीन",
+                "D": "चार"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "C"
         },
         {
-            "question": "मानव शरीर के किस अंग में खून की नसें नहीं होती हैं?",
+            "question": "किस फल के बीज में हल्का जहर (सायनाइड) पाया जाता है?",
             "options": {
-                "A": "कॉर्निया",
-                "B": "त्वचा",
-                "C": "यकृत",
-                "D": "फेफड़ा"
+                "A": "सेब",
+                "B": "आम",
+                "C": "केला",
+                "D": "अमरूद"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की तरफ भी उड़ सकता है?",
+            "options": {
+                "A": "गुंजन पक्षी",
+                "B": "कौआ",
+                "C": "कबूतर",
+                "D": "उल्लू"
             },
             "correctAnswer": "A"
         }
