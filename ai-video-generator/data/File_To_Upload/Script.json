@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "99% Of People Pause On Question 3 😱",
-    "description": "Test your brain power in 5 seconds per question ⏳\nComment your score below 👇\n#quiz #gk #shorts",
+    "title": "Only 1% Of People Can Get 5/5 On This Quiz! 🤯",
+    "description": "Test your brain in 5 seconds per question ⏳\nComment your final score below! 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस जीव का दिल उसके सिर में होता है?",
+            "question": "सौर मंडल का सबसे गर्म ग्रह कौन सा है?",
             "options": {
-                "A": "केकड़ा",
-                "B": "झींगा",
-                "C": "ऑक्टोपस",
-                "D": "मेंढक"
+                "A": "बुध",
+                "B": "शुक्र",
+                "C": "मंगल",
+                "D": "बृहस्पति"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "दुनिया के किस देश में एक भी नदी नहीं बहती है?",
+            "question": "विश्व का सबसे बड़ा मरुस्थल कौन सा है?",
             "options": {
-                "A": "मिस्र",
-                "B": "तुर्की",
-                "C": "सऊदी अरब",
-                "D": "ईरान"
+                "A": "सहारा",
+                "B": "थार",
+                "C": "अंटार्कटिका",
+                "D": "गोबी"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "कौन सा जीव एक आंख खोलकर सोता है?",
+            "question": "भारत के किस राज्य में सबसे पहले सूर्योदय होता है?",
             "options": {
-                "A": "डॉल्फिन",
-                "B": "मगरमच्छ",
-                "C": "भालू",
-                "D": "चीता"
+                "A": "असम",
+                "B": "अरुणाचल प्रदेश",
+                "C": "सिक्किम",
+                "D": "नागालैंड"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस जीव का दिल उसके सिर में स्थित होता है?",
+            "options": {
+                "A": "झींगा",
+                "B": "केकड़ा",
+                "C": "अष्टबाहु",
+                "D": "तितली"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस जीव के शरीर में तीन दिल होते हैं?",
+            "question": "भारत की कौन सी नदी कर्क रेखा को दो बार काटती है?",
             "options": {
-                "A": "स्टारफिश",
-                "B": "जेलीफिश",
-                "C": "केंचुआ",
-                "D": "ऑक्टोपस"
+                "A": "गंगा",
+                "B": "नर्मदा",
+                "C": "माही",
+                "D": "गोदावरी"
             },
-            "correctAnswer": "D"
-        },
-        {
-            "question": "भारत के किस राज्य को 'मसालों का बगीचा' कहा जाता है?",
-            "options": {
-                "A": "तमिलनाडु",
-                "B": "केरल",
-                "C": "कर्नाटक",
-                "D": "आंध्र प्रदेश"
-            },
-            "correctAnswer": "B"
+            "correctAnswer": "C"
         }
     ]
 }
