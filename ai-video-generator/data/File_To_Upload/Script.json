@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This Tricky Quiz! 🤯",
-    "description": "Test your brain with these tricky questions in 5 seconds! ⏳\nComment your final score below 👇\n#quiz #gk #shorts #viral",
+    "title": "99% Of People Pause On Question 3 😱",
+    "description": "Test your brain power in 5 seconds per question ⏳\nComment your score below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "अंतरिक्ष से देखने पर सूर्य का वास्तविक रंग कौन सा दिखाई देता है?",
+            "question": "किस जीव का दिल उसके सिर में होता है?",
             "options": {
-                "A": "पीला",
-                "B": "सफेद",
-                "C": "लाल",
-                "D": "नारंगी"
+                "A": "केकड़ा",
+                "B": "झींगा",
+                "C": "ऑक्टोपस",
+                "D": "मेंढक"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस जीव का दूध गुलाबी रंग का होता है?",
+            "question": "दुनिया के किस देश में एक भी नदी नहीं बहती है?",
             "options": {
-                "A": "जिराफ",
-                "B": "दरियाई घोड़ा",
-                "C": "ऊंट",
-                "D": "हाथी"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "सौरमंडल का कौन सा ग्रह घड़ी की दिशा में घूमता है?",
-            "options": {
-                "A": "मंगल",
-                "B": "बुध",
-                "C": "शुक्र",
-                "D": "बृहस्पति"
+                "A": "मिस्र",
+                "B": "तुर्की",
+                "C": "सऊदी अरब",
+                "D": "ईरान"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "दुनिया के किस महाद्वीप में एक भी रेगिस्तान नहीं है?",
+            "question": "कौन सा जीव एक आंख खोलकर सोता है?",
             "options": {
-                "A": "यूरोप",
-                "B": "अफ्रीका",
-                "C": "एशिया",
-                "D": "दक्षिण अमेरिका"
+                "A": "डॉल्फिन",
+                "B": "मगरमच्छ",
+                "C": "भालू",
+                "D": "चीता"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "दुनिया का ऐसा कौन सा देश है जहाँ एक भी नदी नहीं है?",
+            "question": "किस जीव के शरीर में तीन दिल होते हैं?",
             "options": {
-                "A": "मिस्र",
-                "B": "सऊदी अरब",
-                "C": "ईरान",
-                "D": "तुर्की"
+                "A": "स्टारफिश",
+                "B": "जेलीफिश",
+                "C": "केंचुआ",
+                "D": "ऑक्टोपस"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "भारत के किस राज्य को 'मसालों का बगीचा' कहा जाता है?",
+            "options": {
+                "A": "तमिलनाडु",
+                "B": "केरल",
+                "C": "कर्नाटक",
+                "D": "आंध्र प्रदेश"
             },
             "correctAnswer": "B"
         }
