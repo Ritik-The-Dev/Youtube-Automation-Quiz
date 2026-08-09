@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Of People Can Get 5/5 On This Quiz! 🤯",
-    "description": "Test your brain in 5 seconds per question ⏳\nComment your final score below! 👇\n#quiz #gk #shorts",
+    "title": "99% Of People Fail Question 3! Can You Pass? 😱",
+    "description": "Test your brain in 5 seconds per question ⏳\nComment your score below 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "सौर मंडल का सबसे गर्म ग्रह कौन सा है?",
+            "question": "किस जीव के दूध का रंग गुलाबी होता है?",
             "options": {
-                "A": "बुध",
-                "B": "शुक्र",
-                "C": "मंगल",
-                "D": "बृहस्पति"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "विश्व का सबसे बड़ा मरुस्थल कौन सा है?",
-            "options": {
-                "A": "सहारा",
-                "B": "थार",
-                "C": "अंटार्कटिका",
-                "D": "गोबी"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "भारत के किस राज्य में सबसे पहले सूर्योदय होता है?",
-            "options": {
-                "A": "असम",
-                "B": "अरुणाचल प्रदेश",
-                "C": "सिक्किम",
-                "D": "नागालैंड"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस जीव का दिल उसके सिर में स्थित होता है?",
-            "options": {
-                "A": "झींगा",
-                "B": "केकड़ा",
-                "C": "अष्टबाहु",
-                "D": "तितली"
+                "A": "दरियाई घोड़ा",
+                "B": "ऊंट",
+                "C": "जिराफ़",
+                "D": "हाथी"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "भारत की कौन सी नदी कर्क रेखा को दो बार काटती है?",
+            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "गंगा",
-                "B": "नर्मदा",
-                "C": "माही",
-                "D": "गोदावरी"
+                "A": "फ़्रांस",
+                "B": "आइसलैंड",
+                "C": "जापान",
+                "D": "स्विट्जरलैंड"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "एक ऑक्टोपस के शरीर में कुल कितने दिल होते हैं?",
+            "options": {
+                "A": "एक",
+                "B": "दो",
+                "C": "तीन",
+                "D": "चार"
             },
             "correctAnswer": "C"
+        },
+        {
+            "question": "किस फल के बीजों में विषैला पदार्थ पाया जाता है?",
+            "options": {
+                "A": "सेब",
+                "B": "आम",
+                "C": "अमरूद",
+                "D": "केला"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "मानव शरीर का कौन सा अंग सबसे ज्यादा ऊर्जा का उपयोग करता है?",
+            "options": {
+                "A": "हृदय",
+                "B": "मस्तिष्क",
+                "C": "यकृत",
+                "D": "फेफड़े"
+            },
+            "correctAnswer": "B"
         }
     ]
 }
