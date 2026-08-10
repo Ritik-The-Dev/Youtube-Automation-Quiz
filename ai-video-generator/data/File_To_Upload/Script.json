@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "99% Of People Fail Question 3! Can You Pass? 😱",
-    "description": "Test your brain in 5 seconds per question ⏳\nComment your score below 👇\n#quiz #gk #shorts #trending",
+    "title": "Only 1% Can Score 5/5 On This Quiz 😱",
+    "description": "Test your brain with these tricky questions in 5 seconds! ⏳\nComment your score below 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जीव के दूध का रंग गुलाबी होता है?",
+            "question": "किस देश में एक भी नदी नहीं पाई जाती है?",
+            "options": {
+                "A": "सऊदी अरब",
+                "B": "इराक",
+                "C": "कुवैत",
+                "D": "मिस्र"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "किस जीव का दूध गुलाबी रंग का होता है?",
             "options": {
                 "A": "दरियाई घोड़ा",
-                "B": "ऊंट",
-                "C": "जिराफ़",
-                "D": "हाथी"
+                "B": "जिराफ",
+                "C": "ऊंट",
+                "D": "गैंडा"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "question": "दुनिया में सबसे ज्यादा ऑक्सीजन देने वाला पेड़ कौन सा है?",
             "options": {
-                "A": "फ़्रांस",
-                "B": "आइसलैंड",
-                "C": "जापान",
-                "D": "स्विट्जरलैंड"
+                "A": "बरगद",
+                "B": "पीपल",
+                "C": "नीम",
+                "D": "अशोक"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "एक ऑक्टोपस के शरीर में कुल कितने दिल होते हैं?",
+            "question": "किस जीव का दिल उसके सिर में होता है?",
             "options": {
-                "A": "एक",
-                "B": "दो",
-                "C": "तीन",
-                "D": "चार"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "किस फल के बीजों में विषैला पदार्थ पाया जाता है?",
-            "options": {
-                "A": "सेब",
-                "B": "आम",
-                "C": "अमरूद",
-                "D": "केला"
+                "A": "झींगा",
+                "B": "ऑक्टोपस",
+                "C": "केंचुआ",
+                "D": "तितली"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "मानव शरीर का कौन सा अंग सबसे ज्यादा ऊर्जा का उपयोग करता है?",
+            "question": "किस देश को 'आधी रात के सूरज की भूमि' कहा जाता है?",
             "options": {
-                "A": "हृदय",
-                "B": "मस्तिष्क",
-                "C": "यकृत",
-                "D": "फेफड़े"
+                "A": "नॉर्वे",
+                "B": "जापान",
+                "C": "कनाडा",
+                "D": "डेनमार्क"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "A"
         }
     ]
 }
