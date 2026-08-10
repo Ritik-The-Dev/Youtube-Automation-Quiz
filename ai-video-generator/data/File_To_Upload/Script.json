@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "99% People Get Question 3 Wrong! 😱",
-    "description": "Test your brain in 5 seconds per question ⏳\nComment your score below 👇\n#quiz #gk #shorts",
+    "title": "Only 1% Can Score 5/5 On This Quiz! 😱",
+    "description": "Test your brain power with these tricky facts in 5 seconds! ⏳\nComment your final score below 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जीव का दिल उसके सिर में होता है?",
+            "question": "किस जीव के दूध का रंग गुलाबी होता है?",
             "options": {
-                "A": "झींगा",
-                "B": "ऑक्टोपस",
-                "C": "केकड़ा",
-                "D": "स्टारफिश"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "किस देश में एक भी नदी नहीं है?",
-            "options": {
-                "A": "कतार",
-                "B": "सऊदी अरब",
-                "C": "ओमान",
-                "D": "कुवैत"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "मानव शरीर का कौन सा अंग बिजली पैदा कर सकता है?",
-            "options": {
-                "A": "हृदय",
-                "B": "यकृत",
-                "C": "मस्तिष्क",
-                "D": "फेफड़ा"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "किस जानवर का दूध कभी नहीं फटता है?",
-            "options": {
-                "A": "बकरी",
-                "B": "ऊंट",
-                "C": "हाथी",
+                "A": "हाथी",
+                "B": "हिप्पो",
+                "C": "ऊंट",
                 "D": "जिराफ"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस फल के बीज में जहर पाया जाता है?",
+            "question": "ऑक्टोपस के पास कुल कितने दिल होते हैं?",
             "options": {
-                "A": "सेब",
-                "B": "पपीता",
-                "C": "अमरूद",
-                "D": "संतरा"
+                "A": "एक",
+                "B": "दो",
+                "C": "तीन",
+                "D": "चार"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "C"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "options": {
+                "A": "मोर",
+                "B": "हमिंगबर्ड",
+                "C": "तोता",
+                "D": "बाज"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "भारत का कौन सा राज्य कभी अंग्रेजों का गुलाम नहीं हुआ?",
+            "options": {
+                "A": "केरल",
+                "B": "गोवा",
+                "C": "सिक्किम",
+                "D": "असम"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "options": {
+                "A": "फ्रांस",
+                "B": "आइसलैंड",
+                "C": "जापान",
+                "D": "नॉर्वे"
+            },
+            "correctAnswer": "B"
         }
     ]
 }
