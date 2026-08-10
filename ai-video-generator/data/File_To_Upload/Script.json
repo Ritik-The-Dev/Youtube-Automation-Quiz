@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This Quiz 😱",
-    "description": "Test your brain with these tricky questions in 5 seconds! ⏳\nComment your score below 👇\n#quiz #gk #shorts #trending",
+    "title": "99% People Get Question 3 Wrong! 😱",
+    "description": "Test your brain in 5 seconds per question ⏳\nComment your score below 👇\n#quiz #gk #shorts",
     "questions": [
-        {
-            "question": "किस देश में एक भी नदी नहीं पाई जाती है?",
-            "options": {
-                "A": "सऊदी अरब",
-                "B": "इराक",
-                "C": "कुवैत",
-                "D": "मिस्र"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "किस जीव का दूध गुलाबी रंग का होता है?",
-            "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "जिराफ",
-                "C": "ऊंट",
-                "D": "गैंडा"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "दुनिया में सबसे ज्यादा ऑक्सीजन देने वाला पेड़ कौन सा है?",
-            "options": {
-                "A": "बरगद",
-                "B": "पीपल",
-                "C": "नीम",
-                "D": "अशोक"
-            },
-            "correctAnswer": "B"
-        },
         {
             "question": "किस जीव का दिल उसके सिर में होता है?",
             "options": {
                 "A": "झींगा",
                 "B": "ऑक्टोपस",
-                "C": "केंचुआ",
-                "D": "तितली"
+                "C": "केकड़ा",
+                "D": "स्टारफिश"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस देश को 'आधी रात के सूरज की भूमि' कहा जाता है?",
+            "question": "किस देश में एक भी नदी नहीं है?",
             "options": {
-                "A": "नॉर्वे",
-                "B": "जापान",
-                "C": "कनाडा",
-                "D": "डेनमार्क"
+                "A": "कतार",
+                "B": "सऊदी अरब",
+                "C": "ओमान",
+                "D": "कुवैत"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "मानव शरीर का कौन सा अंग बिजली पैदा कर सकता है?",
+            "options": {
+                "A": "हृदय",
+                "B": "यकृत",
+                "C": "मस्तिष्क",
+                "D": "फेफड़ा"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "किस जानवर का दूध कभी नहीं फटता है?",
+            "options": {
+                "A": "बकरी",
+                "B": "ऊंट",
+                "C": "हाथी",
+                "D": "जिराफ"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस फल के बीज में जहर पाया जाता है?",
+            "options": {
+                "A": "सेब",
+                "B": "पपीता",
+                "C": "अमरूद",
+                "D": "संतरा"
             },
             "correctAnswer": "A"
         }
