@@ -1,55 +1,55 @@
 {
-    "quizTopic": "General Knowledge",
-    "title": "99% People Fail This Mind-Bending Quiz 😱",
-    "description": "Test your brain power in just 5 seconds per question ⏳\nCan you get 5/5? Comment your score below 👇\n#quiz #gk #shorts",
+    "quizTopic": "Tricky General Knowledge",
+    "title": "Only 1% Can Score 5/5 On This Quiz 🤯",
+    "description": "Test your brain with these tricky questions in 5 seconds ⏳\nComment your score below! 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
+            "question": "भारत की किस नदी का पानी आधा मीठा और आधा खारा होता है?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "गेंडा",
-                "C": "ऊंट",
-                "D": "जिराफ"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
-            "options": {
-                "A": "जापान",
-                "B": "आइसलैंड",
-                "C": "फ्रांस",
-                "D": "स्विट्जरलैंड"
+                "A": "नर्मदा नदी",
+                "B": "लूनी नदी",
+                "C": "साबरमती नदी",
+                "D": "गोदावरी नदी"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "question": "कौन सा जीव अपनी आंखें बंद करने के बाद भी आसानी से देख सकता है?",
             "options": {
-                "A": "गौरैया",
-                "B": "बाज",
-                "C": "गुंजन पक्षी",
-                "D": "तोता"
+                "A": "सांप",
+                "B": "ऊंट",
+                "C": "कछुआ",
+                "D": "मेढक"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक कभी नहीं बढ़ता?",
+            "options": {
+                "A": "कान",
+                "B": "नाक",
+                "C": "आंख की पुतली",
+                "D": "दांत"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "हमारे सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
+            "question": "दुनिया का सबसे बड़ा मरुस्थल यानी रेगिस्तान कौन सा है?",
             "options": {
-                "A": "बुध",
-                "B": "शुक्र",
-                "C": "मंगल",
-                "D": "बृहस्पति"
+                "A": "सहारा",
+                "B": "थार",
+                "C": "अंटार्कटिका",
+                "D": "गोबी"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "C"
         },
         {
-            "question": "सिर कटने के बाद भी कौन सा जीव कई दिनों तक जीवित रह सकता है?",
+            "question": "ताश के चार राजाओं में से किस राजा की मूंछें नहीं होतीं?",
             "options": {
-                "A": "बिच्छू",
-                "B": "तिलचट्टा",
-                "C": "छिपकली",
-                "D": "सांप"
+                "A": "हुकुम का राजा",
+                "B": "लाल पान का राजा",
+                "C": "ईंट का राजा",
+                "D": "चिड़ी का राजा"
             },
             "correctAnswer": "B"
         }
