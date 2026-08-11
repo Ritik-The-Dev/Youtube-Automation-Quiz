@@ -1,55 +1,55 @@
 {
-    "quizTopic": "Tricky Mind Facts",
-    "title": "Only 1% Can Score 5/5 On This Tricky Quiz! 🤯",
-    "description": "Test your brain in 5 seconds per question ⏳\nComment your score below 👇\n#quiz #gk #shorts",
+    "quizTopic": "General Knowledge",
+    "title": "99% People Fail This Mind-Bending Quiz 😱",
+    "description": "Test your brain power in just 5 seconds per question ⏳\nCan you get 5/5? Comment your score below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस जीव का दूध गुलाबी रंग का होता है?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "ऊंट",
-                "B": "दरियाई घोड़ा",
-                "C": "बकरी",
+                "A": "दरियाई घोड़ा",
+                "B": "गेंडा",
+                "C": "ऊंट",
                 "D": "जिराफ"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "A"
         },
         {
-            "question": "किस देश में एक भी सांप नहीं पाया जाता है?",
+            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "भारत",
-                "B": "न्यूजीलैंड",
-                "C": "ऑस्ट्रेलिया",
-                "D": "ब्राजील"
+                "A": "जापान",
+                "B": "आइसलैंड",
+                "C": "फ्रांस",
+                "D": "स्विट्जरलैंड"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "कौन सा पक्षी पीछे की तरफ भी उड़ सकता है?",
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
             "options": {
-                "A": "मोर",
-                "B": "कोयल",
+                "A": "गौरैया",
+                "B": "बाज",
                 "C": "गुंजन पक्षी",
                 "D": "तोता"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "मानव शरीर का कौन सा अंग जीवनभर बढ़ता रहता है?",
+            "question": "हमारे सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
             "options": {
-                "A": "आंख",
-                "B": "कान और नाक",
-                "C": "दांत",
-                "D": "दिल"
+                "A": "बुध",
+                "B": "शुक्र",
+                "C": "मंगल",
+                "D": "बृहस्पति"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस फल के बीज में हल्का विष पाया जाता है?",
+            "question": "सिर कटने के बाद भी कौन सा जीव कई दिनों तक जीवित रह सकता है?",
             "options": {
-                "A": "आम",
-                "B": "सेब",
-                "C": "केला",
-                "D": "अमरूद"
+                "A": "बिच्छू",
+                "B": "तिलचट्टा",
+                "C": "छिपकली",
+                "D": "सांप"
             },
             "correctAnswer": "B"
         }
