@@ -1,55 +1,55 @@
 {
-    "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This Quiz! 😱",
-    "description": "Test your brain power with these tricky facts in 5 seconds! ⏳\nComment your final score below 👇\n#quiz #gk #shorts #trending",
+    "quizTopic": "Tricky Mind Facts",
+    "title": "Only 1% Can Score 5/5 On This Tricky Quiz! 🤯",
+    "description": "Test your brain in 5 seconds per question ⏳\nComment your score below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस जीव के दूध का रंग गुलाबी होता है?",
+            "question": "किस जीव का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "हाथी",
-                "B": "हिप्पो",
-                "C": "ऊंट",
+                "A": "ऊंट",
+                "B": "दरियाई घोड़ा",
+                "C": "बकरी",
                 "D": "जिराफ"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "ऑक्टोपस के पास कुल कितने दिल होते हैं?",
+            "question": "किस देश में एक भी सांप नहीं पाया जाता है?",
             "options": {
-                "A": "एक",
-                "B": "दो",
-                "C": "तीन",
-                "D": "चार"
+                "A": "भारत",
+                "B": "न्यूजीलैंड",
+                "C": "ऑस्ट्रेलिया",
+                "D": "ब्राजील"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की तरफ भी उड़ सकता है?",
+            "options": {
+                "A": "मोर",
+                "B": "कोयल",
+                "C": "गुंजन पक्षी",
+                "D": "तोता"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "question": "मानव शरीर का कौन सा अंग जीवनभर बढ़ता रहता है?",
             "options": {
-                "A": "मोर",
-                "B": "हमिंगबर्ड",
-                "C": "तोता",
-                "D": "बाज"
+                "A": "आंख",
+                "B": "कान और नाक",
+                "C": "दांत",
+                "D": "दिल"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "भारत का कौन सा राज्य कभी अंग्रेजों का गुलाम नहीं हुआ?",
+            "question": "किस फल के बीज में हल्का विष पाया जाता है?",
             "options": {
-                "A": "केरल",
-                "B": "गोवा",
-                "C": "सिक्किम",
-                "D": "असम"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता है?",
-            "options": {
-                "A": "फ्रांस",
-                "B": "आइसलैंड",
-                "C": "जापान",
-                "D": "नॉर्वे"
+                "A": "आम",
+                "B": "सेब",
+                "C": "केला",
+                "D": "अमरूद"
             },
             "correctAnswer": "B"
         }
