@@ -1,57 +1,57 @@
 {
-    "quizTopic": "Tricky General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This Quiz 🤯",
-    "description": "Test your brain with these tricky questions in 5 seconds ⏳\nComment your score below! 👇\n#quiz #gk #shorts",
+    "quizTopic": "General Knowledge",
+    "title": "Only 1% Can Answer Question 4 Correctly! 😱",
+    "description": "Test your brain power with this 5-second quiz challenge! ⏳\nComment your score below to see if you passed 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "भारत की किस नदी का पानी आधा मीठा और आधा खारा होता है?",
+            "question": "किस जानवर का दूध कभी भी दही में नहीं बदलता?",
             "options": {
-                "A": "नर्मदा नदी",
-                "B": "लूनी नदी",
-                "C": "साबरमती नदी",
-                "D": "गोदावरी नदी"
+                "A": "बकरी",
+                "B": "ऊँट",
+                "C": "गाय",
+                "D": "भैंस"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "कौन सा जीव अपनी आंखें बंद करने के बाद भी आसानी से देख सकता है?",
+            "question": "किस जीव का हृदय उसके सिर में स्थित होता है?",
             "options": {
-                "A": "सांप",
-                "B": "ऊंट",
-                "C": "कछुआ",
-                "D": "मेढक"
+                "A": "केकड़ा",
+                "B": "झींगा",
+                "C": "बिच्छू",
+                "D": "कछुआ"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक कभी नहीं बढ़ता?",
+            "question": "दुनिया का कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
             "options": {
-                "A": "कान",
-                "B": "नाक",
-                "C": "आंख की पुतली",
-                "D": "दांत"
+                "A": "उल्लू",
+                "B": "हंस",
+                "C": "गुंजन पक्षी",
+                "D": "कोयल"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "दुनिया का सबसे बड़ा मरुस्थल यानी रेगिस्तान कौन सा है?",
+            "question": "किस देश में एक भी नदी नहीं पाई जाती है?",
             "options": {
-                "A": "सहारा",
-                "B": "थार",
-                "C": "अंटार्कटिका",
-                "D": "गोबी"
+                "A": "सऊदी अरब",
+                "B": "जापान",
+                "C": "फ्रांस",
+                "D": "कनाडा"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "A"
         },
         {
-            "question": "ताश के चार राजाओं में से किस राजा की मूंछें नहीं होतीं?",
+            "question": "किस फल के अंदर कभी भी कीड़ा नहीं लगता है?",
             "options": {
-                "A": "हुकुम का राजा",
-                "B": "लाल पान का राजा",
-                "C": "ईंट का राजा",
-                "D": "चिड़ी का राजा"
+                "A": "सेब",
+                "B": "आम",
+                "C": "केला",
+                "D": "अमरूद"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "C"
         }
     ]
 }
