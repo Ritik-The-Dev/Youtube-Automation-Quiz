@@ -1,35 +1,25 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Answer Question 4 Correctly! 😱",
-    "description": "Test your brain power with this 5-second quiz challenge! ⏳\nComment your score below to see if you passed 👇\n#quiz #gk #shorts",
+    "title": "99% Of People Fail This Brain Test 😱",
+    "description": "Test your brain power with these tricky questions! ⏳\nComment your score below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस जानवर का दूध कभी भी दही में नहीं बदलता?",
+            "question": "किस जीव का दूध कभी नहीं जमता है?",
             "options": {
-                "A": "बकरी",
-                "B": "ऊँट",
-                "C": "गाय",
+                "A": "गाय",
+                "B": "ऊंट",
+                "C": "बकरी",
                 "D": "भैंस"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस जीव का हृदय उसके सिर में स्थित होता है?",
+            "question": "दुनिया का एकमात्र ऐसा पक्षी कौन सा है जो पीछे की तरफ उड़ सकता है?",
             "options": {
-                "A": "केकड़ा",
-                "B": "झींगा",
-                "C": "बिच्छू",
-                "D": "कछुआ"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "दुनिया का कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
-            "options": {
-                "A": "उल्लू",
-                "B": "हंस",
+                "A": "कबूतर",
+                "B": "बाज़",
                 "C": "गुंजन पक्षी",
-                "D": "कोयल"
+                "D": "गौरैया"
             },
             "correctAnswer": "C"
         },
@@ -37,21 +27,31 @@
             "question": "किस देश में एक भी नदी नहीं पाई जाती है?",
             "options": {
                 "A": "सऊदी अरब",
-                "B": "जापान",
-                "C": "फ्रांस",
-                "D": "कनाडा"
+                "B": "पाकिस्तान",
+                "C": "मिस्र",
+                "D": "जापान"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस फल के अंदर कभी भी कीड़ा नहीं लगता है?",
+            "question": "किस महाद्वीप में एक भी सक्रिय ज्वालामुखी नहीं है?",
             "options": {
-                "A": "सेब",
-                "B": "आम",
-                "C": "केला",
-                "D": "अमरूद"
+                "A": "एशिया",
+                "B": "ऑस्ट्रेलिया",
+                "C": "यूरोप",
+                "D": "अफ्रीका"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस फल के बीज में ज़हरीला पदार्थ पाया जाता है?",
+            "options": {
+                "A": "आम",
+                "B": "सेब",
+                "C": "केला",
+                "D": "पपीता"
+            },
+            "correctAnswer": "B"
         }
     ]
 }
