@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "99% Of People Fail This Brain Test 😱",
-    "description": "Test your brain power with these tricky questions! ⏳\nComment your score below 👇\n#quiz #gk #shorts",
+    "title": "Only 1% Can Score 5/5 On This Quiz 😱",
+    "description": "Test your brain power in just 5 seconds per question ⏳\nDrop your final score in the comments below! 👇\n#quiz #gk #shorts #viral",
     "questions": [
         {
-            "question": "किस जीव का दूध कभी नहीं जमता है?",
+            "question": "किस जानवर का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "गाय",
-                "B": "ऊंट",
-                "C": "बकरी",
-                "D": "भैंस"
+                "A": "ऊंट",
+                "B": "दरियाई घोड़ा",
+                "C": "जिराफ",
+                "D": "बकरी"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "दुनिया का एकमात्र ऐसा पक्षी कौन सा है जो पीछे की तरफ उड़ सकता है?",
+            "question": "ऑक्टोपस के पास कुल कितने दिल होते हैं?",
             "options": {
-                "A": "कबूतर",
-                "B": "बाज़",
-                "C": "गुंजन पक्षी",
-                "D": "गौरैया"
+                "A": "एक",
+                "B": "दो",
+                "C": "तीन",
+                "D": "चार"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "किस देश में एक भी नदी नहीं पाई जाती है?",
+            "question": "अंतरिक्ष से देखने पर सूर्य किस रंग का दिखाई देता है?",
             "options": {
-                "A": "सऊदी अरब",
-                "B": "पाकिस्तान",
-                "C": "मिस्र",
-                "D": "जापान"
+                "A": "पीला",
+                "B": "सफेद",
+                "C": "लाल",
+                "D": "नारंगी"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
         },
         {
-            "question": "किस महाद्वीप में एक भी सक्रिय ज्वालामुखी नहीं है?",
+            "question": "किस महाद्वीप में एक भी रेगिस्तान नहीं है?",
             "options": {
                 "A": "एशिया",
-                "B": "ऑस्ट्रेलिया",
-                "C": "यूरोप",
-                "D": "अफ्रीका"
+                "B": "यूरोप",
+                "C": "अफ्रीका",
+                "D": "ऑस्ट्रेलिया"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस फल के बीज में ज़हरीला पदार्थ पाया जाता है?",
+            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "आम",
-                "B": "सेब",
-                "C": "केला",
-                "D": "पपीता"
+                "A": "आइसलैंड",
+                "B": "जापान",
+                "C": "फ्रांस",
+                "D": "स्विट्जरलैंड"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "A"
         }
     ]
 }
