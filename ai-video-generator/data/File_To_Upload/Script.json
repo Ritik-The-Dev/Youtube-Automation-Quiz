@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "99% People Get Question 3 WRONG! 😱",
-    "description": "Test your brain power in just 5 seconds per question ⏳\nComment your score below! 👇\n#quiz #gk #shorts #trending",
+    "title": "99% People Fail This Mind Bending Quiz! 😱",
+    "description": "Test your brain in 5 seconds per question ⏳\nComment your score below! 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "मानव शरीर का कौन सा अंग जीवनभर कभी आराम नहीं करता?",
+            "question": "इंद्रधनुष के बिल्कुल मध्य में कौन सा रंग होता है?",
             "options": {
-                "A": "मस्तिष्क",
-                "B": "हृदय",
-                "C": "यकृत",
-                "D": "फेफड़े"
+                "A": "पीला",
+                "B": "हरा",
+                "C": "नीला",
+                "D": "लाल"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस समुद्री जीव के पास तीन हृदय होते हैं?",
+            "question": "ताश के पत्तों में किस राजा की मूंछें नहीं होतीं?",
             "options": {
-                "A": "शार्क",
-                "B": "ब्लू व्हेल",
-                "C": "ऑक्टोपस",
-                "D": "स्टारफिश"
+                "A": "हुकुम का राजा",
+                "B": "चिड़ी का राजा",
+                "C": "पान का राजा",
+                "D": "ईंट का राजा"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "हमारे सौर मंडल का सबसे गर्म ग्रह कौन सा है?",
+            "question": "किस जीव का हृदय उसके सिर में स्थित होता है?",
             "options": {
-                "A": "बुध",
-                "B": "शुक्र",
-                "C": "मंगल",
-                "D": "बृहस्पति"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "विश्व में सबसे तेजी से बढ़ने वाला पौधा कौन सा है?",
-            "options": {
-                "A": "बांस",
-                "B": "केला",
-                "C": "मनी प्लांट",
-                "D": "सफेदा"
+                "A": "झींगा",
+                "B": "केकड़ा",
+                "C": "अष्टबाहु",
+                "D": "तारा मछली"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "कागज का आविष्कार सबसे पहले किस देश में हुआ था?",
+            "question": "विश्व में सर्वप्रथम कागज़ का निर्माण किस देश में हुआ था?",
             "options": {
                 "A": "भारत",
                 "B": "चीन",
-                "C": "जापान",
-                "D": "मिस्र"
+                "C": "मिस्र",
+                "D": "यूनान"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस फल को पूरी तरह पकने में लगभग दो वर्ष का समय लगता है?",
+            "options": {
+                "A": "नारियल",
+                "B": "अनानास",
+                "C": "कटहल",
+                "D": "केला"
             },
             "correctAnswer": "B"
         }
