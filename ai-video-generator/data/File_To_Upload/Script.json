@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "99% People Fail This Mind Bending Quiz! 😱",
-    "description": "Test your brain in 5 seconds per question ⏳\nComment your score below! 👇\n#quiz #gk #shorts #trending",
+    "title": "Only 1% Can Get 5/5 In This Quiz 😱",
+    "description": "Test your brain power with 5 seconds per question! ⏳\nCan you score a perfect 5/5? Comment your score below 👇\n#quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "इंद्रधनुष के बिल्कुल मध्य में कौन सा रंग होता है?",
+            "question": "किस जीव का दूध और पसीना गुलाबी रंग का होता है?",
             "options": {
-                "A": "पीला",
-                "B": "हरा",
-                "C": "नीला",
-                "D": "लाल"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "ताश के पत्तों में किस राजा की मूंछें नहीं होतीं?",
-            "options": {
-                "A": "हुकुम का राजा",
-                "B": "चिड़ी का राजा",
-                "C": "पान का राजा",
-                "D": "ईंट का राजा"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "किस जीव का हृदय उसके सिर में स्थित होता है?",
-            "options": {
-                "A": "झींगा",
-                "B": "केकड़ा",
-                "C": "अष्टबाहु",
-                "D": "तारा मछली"
+                "A": "दरियाई घोड़ा",
+                "B": "ऊँट",
+                "C": "नीली व्हेल",
+                "D": "हिरण"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "विश्व में सर्वप्रथम कागज़ का निर्माण किस देश में हुआ था?",
+            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक कभी नहीं बढ़ता?",
             "options": {
-                "A": "भारत",
-                "B": "चीन",
-                "C": "मिस्र",
-                "D": "यूनान"
+                "A": "कान",
+                "B": "नाक",
+                "C": "आँख",
+                "D": "नाखून"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "हमारे सौरमंडल का सबसे अधिक गर्म ग्रह कौन सा है?",
+            "options": {
+                "A": "बुध",
+                "B": "शुक्र",
+                "C": "मंगल",
+                "D": "बृहस्पति"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस फल को पूरी तरह पकने में लगभग दो वर्ष का समय लगता है?",
+            "question": "किस महाद्वीप में एक भी सक्रिय ज्वालामुखी नहीं है?",
             "options": {
-                "A": "नारियल",
-                "B": "अनानास",
-                "C": "कटहल",
-                "D": "केला"
+                "A": "एशिया",
+                "B": "ऑस्ट्रेलिया",
+                "C": "यूरोप",
+                "D": "अफ्रीका"
             },
             "correctAnswer": "B"
+        },
+        {
+            "question": "किस समुद्री जीव का दिल उसके सिर के अंदर होता है?",
+            "options": {
+                "A": "झींगा",
+                "B": "केकड़ा",
+                "C": "शार्क",
+                "D": "कछुआ"
+            },
+            "correctAnswer": "A"
         }
     ]
 }
