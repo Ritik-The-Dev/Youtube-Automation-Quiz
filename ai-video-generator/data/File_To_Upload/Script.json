@@ -1,30 +1,10 @@
 {
-    "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Get 5/5 In This Quiz 😱",
-    "description": "Test your brain power with 5 seconds per question! ⏳\nCan you score a perfect 5/5? Comment your score below 👇\n#quiz #gk #shorts #challenge",
+    "quizTopic": "Tricky General Knowledge",
+    "title": "99% People Fail This Tricky GK Challenge 😱",
+    "description": "Test your brain power with 5 tricky questions in 5 seconds ⏳\nDrop your final score in the comments below 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जीव का दूध और पसीना गुलाबी रंग का होता है?",
-            "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊँट",
-                "C": "नीली व्हेल",
-                "D": "हिरण"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक कभी नहीं बढ़ता?",
-            "options": {
-                "A": "कान",
-                "B": "नाक",
-                "C": "आँख",
-                "D": "नाखून"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "हमारे सौरमंडल का सबसे अधिक गर्म ग्रह कौन सा है?",
+            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
             "options": {
                 "A": "बुध",
                 "B": "शुक्र",
@@ -34,24 +14,44 @@
             "correctAnswer": "B"
         },
         {
-            "question": "किस महाद्वीप में एक भी सक्रिय ज्वालामुखी नहीं है?",
+            "question": "किस समुद्री जीव के पास तीन दिल होते हैं?",
             "options": {
-                "A": "एशिया",
-                "B": "ऑस्ट्रेलिया",
-                "C": "यूरोप",
-                "D": "अफ्रीका"
+                "A": "शार्क",
+                "B": "डॉल्फिन",
+                "C": "ऑक्टोपस",
+                "D": "व्हेल"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "C"
         },
         {
-            "question": "किस समुद्री जीव का दिल उसके सिर के अंदर होता है?",
+            "question": "कौन सा जीव जीवनभर कभी पानी नहीं पीता?",
             "options": {
-                "A": "झींगा",
-                "B": "केकड़ा",
-                "C": "शार्क",
-                "D": "कछुआ"
+                "A": "कंगारू चूहा",
+                "B": "ऊंट",
+                "C": "छिपकली",
+                "D": "मेंढक"
             },
             "correctAnswer": "A"
+        },
+        {
+            "question": "भारत का कौन सा राज्य कभी अंग्रेजों का गुलाम नहीं बना?",
+            "options": {
+                "A": "सिक्किम",
+                "B": "केरल",
+                "C": "गोवा",
+                "D": "मणिपुर"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "किस फल में कभी भी कीड़ा नहीं लगता है?",
+            "options": {
+                "A": "अमरूद",
+                "B": "पपीता",
+                "C": "सेब",
+                "D": "केला"
+            },
+            "correctAnswer": "D"
         }
     ]
 }
