@@ -1,8 +1,18 @@
 {
-    "quizTopic": "Tricky General Knowledge",
-    "title": "99% People Fail This Tricky GK Challenge 😱",
-    "description": "Test your brain power with 5 tricky questions in 5 seconds ⏳\nDrop your final score in the comments below 👇\n#quiz #gk #shorts #trending",
+    "quizTopic": "General Knowledge & Mind Tricks",
+    "title": "Only 1% Can Score 5/5 On This 😱",
+    "description": "Test your brain power in 5 seconds per question ⏳\nCan you beat the final question? Drop your score below 👇\n#quiz #gk #shorts #mindgames",
     "questions": [
+        {
+            "question": "किस जीव का पसीना प्राकृतिक रूप से गुलाबी रंग का होता है?",
+            "options": {
+                "A": "दरियाई घोड़ा",
+                "B": "ऊंट",
+                "C": "कंगारू",
+                "D": "जिराफ"
+            },
+            "correctAnswer": "A"
+        },
         {
             "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
             "options": {
@@ -14,44 +24,34 @@
             "correctAnswer": "B"
         },
         {
-            "question": "किस समुद्री जीव के पास तीन दिल होते हैं?",
+            "question": "ऐसा कौन सा जीव है जो जीवन भर बिना पानी पिए जीवित रह सकता है?",
             "options": {
-                "A": "शार्क",
-                "B": "डॉल्फिन",
-                "C": "ऑक्टोपस",
-                "D": "व्हेल"
+                "A": "ऊंट",
+                "B": "बिच्छू",
+                "C": "कंगारू चूहा",
+                "D": "सांप"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "कौन सा जीव जीवनभर कभी पानी नहीं पीता?",
+            "question": "दुनिया के किस देश में एक भी नदी नहीं बहती है?",
             "options": {
-                "A": "कंगारू चूहा",
-                "B": "ऊंट",
-                "C": "छिपकली",
-                "D": "मेंढक"
+                "A": "सऊदी अरब",
+                "B": "मिस्र",
+                "C": "ईरान",
+                "D": "कतर"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "भारत का कौन सा राज्य कभी अंग्रेजों का गुलाम नहीं बना?",
+            "question": "भारत का कौन सा राज्य कभी अंग्रेजों का गुलाम नहीं रहा?",
             "options": {
                 "A": "सिक्किम",
-                "B": "केरल",
-                "C": "गोवा",
-                "D": "मणिपुर"
+                "B": "गोवा",
+                "C": "असम",
+                "D": "केरल"
             },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "किस फल में कभी भी कीड़ा नहीं लगता है?",
-            "options": {
-                "A": "अमरूद",
-                "B": "पपीता",
-                "C": "सेब",
-                "D": "केला"
-            },
-            "correctAnswer": "D"
+            "correctAnswer": "B"
         }
     ]
 }
