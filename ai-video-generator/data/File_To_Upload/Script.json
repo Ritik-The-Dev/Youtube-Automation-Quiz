@@ -1,55 +1,55 @@
 {
-    "quizTopic": "General Knowledge & Mind Tricks",
-    "title": "Only 1% Can Score 5/5 On This 😱",
-    "description": "Test your brain power in 5 seconds per question ⏳\nCan you beat the final question? Drop your score below 👇\n#quiz #gk #shorts #mindgames",
+    "quizTopic": "Tricky General Knowledge",
+    "title": "Only 1% Can Score 5/5 On This Quiz 🤯",
+    "description": "You have only 5 seconds per question ⏳\nDrop your final score in the comments below 👇\n#quiz #gk #shorts #trivia",
     "questions": [
         {
-            "question": "किस जीव का पसीना प्राकृतिक रूप से गुलाबी रंग का होता है?",
+            "question": "किस समुद्री जीव का दिल उसके सिर में होता है?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊंट",
-                "C": "कंगारू",
-                "D": "जिराफ"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
-            "options": {
-                "A": "बुध",
-                "B": "शुक्र",
-                "C": "मंगल",
-                "D": "बृहस्पति"
+                "A": "ऑक्टोपस",
+                "B": "झींगा मछली",
+                "C": "केकड़ा",
+                "D": "तारामीन"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "ऐसा कौन सा जीव है जो जीवन भर बिना पानी पिए जीवित रह सकता है?",
+            "question": "कौन सा पक्षी पीछे की तरफ भी उड़ सकता है?",
             "options": {
-                "A": "ऊंट",
-                "B": "बिच्छू",
-                "C": "कंगारू चूहा",
-                "D": "सांप"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "दुनिया के किस देश में एक भी नदी नहीं बहती है?",
-            "options": {
-                "A": "सऊदी अरब",
-                "B": "मिस्र",
-                "C": "ईरान",
-                "D": "कतर"
+                "A": "गुंजन पक्षी",
+                "B": "कोयल",
+                "C": "कबूतर",
+                "D": "चील"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "भारत का कौन सा राज्य कभी अंग्रेजों का गुलाम नहीं रहा?",
+            "question": "किस जानवर के पसीने का रंग गुलाबी होता है?",
             "options": {
-                "A": "सिक्किम",
-                "B": "गोवा",
-                "C": "असम",
-                "D": "केरल"
+                "A": "ऊंट",
+                "B": "गैंडा",
+                "C": "दरियाई घोड़ा",
+                "D": "जिराफ़"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "कौन सा जीव अपने पैरों से स्वाद चखता है?",
+            "options": {
+                "A": "तितली",
+                "B": "मधुमक्खी",
+                "C": "मच्छर",
+                "D": "चींटी"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "दुनिया का सबसे छोटा महासागर कौन सा है?",
+            "options": {
+                "A": "हिंद महासागर",
+                "B": "आर्कटिक महासागर",
+                "C": "प्रशांत महासागर",
+                "D": "अटलांटिक महासागर"
             },
             "correctAnswer": "B"
         }
