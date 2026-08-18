@@ -1,55 +1,55 @@
 {
-    "quizTopic": "Tricky General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This Quiz 🤯",
-    "description": "You have only 5 seconds per question ⏳\nDrop your final score in the comments below 👇\n#quiz #gk #shorts #trivia",
+    "quizTopic": "General Knowledge",
+    "title": "Only 1% Can Score 5/5 On This 😱",
+    "description": "Test your brain power with 5 tricky questions in 5 seconds! ⏳\nDrop your final score in the comments below 👇\n#quiz #gk #shorts #challenge #brainhack",
     "questions": [
         {
-            "question": "किस समुद्री जीव का दिल उसके सिर में होता है?",
+            "question": "ऐसा कौन सा जीव है जिसका दिल उसके सिर में होता है?",
             "options": {
-                "A": "ऑक्टोपस",
-                "B": "झींगा मछली",
-                "C": "केकड़ा",
-                "D": "तारामीन"
+                "A": "केकड़ा",
+                "B": "झींगा",
+                "C": "कछुआ",
+                "D": "मेंढक"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "कौन सा पक्षी पीछे की तरफ भी उड़ सकता है?",
+            "question": "भारत के किस राज्य में सूर्य सबसे पहले उदय होता है?",
             "options": {
-                "A": "गुंजन पक्षी",
-                "B": "कोयल",
-                "C": "कबूतर",
-                "D": "चील"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "किस जानवर के पसीने का रंग गुलाबी होता है?",
-            "options": {
-                "A": "ऊंट",
-                "B": "गैंडा",
-                "C": "दरियाई घोड़ा",
-                "D": "जिराफ़"
+                "A": "असम",
+                "B": "सिक्किम",
+                "C": "अरुणाचल प्रदेश",
+                "D": "मणिपुर"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "कौन सा जीव अपने पैरों से स्वाद चखता है?",
+            "question": "किस जानवर का पसीना गुलाबी रंग का होता है?",
             "options": {
-                "A": "तितली",
-                "B": "मधुमक्खी",
-                "C": "मच्छर",
-                "D": "चींटी"
+                "A": "दरियाई घोड़ा",
+                "B": "ऊंट",
+                "C": "गैंडा",
+                "D": "हाथी"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "दुनिया का सबसे छोटा महासागर कौन सा है?",
+            "question": "मानव शरीर का कौन सा अंग जन्म से लेकर मृत्यु तक कभी नहीं बढ़ता?",
             "options": {
-                "A": "हिंद महासागर",
-                "B": "आर्कटिक महासागर",
-                "C": "प्रशांत महासागर",
-                "D": "अटलांटिक महासागर"
+                "A": "नाक",
+                "B": "कान",
+                "C": "आंख",
+                "D": "नाखून"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "विश्व का ऐसा कौन सा देश है जहां एक भी नदी नहीं बहती?",
+            "options": {
+                "A": "कतर",
+                "B": "सऊदी अरब",
+                "C": "कुवैत",
+                "D": "मिस्र"
             },
             "correctAnswer": "B"
         }
