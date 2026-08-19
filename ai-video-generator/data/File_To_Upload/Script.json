@@ -1,55 +1,55 @@
 {
-    "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 😱",
-    "description": "Test your brain power with 5 tricky questions in 5 seconds! ⏳\nDrop your final score in the comments below 👇\n#quiz #gk #shorts #challenge #brainhack",
+    "quizTopic": "Tricky General Knowledge",
+    "title": "Only 1% Can Score 5/5 on This Quiz! 😱",
+    "description": "Test your brain in 5 seconds per question ⏳\nCan you score 5/5? Comment your result below 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "ऐसा कौन सा जीव है जिसका दिल उसके सिर में होता है?",
-            "options": {
-                "A": "केकड़ा",
-                "B": "झींगा",
-                "C": "कछुआ",
-                "D": "मेंढक"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "भारत के किस राज्य में सूर्य सबसे पहले उदय होता है?",
-            "options": {
-                "A": "असम",
-                "B": "सिक्किम",
-                "C": "अरुणाचल प्रदेश",
-                "D": "मणिपुर"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "किस जानवर का पसीना गुलाबी रंग का होता है?",
+            "question": "किस जीव का पसीना गुलाबी रंग का होता है?",
             "options": {
                 "A": "दरियाई घोड़ा",
-                "B": "ऊंट",
-                "C": "गैंडा",
-                "D": "हाथी"
+                "B": "ऊँट",
+                "C": "हाथी",
+                "D": "भालू"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "मानव शरीर का कौन सा अंग जन्म से लेकर मृत्यु तक कभी नहीं बढ़ता?",
+            "question": "किस जीव का दिल उसके सिर में स्थित होता है?",
             "options": {
-                "A": "नाक",
-                "B": "कान",
-                "C": "आंख",
-                "D": "नाखून"
+                "A": "ऑक्टोपस",
+                "B": "समुद्री झींगा",
+                "C": "तारा मछली",
+                "D": "कछुआ"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "B"
         },
         {
-            "question": "विश्व का ऐसा कौन सा देश है जहां एक भी नदी नहीं बहती?",
+            "question": "किस फल के बीज में हल्का विषैला पदार्थ साइनाइड पाया जाता है?",
             "options": {
-                "A": "कतर",
-                "B": "सऊदी अरब",
-                "C": "कुवैत",
-                "D": "मिस्र"
+                "A": "आम",
+                "B": "सेब",
+                "C": "पपीता",
+                "D": "अनार"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "विश्व का ऐसा कौन सा देश है जहाँ एक भी मच्छर नहीं पाया जाता?",
+            "options": {
+                "A": "आइसलैंड",
+                "B": "नॉर्वे",
+                "C": "भूटान",
+                "D": "नेपाल"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
+            "options": {
+                "A": "तोता",
+                "B": "गुंजन पक्षी",
+                "C": "कौआ",
+                "D": "चील"
             },
             "correctAnswer": "B"
         }
