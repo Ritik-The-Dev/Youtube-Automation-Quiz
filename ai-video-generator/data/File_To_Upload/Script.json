@@ -1,57 +1,57 @@
 {
-    "quizTopic": "Tricky General Knowledge",
-    "title": "Only 1% Can Score 5/5 on This Quiz! 😱",
-    "description": "Test your brain in 5 seconds per question ⏳\nCan you score 5/5? Comment your result below 👇\n#quiz #gk #shorts #trending",
+    "quizTopic": "General Knowledge",
+    "title": "Only 1% Can Score 5/5 On This 🧠",
+    "description": "You have only 5 seconds for each tricky question! ⏳\nDrop your final score in the comments below 👇\n#quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "किस जीव का पसीना गुलाबी रंग का होता है?",
+            "question": "ऐसा कौन सा जीव है जो पानी पीते ही मर जाता है?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊँट",
-                "C": "हाथी",
-                "D": "भालू"
+                "A": "कंगारू चूहा",
+                "B": "ऊंट",
+                "C": "दरियाई घोड़ा",
+                "D": "चमगादड़"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस जीव का दिल उसके सिर में स्थित होता है?",
+            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "ऑक्टोपस",
-                "B": "समुद्री झींगा",
-                "C": "तारा मछली",
-                "D": "कछुआ"
+                "A": "जापान",
+                "B": "आइसलैंड",
+                "C": "फ्रांस",
+                "D": "नॉर्वे"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस फल के बीज में हल्का विषैला पदार्थ साइनाइड पाया जाता है?",
+            "question": "किस जानवर के दूध का रंग हल्का गुलाबी होता है?",
             "options": {
-                "A": "आम",
+                "A": "जिराफ",
+                "B": "नीलगाय",
+                "C": "दरियाई घोड़ा",
+                "D": "ऊंटनी"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "किस फल के बीजों में अल्प मात्रा में जहर पाया जाता है?",
+            "options": {
+                "A": "अमरूद",
                 "B": "सेब",
-                "C": "पपीता",
+                "C": "संतरा",
                 "D": "अनार"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "विश्व का ऐसा कौन सा देश है जहाँ एक भी मच्छर नहीं पाया जाता?",
+            "question": "निम्नलिखित में से किस देश में एक भी स्थायी नदी नहीं है?",
             "options": {
-                "A": "आइसलैंड",
-                "B": "नॉर्वे",
+                "A": "सऊदी अरब",
+                "B": "नेपाल",
                 "C": "भूटान",
-                "D": "नेपाल"
+                "D": "मिस्र"
             },
             "correctAnswer": "A"
-        },
-        {
-            "question": "कौन सा पक्षी पीछे की ओर भी उड़ सकता है?",
-            "options": {
-                "A": "तोता",
-                "B": "गुंजन पक्षी",
-                "C": "कौआ",
-                "D": "चील"
-            },
-            "correctAnswer": "B"
         }
     ]
 }
