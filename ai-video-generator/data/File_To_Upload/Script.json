@@ -1,55 +1,55 @@
 {
-    "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 🧠",
-    "description": "You have only 5 seconds for each tricky question! ⏳\nDrop your final score in the comments below 👇\n#quiz #gk #shorts #challenge",
+    "quizTopic": "Tricky General Knowledge",
+    "title": "Only 1% Can Score 5/5 On This Quiz 🤯",
+    "description": "You only have 5 seconds per question to prove your smarts! ⏳\nDrop your final score in the comments below 👇\n#quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "ऐसा कौन सा जीव है जो पानी पीते ही मर जाता है?",
+            "question": "भारत का कौन सा राज्य कभी अंग्रेजों का गुलाम नहीं रहा?",
             "options": {
-                "A": "कंगारू चूहा",
-                "B": "ऊंट",
-                "C": "दरियाई घोड़ा",
-                "D": "चमगादड़"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता है?",
-            "options": {
-                "A": "जापान",
-                "B": "आइसलैंड",
-                "C": "फ्रांस",
-                "D": "नॉर्वे"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस जानवर के दूध का रंग हल्का गुलाबी होता है?",
-            "options": {
-                "A": "जिराफ",
-                "B": "नीलगाय",
-                "C": "दरियाई घोड़ा",
-                "D": "ऊंटनी"
+                "A": "केरल",
+                "B": "सिक्किम",
+                "C": "गोवा",
+                "D": "असम"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "किस फल के बीजों में अल्प मात्रा में जहर पाया जाता है?",
+            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक कभी नहीं बढ़ता?",
             "options": {
-                "A": "अमरूद",
-                "B": "सेब",
-                "C": "संतरा",
-                "D": "अनार"
+                "A": "कान",
+                "B": "आंख",
+                "C": "नाक",
+                "D": "जीभ"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "निम्नलिखित में से किस देश में एक भी स्थायी नदी नहीं है?",
+            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
             "options": {
-                "A": "सऊदी अरब",
-                "B": "नेपाल",
-                "C": "भूटान",
-                "D": "मिस्र"
+                "A": "बुध",
+                "B": "मंगल",
+                "C": "शुक्र",
+                "D": "बृहस्पति"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "भारतीय नोट पर कुल कितनी भाषाएं अंकित होती हैं?",
+            "options": {
+                "A": "पंद्रह",
+                "B": "सोलह",
+                "C": "सत्रह",
+                "D": "अट्ठारह"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "ऐसा कौन सा जीव है जिसका दिल उसके सिर में होता है?",
+            "options": {
+                "A": "समुद्री झींगा",
+                "B": "ऑक्टोपस",
+                "C": "केकड़ा",
+                "D": "कछुआ"
             },
             "correctAnswer": "A"
         }
