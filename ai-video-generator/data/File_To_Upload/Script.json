@@ -1,57 +1,57 @@
 {
     "quizTopic": "Tricky General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This Quiz 🤯",
-    "description": "You only have 5 seconds per question to prove your smarts! ⏳\nDrop your final score in the comments below 👇\n#quiz #gk #shorts #challenge",
+    "title": "Only 1% Can Score 5/5 On This Tricky Quiz! 🤯",
+    "description": "Test your brain in 5 seconds per question ⏳\nComment your real score below 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "भारत का कौन सा राज्य कभी अंग्रेजों का गुलाम नहीं रहा?",
+            "question": "किस जीव का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "केरल",
-                "B": "सिक्किम",
-                "C": "गोवा",
-                "D": "असम"
+                "A": "दरियाई घोड़ा",
+                "B": "ऊँट",
+                "C": "जिराफ़",
+                "D": "नीलगाय"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "A"
         },
         {
-            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक कभी नहीं बढ़ता?",
+            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता?",
             "options": {
-                "A": "कान",
-                "B": "आंख",
-                "C": "नाक",
-                "D": "जीभ"
+                "A": "फ्रांस",
+                "B": "आइसलैंड",
+                "C": "जापान",
+                "D": "नॉर्वे"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
+            "question": "किस जीव की जीभ का वजन एक पूरे हाथी जितना होता है?",
             "options": {
-                "A": "बुध",
-                "B": "मंगल",
-                "C": "शुक्र",
-                "D": "बृहस्पति"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "भारतीय नोट पर कुल कितनी भाषाएं अंकित होती हैं?",
-            "options": {
-                "A": "पंद्रह",
-                "B": "सोलह",
-                "C": "सत्रह",
-                "D": "अट्ठारह"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "ऐसा कौन सा जीव है जिसका दिल उसके सिर में होता है?",
-            "options": {
-                "A": "समुद्री झींगा",
-                "B": "ऑक्टोपस",
-                "C": "केकड़ा",
-                "D": "कछुआ"
+                "A": "नीली ह्वेल",
+                "B": "विशालकाय शार्क",
+                "C": "समुद्री कछुआ",
+                "D": "मगरमच्छ"
             },
             "correctAnswer": "A"
+        },
+        {
+            "question": "कौन सा पक्षी हवा में पीछे की तरफ भी उड़ सकता है?",
+            "options": {
+                "A": "चमगादड़",
+                "B": "कठफोड़वा",
+                "C": "गुंजन पक्षी",
+                "D": "बाज़"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "ऐसा कौन सा जीव है जो कभी पानी नहीं पीता और पानी पीने पर मर जाता है?",
+            "options": {
+                "A": "बिच्छू",
+                "B": "कंगारू चूहा",
+                "C": "जुगनू",
+                "D": "गिरगिट"
+            },
+            "correctAnswer": "B"
         }
     ]
 }
