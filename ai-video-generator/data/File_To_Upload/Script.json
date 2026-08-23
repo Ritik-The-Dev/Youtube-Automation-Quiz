@@ -1,55 +1,55 @@
 {
-    "quizTopic": "Tricky General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This Tricky Quiz! 🤯",
-    "description": "Test your brain in 5 seconds per question ⏳\nComment your real score below 👇\n#quiz #gk #shorts #trending",
+    "quizTopic": "Shocking Facts GK",
+    "title": "Only 1% Can Score 5/5 On This 🧠",
+    "description": "You have only 5 seconds for each question ⏳\nDrop your final score in the comments below 👇\n#quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "किस जीव का दूध गुलाबी रंग का होता है?",
+            "question": "किस जीव का दिल उसके सिर में स्थित होता है?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊँट",
-                "C": "जिराफ़",
-                "D": "नीलगाय"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता?",
-            "options": {
-                "A": "फ्रांस",
-                "B": "आइसलैंड",
-                "C": "जापान",
-                "D": "नॉर्वे"
+                "A": "समुद्री केकड़ा",
+                "B": "झींगा मछली",
+                "C": "अष्टबाहु",
+                "D": "तारा मछली"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस जीव की जीभ का वजन एक पूरे हाथी जितना होता है?",
+            "question": "कौन सा पक्षी पीछे की दिशा में भी उड़ सकता है?",
             "options": {
-                "A": "नीली ह्वेल",
-                "B": "विशालकाय शार्क",
-                "C": "समुद्री कछुआ",
-                "D": "मगरमच्छ"
+                "A": "कटफोड़वा",
+                "B": "गुंजन पक्षी",
+                "C": "नीलकंठ",
+                "D": "चमगादड़"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
         },
         {
-            "question": "कौन सा पक्षी हवा में पीछे की तरफ भी उड़ सकता है?",
+            "question": "लोहे की कील को भी आसानी से पचा सकने वाला जीव कौन सा है?",
             "options": {
-                "A": "चमगादड़",
-                "B": "कठफोड़वा",
-                "C": "गुंजन पक्षी",
-                "D": "बाज़"
+                "A": "अजगर",
+                "B": "शुतुरमुर्ग",
+                "C": "मगरमच्छ",
+                "D": "दरियाई घोड़ा"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "ऐसा कौन सा जीव है जो कभी पानी नहीं पीता और पानी पीने पर मर जाता है?",
+            "question": "वातावरण में सबसे अधिक ऑक्सीजन देने वाला वृक्ष कौन सा है?",
             "options": {
-                "A": "बिच्छू",
-                "B": "कंगारू चूहा",
-                "C": "जुगनू",
-                "D": "गिरगिट"
+                "A": "नीम",
+                "B": "बरगद",
+                "C": "पीपल",
+                "D": "शीशम"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "मानव शरीर का कौन सा अंग लगभग बारह वाट बिजली पैदा कर सकता है?",
+            "options": {
+                "A": "हृदय",
+                "B": "मस्तिष्क",
+                "C": "यकृत",
+                "D": "फेफड़ा"
             },
             "correctAnswer": "B"
         }
