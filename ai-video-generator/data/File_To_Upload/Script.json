@@ -1,57 +1,57 @@
 {
-    "quizTopic": "Shocking Facts GK",
-    "title": "Only 1% Can Score 5/5 On This 🧠",
-    "description": "You have only 5 seconds for each question ⏳\nDrop your final score in the comments below 👇\n#quiz #gk #shorts #challenge",
+    "quizTopic": "Tricky General Knowledge",
+    "title": "Only 1% Can Score 5/5 On This Quiz 🧠",
+    "description": "You have only 5 seconds for each tricky question ⏳\nDrop your final score in the comments below 👇\n#quiz #gk #shorts #trending",
     "questions": [
         {
-            "question": "किस जीव का दिल उसके सिर में स्थित होता है?",
+            "question": "वह कौन सा जीव है जो अपने पूरे जीवनकाल में कभी पानी नहीं पीता?",
             "options": {
-                "A": "समुद्री केकड़ा",
-                "B": "झींगा मछली",
-                "C": "अष्टबाहु",
-                "D": "तारा मछली"
+                "A": "कंगारू चूहा",
+                "B": "रेगिस्तानी ऊँट",
+                "C": "काला बिच्छू",
+                "D": "जंगली खरगोश"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "A"
         },
         {
-            "question": "कौन सा पक्षी पीछे की दिशा में भी उड़ सकता है?",
-            "options": {
-                "A": "कटफोड़वा",
-                "B": "गुंजन पक्षी",
-                "C": "नीलकंठ",
-                "D": "चमगादड़"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "लोहे की कील को भी आसानी से पचा सकने वाला जीव कौन सा है?",
-            "options": {
-                "A": "अजगर",
-                "B": "शुतुरमुर्ग",
-                "C": "मगरमच्छ",
-                "D": "दरियाई घोड़ा"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "वातावरण में सबसे अधिक ऑक्सीजन देने वाला वृक्ष कौन सा है?",
-            "options": {
-                "A": "नीम",
-                "B": "बरगद",
-                "C": "पीपल",
-                "D": "शीशम"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "मानव शरीर का कौन सा अंग लगभग बारह वाट बिजली पैदा कर सकता है?",
+            "question": "मानव शरीर का कौन सा अंग स्वयं कभी दर्द महसूस नहीं कर सकता?",
             "options": {
                 "A": "हृदय",
                 "B": "मस्तिष्क",
                 "C": "यकृत",
-                "D": "फेफड़ा"
+                "D": "फेफड़े"
             },
             "correctAnswer": "B"
+        },
+        {
+            "question": "विश्व का ऐसा कौन सा देश है जहाँ एक भी मच्छर नहीं पाया जाता?",
+            "options": {
+                "A": "नॉर्वे",
+                "B": "जापान",
+                "C": "आइसलैंड",
+                "D": "स्विट्ज़रलैंड"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "किस समुद्री जीव के शरीर में तीन दिल और नीला रक्त होता है?",
+            "options": {
+                "A": "विशाल व्हेल",
+                "B": "अष्टबाहु",
+                "C": "समुद्री घोड़ा",
+                "D": "तारामीन"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "सौरमंडल के किस ग्रह का एक दिन उसके एक वर्ष से भी अधिक लंबा होता है?",
+            "options": {
+                "A": "मंगल ग्रह",
+                "B": "बुध ग्रह",
+                "C": "शुक्र ग्रह",
+                "D": "बृहस्पति ग्रह"
+            },
+            "correctAnswer": "C"
         }
     ]
 }
