@@ -1,57 +1,57 @@
 {
-    "quizTopic": "Tricky General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This Quiz 🧠",
-    "description": "You have only 5 seconds for each tricky question ⏳\nDrop your final score in the comments below 👇\n#quiz #gk #shorts #trending",
+    "quizTopic": "Shocking Science & Human Body",
+    "title": "Only 1% Can Score 5/5 In This Quiz 😱",
+    "description": "You have only 5 seconds for each question! ⏳\nComment your final score below and challenge your friends 👇\n#quiz #gk #shorts #challenge #brainteaser",
     "questions": [
         {
-            "question": "वह कौन सा जीव है जो अपने पूरे जीवनकाल में कभी पानी नहीं पीता?",
+            "question": "मानव शरीर का कौन सा अंग कभी दर्द महसूस नहीं कर सकता?",
             "options": {
-                "A": "कंगारू चूहा",
-                "B": "रेगिस्तानी ऊँट",
-                "C": "काला बिच्छू",
-                "D": "जंगली खरगोश"
+                "A": "दिल",
+                "B": "दिमाग",
+                "C": "यकृत",
+                "D": "गुर्दा"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस जानवर का पसीना गुलाबी रंग का होता है?",
+            "options": {
+                "A": "दरियाई घोड़ा",
+                "B": "ऊँट",
+                "C": "सफेद हाथी",
+                "D": "भालू"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "मानव शरीर का कौन सा अंग स्वयं कभी दर्द महसूस नहीं कर सकता?",
+            "question": "मानव शरीर की सबसे मजबूत मांसपेशी कौन सी होती है?",
             "options": {
-                "A": "हृदय",
-                "B": "मस्तिष्क",
-                "C": "यकृत",
-                "D": "फेफड़े"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "विश्व का ऐसा कौन सा देश है जहाँ एक भी मच्छर नहीं पाया जाता?",
-            "options": {
-                "A": "नॉर्वे",
-                "B": "जापान",
-                "C": "आइसलैंड",
-                "D": "स्विट्ज़रलैंड"
+                "A": "जांघ की मांसपेशी",
+                "B": "जीभ",
+                "C": "जबड़े की मांसपेशी",
+                "D": "पीठ की मांसपेशी"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "किस समुद्री जीव के शरीर में तीन दिल और नीला रक्त होता है?",
+            "question": "किस समुद्री जीव के पास तीन दिल होते हैं?",
             "options": {
-                "A": "विशाल व्हेल",
-                "B": "अष्टबाहु",
-                "C": "समुद्री घोड़ा",
-                "D": "तारामीन"
+                "A": "शार्क",
+                "B": "ऑक्टोपस",
+                "C": "व्हेल",
+                "D": "कछुआ"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "सौरमंडल के किस ग्रह का एक दिन उसके एक वर्ष से भी अधिक लंबा होता है?",
+            "question": "मानव शरीर की सबसे छोटी हड्डी कहाँ पाई जाती है?",
             "options": {
-                "A": "मंगल ग्रह",
-                "B": "बुध ग्रह",
-                "C": "शुक्र ग्रह",
-                "D": "बृहस्पति ग्रह"
+                "A": "नाक में",
+                "B": "कान में",
+                "C": "उंगली में",
+                "D": "गले में"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "B"
         }
     ]
 }
