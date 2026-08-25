@@ -1,55 +1,55 @@
 {
-    "quizTopic": "Shocking Science & Human Body",
-    "title": "Only 1% Can Score 5/5 In This Quiz 😱",
-    "description": "You have only 5 seconds for each question! ⏳\nComment your final score below and challenge your friends 👇\n#quiz #gk #shorts #challenge #brainteaser",
+    "quizTopic": "Tricky General Knowledge",
+    "title": "99% People Fail This Mind Trick Quiz 🤯",
+    "description": "Test your brain with 5 seconds per question ⏳\nCan you get a 5/5 score? Comment below 👇\n#quiz #gk #shorts #mindgames",
     "questions": [
         {
-            "question": "मानव शरीर का कौन सा अंग कभी दर्द महसूस नहीं कर सकता?",
+            "question": "किस समुद्री जीव का दिल उसके सिर में स्थित होता है?",
             "options": {
-                "A": "दिल",
-                "B": "दिमाग",
-                "C": "यकृत",
-                "D": "गुर्दा"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस जानवर का पसीना गुलाबी रंग का होता है?",
-            "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊँट",
-                "C": "सफेद हाथी",
-                "D": "भालू"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "मानव शरीर की सबसे मजबूत मांसपेशी कौन सी होती है?",
-            "options": {
-                "A": "जांघ की मांसपेशी",
-                "B": "जीभ",
-                "C": "जबड़े की मांसपेशी",
-                "D": "पीठ की मांसपेशी"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "किस समुद्री जीव के पास तीन दिल होते हैं?",
-            "options": {
-                "A": "शार्क",
-                "B": "ऑक्टोपस",
-                "C": "व्हेल",
+                "A": "केकड़ा",
+                "B": "झींगा",
+                "C": "तारा मछली",
                 "D": "कछुआ"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "मानव शरीर की सबसे छोटी हड्डी कहाँ पाई जाती है?",
+            "question": "किस सामान्य फल के बीजों में हल्का ज़हर पाया जाता है?",
             "options": {
-                "A": "नाक में",
-                "B": "कान में",
-                "C": "उंगली में",
-                "D": "गले में"
+                "A": "संतरा",
+                "B": "पपीता",
+                "C": "सेब",
+                "D": "अमरूद"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "कौन सा जीव जीवन भर बिना पानी पिए जीवित रह सकता है?",
+            "options": {
+                "A": "कंगारू चूहा",
+                "B": "ऊंट",
+                "C": "गिरगिट",
+                "D": "नेवला"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक कभी नहीं बढ़ता?",
+            "options": {
+                "A": "कान",
+                "B": "नाक",
+                "C": "मस्तिष्क",
+                "D": "आंख"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "दुनिया के किस देश में एक भी नदी नहीं पाई जाती है?",
+            "options": {
+                "A": "मिस्र",
+                "B": "सऊदी अरब",
+                "C": "सूडान",
+                "D": "ईरान"
             },
             "correctAnswer": "B"
         }
