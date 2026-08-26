@@ -1,57 +1,57 @@
 {
     "quizTopic": "Tricky General Knowledge",
-    "title": "99% People Fail This Mind Trick Quiz 🤯",
-    "description": "Test your brain with 5 seconds per question ⏳\nCan you get a 5/5 score? Comment below 👇\n#quiz #gk #shorts #mindgames",
+    "title": "Only 1% Can Score 5/5 On This 😱",
+    "description": "Think you are a genius? Test your brain in 5 seconds per question ⏳\nComment your final score below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस समुद्री जीव का दिल उसके सिर में स्थित होता है?",
+            "question": "किस जीव का दूध गुलाबी रंग का होता है?",
             "options": {
-                "A": "केकड़ा",
-                "B": "झींगा",
-                "C": "तारा मछली",
-                "D": "कछुआ"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस सामान्य फल के बीजों में हल्का ज़हर पाया जाता है?",
-            "options": {
-                "A": "संतरा",
-                "B": "पपीता",
-                "C": "सेब",
-                "D": "अमरूद"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "कौन सा जीव जीवन भर बिना पानी पिए जीवित रह सकता है?",
-            "options": {
-                "A": "कंगारू चूहा",
-                "B": "ऊंट",
-                "C": "गिरगिट",
-                "D": "नेवला"
+                "A": "दरियाई घोड़ा",
+                "B": "ऊँट",
+                "C": "नीलगाय",
+                "D": "भालू"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "मानव शरीर का कौन सा अंग जन्म से मृत्यु तक कभी नहीं बढ़ता?",
+            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "कान",
-                "B": "नाक",
-                "C": "मस्तिष्क",
-                "D": "आंख"
-            },
-            "correctAnswer": "D"
-        },
-        {
-            "question": "दुनिया के किस देश में एक भी नदी नहीं पाई जाती है?",
-            "options": {
-                "A": "मिस्र",
-                "B": "सऊदी अरब",
-                "C": "सूडान",
-                "D": "ईरान"
+                "A": "नॉर्वे",
+                "B": "आइसलैंड",
+                "C": "भूटान",
+                "D": "जापान"
             },
             "correctAnswer": "B"
+        },
+        {
+            "question": "किस जीव का दिल उसके सिर में स्थित होता है?",
+            "options": {
+                "A": "झींगा",
+                "B": "केंचुआ",
+                "C": "केकड़ा",
+                "D": "मेंढक"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "ऐसा कौन सा फल है जिसका बीज फल के बाहर होता है?",
+            "options": {
+                "A": "अनानास",
+                "B": "काजू",
+                "C": "अमरूद",
+                "D": "अनार"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "वह कौन सा छोटा जीव है जो अपनी पूरी जिंदगी कभी नहीं सोता?",
+            "options": {
+                "A": "तितली",
+                "B": "बिच्छू",
+                "C": "चींटी",
+                "D": "छिपकली"
+            },
+            "correctAnswer": "C"
         }
     ]
 }
