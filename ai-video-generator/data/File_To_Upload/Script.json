@@ -1,55 +1,55 @@
 {
-    "quizTopic": "Tricky General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 😱",
-    "description": "Think you are a genius? Test your brain in 5 seconds per question ⏳\nComment your final score below 👇\n#quiz #gk #shorts",
+    "quizTopic": "Shocking Facts GK",
+    "title": "Only 1% Can Score 5/5 On This 🧠😱",
+    "description": "You have only 5 seconds for each tricky question! ⏳\nComment your final score below and challenge your friends 👇\n#quiz #gk #shorts #viral #challenge",
     "questions": [
         {
-            "question": "किस जीव का दूध गुलाबी रंग का होता है?",
+            "question": "किस जीव का पसीना प्राकृतिक रूप से गुलाबी रंग का होता है?",
             "options": {
                 "A": "दरियाई घोड़ा",
                 "B": "ऊँट",
-                "C": "नीलगाय",
-                "D": "भालू"
+                "C": "जिराफ़",
+                "D": "हाथी"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "question": "मानव शरीर की सबसे अधिक दबाव डालने वाली मजबूत मांसपेशी कौन सी है?",
+            "options": {
+                "A": "जीभ",
+                "B": "जबड़ा",
+                "C": "जांघ",
+                "D": "हृदय"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस फल के बीजों में अल्प मात्रा में साइनाइड पाया जाता है?",
+            "options": {
+                "A": "आम",
+                "B": "पपीता",
+                "C": "सेब",
+                "D": "संतरा"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "दुनिया का ऐसा कौन सा देश है जहाँ केवल चालीस मिनट की रात होती है?",
             "options": {
                 "A": "नॉर्वे",
                 "B": "आइसलैंड",
-                "C": "भूटान",
-                "D": "जापान"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस जीव का दिल उसके सिर में स्थित होता है?",
-            "options": {
-                "A": "झींगा",
-                "B": "केंचुआ",
-                "C": "केकड़ा",
-                "D": "मेंढक"
+                "C": "डेनमार्क",
+                "D": "फिनलैंड"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "ऐसा कौन सा फल है जिसका बीज फल के बाहर होता है?",
+            "question": "अंतरिक्ष में सबसे पहले सफलतापूर्वक उगाई जाने वाली सब्ज़ी कौन सी थी?",
             "options": {
-                "A": "अनानास",
-                "B": "काजू",
-                "C": "अमरूद",
-                "D": "अनार"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "वह कौन सा छोटा जीव है जो अपनी पूरी जिंदगी कभी नहीं सोता?",
-            "options": {
-                "A": "तितली",
-                "B": "बिच्छू",
-                "C": "चींटी",
-                "D": "छिपकली"
+                "A": "टमाटर",
+                "B": "गाजर",
+                "C": "आलू",
+                "D": "मटर"
             },
             "correctAnswer": "C"
         }
