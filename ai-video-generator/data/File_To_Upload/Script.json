@@ -1,57 +1,57 @@
 {
-    "quizTopic": "Tricky General Knowledge",
-    "title": "Can You Score 5/5 On This Quiz? 😱",
-    "description": "Test your brain power with 5 seconds per question ⏳\nDrop your honest score in the comments below 👇\n#quiz #gk #shorts",
+    "quizTopic": "General Knowledge",
+    "title": "Only 1% Can Score 5/5 In This Quiz 🤯",
+    "description": "You only have 5 seconds to crack each question ⏳\nComment your final score below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "भारत सरकार द्वारा घोषित आधिकारिक राष्ट्रीय खेल कौन सा है?",
+            "question": "किस जीव का दिल उसके सिर में होता है?",
             "options": {
-                "A": "हॉकी",
-                "B": "कबड्डी",
-                "C": "क्रिकेट",
-                "D": "कोई भी नहीं"
-            },
-            "correctAnswer": "D"
-        },
-        {
-            "question": "क्षेत्रफल के आधार पर विश्व का सबसे बड़ा मरुस्थल कौन सा है?",
-            "options": {
-                "A": "सहारा",
-                "B": "अंटार्कटिका",
-                "C": "गोबी",
-                "D": "कालाहारी"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "ऑस्ट्रेलिया देश की वास्तविक राजधानी कौन सी है?",
-            "options": {
-                "A": "सिडनी",
-                "B": "मेलबर्न",
-                "C": "कैनबरा",
-                "D": "पर्थ"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "किस जीव का हृदय उसके सिर के अंदर स्थित होता है?",
-            "options": {
-                "A": "समुद्री झींगा",
-                "B": "केंचुआ",
-                "C": "ऑक्टोपस",
-                "D": "तारा मछली"
+                "A": "झींगा",
+                "B": "केकड़ा",
+                "C": "कछुआ",
+                "D": "घोंघा"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "मानव शरीर की सबसे शक्तिशाली मांसपेशी कहाँ पाई जाती है?",
+            "question": "किस जानवर का दूध हल्के गुलाबी रंग का होता है?",
             "options": {
-                "A": "जांघ में",
-                "B": "जबड़े में",
-                "C": "हाथ में",
-                "D": "पीठ में"
+                "A": "ऊंट",
+                "B": "दरियाई घोड़ा",
+                "C": "भेड़िया",
+                "D": "नीलगाय"
             },
             "correctAnswer": "B"
+        },
+        {
+            "question": "ऐसा कौन सा फल है जिसमें कभी कीड़ा नहीं लगता?",
+            "options": {
+                "A": "आम",
+                "B": "केला",
+                "C": "सेब",
+                "D": "अनार"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस पेड़ की लकड़ी सोने से भी अधिक महंगी होती है?",
+            "options": {
+                "A": "सफेद चंदन",
+                "B": "शीशम",
+                "C": "लाल चंदन",
+                "D": "सागौन"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "कौन सा जीव छह दिनों तक अपनी सांस रोक सकता है?",
+            "options": {
+                "A": "मेंढक",
+                "B": "कछुआ",
+                "C": "बिच्छू",
+                "D": "सांप"
+            },
+            "correctAnswer": "C"
         }
     ]
 }
