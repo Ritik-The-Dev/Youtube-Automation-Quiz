@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 In This Quiz 🤯",
-    "description": "You only have 5 seconds to crack each question ⏳\nComment your final score below 👇\n#quiz #gk #shorts",
+    "title": "Only 1% Can Score 5/5 On This 🤯",
+    "description": "Can you beat the 5-second challenge per question? ⏳\nComment your final score below 👇\n#quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "किस जीव का दिल उसके सिर में होता है?",
+            "question": "किस जानवर का दूध कभी नहीं फटता है?",
             "options": {
-                "A": "झींगा",
-                "B": "केकड़ा",
-                "C": "कछुआ",
-                "D": "घोंघा"
+                "A": "ऊँटनी",
+                "B": "बकरी",
+                "C": "हथिनी",
+                "D": "गाय"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस जानवर का दूध हल्के गुलाबी रंग का होता है?",
+            "question": "भारत के किस राज्य में रावण का प्रसिद्ध मंदिर स्थित है?",
             "options": {
-                "A": "ऊंट",
-                "B": "दरियाई घोड़ा",
-                "C": "भेड़िया",
-                "D": "नीलगाय"
+                "A": "उत्तर प्रदेश",
+                "B": "राजस्थान",
+                "C": "महाराष्ट्र",
+                "D": "मध्य प्रदेश"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "ऐसा कौन सा फल है जिसमें कभी कीड़ा नहीं लगता?",
+            "question": "मानव शरीर की सबसे मजबूत मांसपेशी कहाँ होती है?",
             "options": {
-                "A": "आम",
-                "B": "केला",
-                "C": "सेब",
-                "D": "अनार"
+                "A": "जांघ में",
+                "B": "जबड़े में",
+                "C": "हाथ में",
+                "D": "पीठ में"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस पेड़ की लकड़ी सोने से भी अधिक महंगी होती है?",
+            "question": "दुनिया का ऐसा कौन सा देश है जहाँ एक भी नदी नहीं बहती?",
             "options": {
-                "A": "सफेद चंदन",
-                "B": "शीशम",
-                "C": "लाल चंदन",
-                "D": "सागौन"
+                "A": "सऊदी अरब",
+                "B": "ईरान",
+                "C": "मिस्र",
+                "D": "सूडान"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "A"
         },
         {
-            "question": "कौन सा जीव छह दिनों तक अपनी सांस रोक सकता है?",
+            "question": "इनमें से किस फल में कभी कीड़ा नहीं लगता है?",
             "options": {
-                "A": "मेंढक",
-                "B": "कछुआ",
-                "C": "बिच्छू",
-                "D": "सांप"
+                "A": "अमरूद",
+                "B": "पपीता",
+                "C": "केला",
+                "D": "सेब"
             },
             "correctAnswer": "C"
         }
