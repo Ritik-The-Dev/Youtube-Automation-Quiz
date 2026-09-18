@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 🤯",
-    "description": "Can you beat the 5-second challenge per question? ⏳\nComment your final score below 👇\n#quiz #gk #shorts #challenge",
+    "title": "Only 1% Can Score 5/5 🤯",
+    "description": "Test your brain power in 5 seconds per question ⏳\nCan you get a perfect score? Comment below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस जानवर का दूध कभी नहीं फटता है?",
+            "question": "किस जीव का दूध हल्के गुलाबी रंग का होता है?",
             "options": {
-                "A": "ऊँटनी",
-                "B": "बकरी",
-                "C": "हथिनी",
-                "D": "गाय"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "भारत के किस राज्य में रावण का प्रसिद्ध मंदिर स्थित है?",
-            "options": {
-                "A": "उत्तर प्रदेश",
-                "B": "राजस्थान",
-                "C": "महाराष्ट्र",
-                "D": "मध्य प्रदेश"
+                "A": "ऊंटनी",
+                "B": "दरियाई घोड़ा",
+                "C": "जिराफ",
+                "D": "बकरी"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "मानव शरीर की सबसे मजबूत मांसपेशी कहाँ होती है?",
+            "question": "किस समुद्री जीव का दिल उसके सिर में स्थित होता है?",
             "options": {
-                "A": "जांघ में",
-                "B": "जबड़े में",
-                "C": "हाथ में",
-                "D": "पीठ में"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "दुनिया का ऐसा कौन सा देश है जहाँ एक भी नदी नहीं बहती?",
-            "options": {
-                "A": "सऊदी अरब",
-                "B": "ईरान",
-                "C": "मिस्र",
-                "D": "सूडान"
+                "A": "झींगा",
+                "B": "केकड़ा",
+                "C": "तारा मछली",
+                "D": "कछुआ"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "इनमें से किस फल में कभी कीड़ा नहीं लगता है?",
+            "question": "कौन सा जीव अपनी जीभ कभी बाहर नहीं निकाल सकता?",
             "options": {
-                "A": "अमरूद",
-                "B": "पपीता",
-                "C": "केला",
-                "D": "सेब"
+                "A": "छिपकली",
+                "B": "सांप",
+                "C": "मगरमच्छ",
+                "D": "मेंढक"
             },
             "correctAnswer": "C"
+        },
+        {
+            "question": "किस पक्षी की आंख उसके दिमाग से भी बड़ी होती है?",
+            "options": {
+                "A": "उल्लू",
+                "B": "शुतुरमुर्ग",
+                "C": "बाज़",
+                "D": "चील"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "ऐसा कौन सा जीव है जो लगातार तीन साल तक सो सकता है?",
+            "options": {
+                "A": "घोंघा",
+                "B": "कछुआ",
+                "C": "भालू",
+                "D": "सांप"
+            },
+            "correctAnswer": "A"
         }
     ]
 }
