@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 🤯",
-    "description": "Test your brain power in 5 seconds per question ⏳\nCan you get a perfect score? Comment below 👇\n#quiz #gk #shorts",
+    "title": "Only 1% Can Score 5/5 In This Quiz! 😱",
+    "description": "Test your general knowledge in just 5 seconds per question! ⏳\nCan you get a perfect score? Drop your score below! 👇\n#quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "किस जीव का दूध हल्के गुलाबी रंग का होता है?",
-            "options": {
-                "A": "ऊंटनी",
-                "B": "दरियाई घोड़ा",
-                "C": "जिराफ",
-                "D": "बकरी"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस समुद्री जीव का दिल उसके सिर में स्थित होता है?",
+            "question": "किस समुद्री जीव का दिल उसके सिर के अंदर होता है?",
             "options": {
                 "A": "झींगा",
                 "B": "केकड़ा",
-                "C": "तारा मछली",
-                "D": "कछुआ"
+                "C": "कछुआ",
+                "D": "शार्क"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "कौन सा जीव अपनी जीभ कभी बाहर नहीं निकाल सकता?",
+            "question": "विश्व का ऐसा कौन सा देश है जहाँ एक भी प्राकृतिक नदी नहीं है?",
             "options": {
-                "A": "छिपकली",
-                "B": "सांप",
-                "C": "मगरमच्छ",
-                "D": "मेंढक"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "किस पक्षी की आंख उसके दिमाग से भी बड़ी होती है?",
-            "options": {
-                "A": "उल्लू",
-                "B": "शुतुरमुर्ग",
-                "C": "बाज़",
-                "D": "चील"
+                "A": "मिस्र",
+                "B": "सऊदी अरब",
+                "C": "जापान",
+                "D": "ब्राजील"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "ऐसा कौन सा जीव है जो लगातार तीन साल तक सो सकता है?",
+            "question": "मानव शरीर की सबसे शक्तिशाली मांसपेशी कहाँ स्थित होती है?",
             "options": {
-                "A": "घोंघा",
-                "B": "कछुआ",
-                "C": "भालू",
-                "D": "सांप"
+                "A": "जबड़े में",
+                "B": "जांघ में",
+                "C": "दिल में",
+                "D": "हाथ में"
             },
             "correctAnswer": "A"
+        },
+        {
+            "question": "किस जानवर का दूध हल्के गुलाबी रंग का होता है?",
+            "options": {
+                "A": "दरियाई घोड़ा",
+                "B": "ऊँट",
+                "C": "याक",
+                "D": "नीलगाय"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "कौन सा जीव अपनी जीभ से नहीं बल्कि पैरों से स्वाद लेता है?",
+            "options": {
+                "A": "मधुमक्खी",
+                "B": "तितली",
+                "C": "चींटी",
+                "D": "मकड़ी"
+            },
+            "correctAnswer": "B"
         }
     ]
 }
