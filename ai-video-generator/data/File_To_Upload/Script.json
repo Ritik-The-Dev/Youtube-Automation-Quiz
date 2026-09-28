@@ -1,57 +1,57 @@
 {
-    "quizTopic": "Tricky General Knowledge",
-    "title": "99% People Fail On Question 4! 🤯",
-    "description": "You only have 5 seconds to answer each tricky question ⏳\nCan you get 5/5? Comment your score below! 👇\n#quiz #gk #shorts",
+    "quizTopic": "Shocking General Knowledge",
+    "title": "99% People Fail This Tricky Quiz 😱",
+    "description": "Think you are smart? Test your brain in 5 seconds per question ⏳\nComment your score below 👇\n#gk #quiz #shorts",
     "questions": [
         {
-            "question": "क्षेत्रफल के अनुसार दुनिया का सबसे बड़ा रेगिस्तान कौन सा है?",
+            "question": "मानव शरीर की सबसे मजबूत मांसपेशी कौन सी मानी जाती है?",
             "options": {
-                "A": "सहारा",
-                "B": "अंटार्कटिका",
-                "C": "गोबी",
-                "D": "थार"
+                "A": "जांघ की",
+                "B": "जबड़े की",
+                "C": "जीभ की",
+                "D": "पीठ की"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस समुद्री जीव के पास तीन दिल और नीला खून होता है?",
+            "question": "किस जीव के पास साँस लेने के लिए फेफड़े नहीं होते?",
             "options": {
-                "A": "शार्क",
-                "B": "व्हेल",
-                "C": "ऑक्टोपस",
-                "D": "डॉल्फिन"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "मानव शरीर की सबसे मजबूत मांसपेशी कौन सी होती है?",
-            "options": {
-                "A": "जीभ",
-                "B": "जबड़े की मांसपेशी",
-                "C": "जांघ की मांसपेशी",
-                "D": "हाथ की मांसपेशी"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "विश्व के किस देश में एक भी प्राकृतिक नदी नहीं बहती है?",
-            "options": {
-                "A": "सऊदी अरब",
-                "B": "मिस्र",
-                "C": "ईरान",
-                "D": "सूडान"
+                "A": "चींटी",
+                "B": "मेंढक",
+                "C": "सांप",
+                "D": "छिपकली"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस फल के बीजों में अल्प मात्रा में जहरीला तत्व पाया जाता है?",
+            "question": "किस जीव के पसीने और दूध का रंग गुलाबी होता है?",
             "options": {
-                "A": "पपीता",
-                "B": "चीकू",
-                "C": "सेब",
-                "D": "अमरूद"
+                "A": "ऊंटनी",
+                "B": "दरियाई घोड़ा",
+                "C": "नीलगाय",
+                "D": "हथिनी"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस पक्षी की आँख उसके दिमाग से भी बड़ी होती है?",
+            "options": {
+                "A": "उल्लू",
+                "B": "चील",
+                "C": "शुतुरमुर्ग",
+                "D": "गिद्ध"
             },
             "correctAnswer": "C"
+        },
+        {
+            "question": "किस देश में एक भी बहती हुई नदी नहीं पाई जाती?",
+            "options": {
+                "A": "सऊदी अरब",
+                "B": "ईरान",
+                "C": "मिस्र",
+                "D": "सूडान"
+            },
+            "correctAnswer": "A"
         }
     ]
 }
