@@ -1,55 +1,55 @@
 {
-    "quizTopic": "Shocking General Knowledge",
-    "title": "99% People Fail This Tricky Quiz 😱",
-    "description": "Think you are smart? Test your brain in 5 seconds per question ⏳\nComment your score below 👇\n#gk #quiz #shorts",
+    "quizTopic": "Tricky General Knowledge",
+    "title": "99% People Fail On The Last Question! 😱",
+    "description": "Test your brain in 5 seconds per question ⏳\nCan you score 5/5? Drop your score below 👇\n#quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "मानव शरीर की सबसे मजबूत मांसपेशी कौन सी मानी जाती है?",
+            "question": "कौन सा जीव किसी भी चीज़ का स्वाद अपने पैरों से लेता है?",
             "options": {
-                "A": "जांघ की",
-                "B": "जबड़े की",
-                "C": "जीभ की",
-                "D": "पीठ की"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस जीव के पास साँस लेने के लिए फेफड़े नहीं होते?",
-            "options": {
-                "A": "चींटी",
-                "B": "मेंढक",
-                "C": "सांप",
-                "D": "छिपकली"
+                "A": "तितली",
+                "B": "मधुमक्खी",
+                "C": "चींटी",
+                "D": "मकड़ी"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस जीव के पसीने और दूध का रंग गुलाबी होता है?",
+            "question": "मानव शरीर का कौन सा अंग बिजली पैदा कर सकता है?",
             "options": {
-                "A": "ऊंटनी",
-                "B": "दरियाई घोड़ा",
-                "C": "नीलगाय",
-                "D": "हथिनी"
+                "A": "हृदय",
+                "B": "दिमाग",
+                "C": "यकृत",
+                "D": "गुर्दा"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस पक्षी की आँख उसके दिमाग से भी बड़ी होती है?",
+            "question": "किस जानवर का दूध कभी भी नहीं फटता है?",
             "options": {
-                "A": "उल्लू",
-                "B": "चील",
-                "C": "शुतुरमुर्ग",
-                "D": "गिद्ध"
+                "A": "बकरी",
+                "B": "हथिनी",
+                "C": "ऊंटनी",
+                "D": "भैंस"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "किस देश में एक भी बहती हुई नदी नहीं पाई जाती?",
+            "question": "कौन सा फल पूरी तरह पकने में लगभग दो साल का समय लेता है?",
             "options": {
-                "A": "सऊदी अरब",
-                "B": "ईरान",
-                "C": "मिस्र",
-                "D": "सूडान"
+                "A": "कटहल",
+                "B": "अनानास",
+                "C": "चीकू",
+                "D": "नारियल"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "options": {
+                "A": "आइसलैंड",
+                "B": "नॉर्वे",
+                "C": "फ्रांस",
+                "D": "फिनलैंड"
             },
             "correctAnswer": "A"
         }
