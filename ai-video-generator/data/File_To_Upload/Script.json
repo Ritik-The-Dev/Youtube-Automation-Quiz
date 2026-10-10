@@ -1,0 +1,57 @@
+{
+    "quizTopic": "Tricky General Knowledge",
+    "title": "Only 1% Can Score 5/5 On This 🤯",
+    "description": "You have only 5 seconds for each question ⏳\nCan you get a perfect score? Drop your result below 👇\n#quiz #gk #shorts",
+    "questions": [
+        {
+            "question": "किस जीव के पैर स्वाद चखने का काम करते हैं?",
+            "options": {
+                "A": "तितली",
+                "B": "मधुमक्खी",
+                "C": "मकड़ी",
+                "D": "चींटी"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "दुनिया का ऐसा कौन सा देश है जहाँ एक भी नदी नहीं है?",
+            "options": {
+                "A": "मिस्र",
+                "B": "सऊदी अरब",
+                "C": "ईरान",
+                "D": "ओमान"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस प्राणी का दूध कभी नहीं फटता है?",
+            "options": {
+                "A": "बकरी",
+                "B": "ऊंटनी",
+                "C": "हथिनी",
+                "D": "गाय"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा जीव लगातार तीन वर्षों तक सो सकता है?",
+            "options": {
+                "A": "कछुआ",
+                "B": "घोंघा",
+                "C": "भालू",
+                "D": "मगरमच्छ"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "ऐसा कौन सा फल है जिसमें कभी कीड़ा नहीं लगता?",
+            "options": {
+                "A": "पपीता",
+                "B": "अनार",
+                "C": "केला",
+                "D": "अमरूद"
+            },
+            "correctAnswer": "C"
+        }
+    ]
+}
