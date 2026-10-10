@@ -1,55 +1,55 @@
 {
-    "quizTopic": "Tricky General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 🤯",
-    "description": "You have only 5 seconds for each question ⏳\nCan you get a perfect score? Drop your result below 👇\n#quiz #gk #shorts",
+    "quizTopic": "Surprising Facts GK",
+    "title": "Only 1% Can Score 5/5 In This Quiz! 😱",
+    "description": "Test your brain with just 5 seconds per question ⏳\nCan you get them all right? Comment your final score below 👇\n#quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "किस जीव के पैर स्वाद चखने का काम करते हैं?",
+            "question": "भारत के किस राज्य में केवल दो ही जिले हैं?",
             "options": {
-                "A": "तितली",
-                "B": "मधुमक्खी",
-                "C": "मकड़ी",
-                "D": "चींटी"
+                "A": "सिक्किम",
+                "B": "गोवा",
+                "C": "त्रिपुरा",
+                "D": "मणिपुर"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस जीव का दिल उसके सिर में स्थित होता है?",
+            "options": {
+                "A": "झींगा",
+                "B": "कछुआ",
+                "C": "मेंढक",
+                "D": "केकड़ा"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "दुनिया का ऐसा कौन सा देश है जहाँ एक भी नदी नहीं है?",
+            "question": "कौन सा पक्षी उल्टी दिशा में भी उड़ सकता है?",
             "options": {
-                "A": "मिस्र",
+                "A": "कठफोड़वा",
+                "B": "कोयल",
+                "C": "गुंजन पक्षी",
+                "D": "नीलकंठ"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "दुनिया के किस देश में एक भी नदी नहीं बहती है?",
+            "options": {
+                "A": "कुवैत",
                 "B": "सऊदी अरब",
-                "C": "ईरान",
+                "C": "कतर",
                 "D": "ओमान"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस प्राणी का दूध कभी नहीं फटता है?",
+            "question": "भारत का कौन सा शहर केवल एक दिन के लिए देश की राजधानी बना था?",
             "options": {
-                "A": "बकरी",
-                "B": "ऊंटनी",
-                "C": "हथिनी",
-                "D": "गाय"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "कौन सा जीव लगातार तीन वर्षों तक सो सकता है?",
-            "options": {
-                "A": "कछुआ",
-                "B": "घोंघा",
-                "C": "भालू",
-                "D": "मगरमच्छ"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "ऐसा कौन सा फल है जिसमें कभी कीड़ा नहीं लगता?",
-            "options": {
-                "A": "पपीता",
-                "B": "अनार",
-                "C": "केला",
-                "D": "अमरूद"
+                "A": "कोलकाता",
+                "B": "शिमला",
+                "C": "इलाहाबाद",
+                "D": "लाहौर"
             },
             "correctAnswer": "C"
         }
