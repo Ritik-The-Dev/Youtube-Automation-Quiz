@@ -1,57 +1,57 @@
 {
-    "quizTopic": "Surprising Facts GK",
-    "title": "Only 1% Can Score 5/5 In This Quiz! 😱",
-    "description": "Test your brain with just 5 seconds per question ⏳\nCan you get them all right? Comment your final score below 👇\n#quiz #gk #shorts #challenge",
+    "quizTopic": "General Knowledge",
+    "title": "Only Smart Minds Can Pass This Quiz 🤯",
+    "description": "Test your brain in 5 seconds per question ⏳\nCan you get 5/5? Comment your score below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "भारत के किस राज्य में केवल दो ही जिले हैं?",
+            "question": "किस जीव का खून नीला और उसके तीन दिल होते हैं?",
             "options": {
-                "A": "सिक्किम",
-                "B": "गोवा",
-                "C": "त्रिपुरा",
-                "D": "मणिपुर"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस जीव का दिल उसके सिर में स्थित होता है?",
-            "options": {
-                "A": "झींगा",
-                "B": "कछुआ",
-                "C": "मेंढक",
-                "D": "केकड़ा"
+                "A": "ऑक्टोपस",
+                "B": "शार्क",
+                "C": "कछुआ",
+                "D": "घोंघा"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "कौन सा पक्षी उल्टी दिशा में भी उड़ सकता है?",
+            "question": "दुनिया का सबसे बड़ा रेगिस्तान कौन सा है?",
             "options": {
-                "A": "कठफोड़वा",
-                "B": "कोयल",
-                "C": "गुंजन पक्षी",
-                "D": "नीलकंठ"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "दुनिया के किस देश में एक भी नदी नहीं बहती है?",
-            "options": {
-                "A": "कुवैत",
-                "B": "सऊदी अरब",
-                "C": "कतर",
-                "D": "ओमान"
+                "A": "सहारा",
+                "B": "अंटार्कटिका",
+                "C": "गोबी",
+                "D": "थार"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "भारत का कौन सा शहर केवल एक दिन के लिए देश की राजधानी बना था?",
+            "question": "किस जानवर के पसीने का रंग गुलाबी होता है?",
             "options": {
-                "A": "कोलकाता",
-                "B": "शिमला",
-                "C": "इलाहाबाद",
-                "D": "लाहौर"
+                "A": "दरियाई घोड़ा",
+                "B": "ऊँट",
+                "C": "हाथी",
+                "D": "जिराफ़"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "A"
+        },
+        {
+            "question": "ऐसा कौन सा फल है जिसमें कभी कीड़ा नहीं लगता?",
+            "options": {
+                "A": "सेब",
+                "B": "केला",
+                "C": "अनार",
+                "D": "अमरूद"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस देश में आधी रात को भी सूरज चमकता है?",
+            "options": {
+                "A": "नॉर्वे",
+                "B": "जापान",
+                "C": "रूस",
+                "D": "कनाडा"
+            },
+            "correctAnswer": "A"
         }
     ]
 }
