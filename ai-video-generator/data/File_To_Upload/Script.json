@@ -1,55 +1,55 @@
 {
-    "quizTopic": "General Knowledge",
-    "title": "Only Smart Minds Can Pass This Quiz 🤯",
-    "description": "Test your brain in 5 seconds per question ⏳\nCan you get 5/5? Comment your score below 👇\n#quiz #gk #shorts",
+    "quizTopic": "Tricky General Knowledge",
+    "title": "Only 1% Can Score 5/5 On This 😱",
+    "description": "Think you know everything? Beat the 5-second challenge! ⏳\nComment your final score below 👇\n#quiz #gk #shorts",
     "questions": [
-        {
-            "question": "किस जीव का खून नीला और उसके तीन दिल होते हैं?",
-            "options": {
-                "A": "ऑक्टोपस",
-                "B": "शार्क",
-                "C": "कछुआ",
-                "D": "घोंघा"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "दुनिया का सबसे बड़ा रेगिस्तान कौन सा है?",
-            "options": {
-                "A": "सहारा",
-                "B": "अंटार्कटिका",
-                "C": "गोबी",
-                "D": "थार"
-            },
-            "correctAnswer": "B"
-        },
         {
             "question": "किस जानवर के पसीने का रंग गुलाबी होता है?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊँट",
-                "C": "हाथी",
-                "D": "जिराफ़"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "ऐसा कौन सा फल है जिसमें कभी कीड़ा नहीं लगता?",
-            "options": {
-                "A": "सेब",
-                "B": "केला",
-                "C": "अनार",
-                "D": "अमरूद"
+                "A": "ऊंट",
+                "B": "दरियाई घोड़ा",
+                "C": "गेंडा",
+                "D": "हाथी"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस देश में आधी रात को भी सूरज चमकता है?",
+            "question": "शतरंज के खेल की शुरुआत किस देश में हुई थी?",
             "options": {
-                "A": "नॉर्वे",
-                "B": "जापान",
-                "C": "रूस",
-                "D": "कनाडा"
+                "A": "चीन",
+                "B": "रूस",
+                "C": "भारत",
+                "D": "जापान"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "मानव शरीर की सबसे मजबूत मांसपेशी कौन सी होती है?",
+            "options": {
+                "A": "जबड़े की",
+                "B": "जांघ की",
+                "C": "पीठ की",
+                "D": "हाथ की"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "सिर कटने के बाद भी कौन सा जीव कई दिनों तक जीवित रह सकता है?",
+            "options": {
+                "A": "छिपकली",
+                "B": "केंचुआ",
+                "C": "बिच्छू",
+                "D": "तिलचट्टा"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "किस महाद्वीप पर एक भी सक्रिय ज्वालामुखी नहीं है?",
+            "options": {
+                "A": "ऑस्ट्रेलिया",
+                "B": "यूरोप",
+                "C": "अफ्रीका",
+                "D": "एशिया"
             },
             "correctAnswer": "A"
         }
