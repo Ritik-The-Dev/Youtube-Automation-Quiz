@@ -1,57 +1,57 @@
 {
-    "quizTopic": "Tricky General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 😱",
-    "description": "Think you know everything? Beat the 5-second challenge! ⏳\nComment your final score below 👇\n#quiz #gk #shorts",
+    "quizTopic": "General Knowledge",
+    "title": "Only 1% Can Score 5/5 On This 🤯",
+    "description": "You have only 5 seconds for each question! ⏳\nCan you get 5/5? Drop your score in the comments below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस जानवर के पसीने का रंग गुलाबी होता है?",
+            "question": "किस समुद्री जीव का दिल उसके सिर में स्थित होता है?",
             "options": {
-                "A": "ऊंट",
-                "B": "दरियाई घोड़ा",
-                "C": "गेंडा",
-                "D": "हाथी"
+                "A": "ऑक्टोपस",
+                "B": "झींगा",
+                "C": "तारा मछली",
+                "D": "कछुआ"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "शतरंज के खेल की शुरुआत किस देश में हुई थी?",
+            "question": "कौन सा पेड़ चौबीसों घंटे ऑक्सीजन देने के लिए जाना जाता है?",
             "options": {
-                "A": "चीन",
-                "B": "रूस",
-                "C": "भारत",
-                "D": "जापान"
+                "A": "नीम",
+                "B": "बरगद",
+                "C": "पीपल",
+                "D": "तुलसी"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "मानव शरीर की सबसे मजबूत मांसपेशी कौन सी होती है?",
+            "question": "विश्व का ऐसा कौन सा देश है जहां एक भी मच्छर नहीं पाया जाता?",
             "options": {
-                "A": "जबड़े की",
-                "B": "जांघ की",
-                "C": "पीठ की",
-                "D": "हाथ की"
+                "A": "नॉर्वे",
+                "B": "आइसलैंड",
+                "C": "फिनलैंड",
+                "D": "जापान"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस पक्षी में पीछे की दिशा में भी उड़ने की अनोखी क्षमता होती है?",
+            "options": {
+                "A": "गुंजन पक्षी",
+                "B": "कठफोड़वा",
+                "C": "नीलकंठ",
+                "D": "गौरैया"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "सिर कटने के बाद भी कौन सा जीव कई दिनों तक जीवित रह सकता है?",
+            "question": "किस जानवर के पसीने का रंग गुलाबी होता है?",
             "options": {
-                "A": "छिपकली",
-                "B": "केंचुआ",
-                "C": "बिच्छू",
-                "D": "तिलचट्टा"
+                "A": "गैंडा",
+                "B": "ऊंट",
+                "C": "दरियाई घोड़ा",
+                "D": "कंगारू"
             },
-            "correctAnswer": "D"
-        },
-        {
-            "question": "किस महाद्वीप पर एक भी सक्रिय ज्वालामुखी नहीं है?",
-            "options": {
-                "A": "ऑस्ट्रेलिया",
-                "B": "यूरोप",
-                "C": "अफ्रीका",
-                "D": "एशिया"
-            },
-            "correctAnswer": "A"
+            "correctAnswer": "C"
         }
     ]
 }
