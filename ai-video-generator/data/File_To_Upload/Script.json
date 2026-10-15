@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 🤯",
-    "description": "You have only 5 seconds for each question! ⏳\nCan you get 5/5? Drop your score in the comments below 👇\n#quiz #gk #shorts",
+    "title": "Only 1% Can Score 5/5 On This 😱",
+    "description": "Test your brain in 5 seconds per question ⏳\nComment your final score below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस समुद्री जीव का दिल उसके सिर में स्थित होता है?",
+            "question": "किस पक्षी की आँख उसके दिमाग से भी बड़ी होती है?",
             "options": {
-                "A": "ऑक्टोपस",
-                "B": "झींगा",
-                "C": "तारा मछली",
-                "D": "कछुआ"
+                "A": "उल्लू",
+                "B": "शुतुरमुर्ग",
+                "C": "चील",
+                "D": "तोता"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "कौन सा पेड़ चौबीसों घंटे ऑक्सीजन देने के लिए जाना जाता है?",
+            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
             "options": {
-                "A": "नीम",
-                "B": "बरगद",
-                "C": "पीपल",
-                "D": "तुलसी"
+                "A": "बुध",
+                "B": "मंगल",
+                "C": "शुक्र",
+                "D": "बृहस्पति"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "विश्व का ऐसा कौन सा देश है जहां एक भी मच्छर नहीं पाया जाता?",
+            "question": "मानव शरीर की सबसे मजबूत मांसपेशी कहाँ पाई जाती है?",
             "options": {
-                "A": "नॉर्वे",
-                "B": "आइसलैंड",
-                "C": "फिनलैंड",
-                "D": "जापान"
+                "A": "जाँघ में",
+                "B": "पीठ में",
+                "C": "हाथ में",
+                "D": "जबड़े में"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "D"
         },
         {
-            "question": "किस पक्षी में पीछे की दिशा में भी उड़ने की अनोखी क्षमता होती है?",
+            "question": "किस फल का बीज फल के बाहर स्थित होता है?",
             "options": {
-                "A": "गुंजन पक्षी",
-                "B": "कठफोड़वा",
-                "C": "नीलकंठ",
-                "D": "गौरैया"
+                "A": "काजू",
+                "B": "अंजीर",
+                "C": "अनार",
+                "D": "नाशपाती"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस जानवर के पसीने का रंग गुलाबी होता है?",
+            "question": "विश्व के किस देश में एक भी नदी नहीं बहती है?",
             "options": {
-                "A": "गैंडा",
-                "B": "ऊंट",
-                "C": "दरियाई घोड़ा",
-                "D": "कंगारू"
+                "A": "सूडान",
+                "B": "मिस्र",
+                "C": "सऊदी अरब",
+                "D": "ओमान"
             },
             "correctAnswer": "C"
         }
