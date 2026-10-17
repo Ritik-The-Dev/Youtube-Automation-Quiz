@@ -1,57 +1,57 @@
 {
-    "quizTopic": "General Knowledge",
-    "title": "99% People Fail This Tricky GK Challenge 😱",
-    "description": "You only have 5 seconds for each tricky question ⏳\nComment your final score below to prove your brain power 👇\n#quiz #gk #shorts",
+    "quizTopic": "Tricky General Knowledge",
+    "title": "Only 1% Can Score 5/5 On This Quiz 🤯",
+    "description": "Test your brain in 5 seconds per question ⏳\nComment your score below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
+            "question": "किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "बुध",
-                "B": "शुक्र",
-                "C": "मंगल",
-                "D": "बृहस्पति"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस जानवर का दूध कभी नहीं फटता है?",
-            "options": {
-                "A": "गाय",
-                "B": "बकरी",
-                "C": "ऊंटनी",
-                "D": "भैंस"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "कौन सा जीव लोहे की कील को भी पचा सकता है?",
-            "options": {
-                "A": "मगरमच्छ",
-                "B": "चीता",
-                "C": "हाथी",
-                "D": "शुतुरमुर्ग"
+                "A": "आइसलैंड",
+                "B": "नॉर्वे",
+                "C": "जापान",
+                "D": "स्विट्जरलैंड"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "दुनिया का सबसे सूखा मरुस्थल कौन सा माना जाता है?",
+            "question": "ऑक्टोपस के शरीर में कुल कितने दिल होते हैं?",
             "options": {
-                "A": "सहारा",
-                "B": "थार",
-                "C": "अटाकामा",
-                "D": "गोबी"
+                "A": "एक",
+                "B": "दो",
+                "C": "तीन",
+                "D": "चार"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "सफेद हाथी मुख्य रूप से किस देश में पाए जाते हैं?",
+            "question": "कौन सा पक्षी उल्टी दिशा में भी उड़ सकता है?",
             "options": {
-                "A": "भारत",
-                "B": "थाईलैंड",
-                "C": "जापान",
-                "D": "नेपाल"
+                "A": "कोयल",
+                "B": "गुंजन पक्षी",
+                "C": "तोता",
+                "D": "चील"
             },
             "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा जीव अपने जीवनकाल में कभी पानी नहीं पीता?",
+            "options": {
+                "A": "ऊँट",
+                "B": "कंगारू चूहा",
+                "C": "बिच्छू",
+                "D": "छिपकली"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा जीव लगातार तीन वर्ष तक सो सकता है?",
+            "options": {
+                "A": "भालू",
+                "B": "कछुआ",
+                "C": "घोंघा",
+                "D": "मगरमच्छ"
+            },
+            "correctAnswer": "C"
         }
     ]
 }
