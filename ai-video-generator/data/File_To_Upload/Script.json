@@ -1,55 +1,55 @@
 {
-    "quizTopic": "Tricky General Knowledge",
-    "title": "Only Geniuses Can Score 5/5 On This 🧠",
-    "description": "You have only 5 seconds for each question ⏳\nComment your final score below 👇\n#quiz #gk #shorts #challenge",
+    "quizTopic": "रोचक सामान्य ज्ञान",
+    "title": "99% Of People Fail Question 4 😱",
+    "description": "Test your brain power with 5 seconds per question ⏳\nCan you score 5/5? Comment your score below 👇\n#quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "भौगोलिक रूप से पृथ्वी का सबसे बड़ा रेगिस्तान कौन सा है?",
+            "question": "विश्व का सबसे बड़ा मरुस्थल कौन सा है?",
             "options": {
-                "A": "सहारा मरुस्थल",
-                "B": "अंटार्कटिका",
-                "C": "गोबी मरुस्थल",
-                "D": "थार मरुस्थल"
+                "A": "सहारा",
+                "B": "अंटार्कटिक",
+                "C": "गोबी",
+                "D": "थार"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "विज्ञान के अनुसार टमाटर वास्तव में क्या है?",
+            "question": "किस जीव का दूध हल्के गुलाबी रंग का होता है?",
             "options": {
-                "A": "सब्जी",
-                "B": "फल",
-                "C": "जड़",
-                "D": "तना"
+                "A": "दरियाई घोड़ा",
+                "B": "ऊँटनी",
+                "C": "नीलगाय",
+                "D": "याक"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "मानव शरीर की सबसे मजबूत मांसपेशी कहाँ होती है?",
+            "options": {
+                "A": "जीभ में",
+                "B": "जबड़े में",
+                "C": "जाँघ में",
+                "D": "पीठ में"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "मानव शरीर में खिंचाव के अनुसार सबसे शक्तिशाली मांसपेशी कौन सी है?",
+            "question": "दुनिया में सबसे अधिक प्राकृतिक झीलों वाला देश कौन सा है?",
             "options": {
-                "A": "जांघ की मांसपेशी",
-                "B": "हृदय की मांसपेशी",
-                "C": "जबड़े की मांसपेशी",
-                "D": "जीभ"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "हमारे सौरमंडल में सबसे अधिक चंद्रमा किस ग्रह के पास हैं?",
-            "options": {
-                "A": "बृहस्पति",
-                "B": "शनि",
-                "C": "मंगल",
-                "D": "शुक्र"
+                "A": "फ़िनलैंड",
+                "B": "कनाडा",
+                "C": "रूस",
+                "D": "ब्राज़ील"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "ऐसा कौन सा पक्षी है जो पीछे की दिशा में भी उड़ सकता है?",
+            "question": "कौन सा जीव जीवनभर कभी पानी नहीं पीता?",
             "options": {
-                "A": "गुंजन पक्षी",
-                "B": "नीलकंठ",
-                "C": "कठफोड़वा",
-                "D": "चील"
+                "A": "कंगारू चूहा",
+                "B": "ऊँट",
+                "C": "बिच्छू",
+                "D": "गिरगिट"
             },
             "correctAnswer": "A"
         }
