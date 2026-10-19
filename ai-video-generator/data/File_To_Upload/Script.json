@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 😱",
-    "description": "Test your brain power in just 5 seconds per question ⏳\nComment your final score below 👇\n#quiz #gk #shorts #trending",
+    "title": "Only 1% Can Score 5/5 On This 🤯",
+    "description": "Test your brain with 5 seconds per question ⏳\nComment your final score below 👇\n#quiz #gk #shorts #challenge",
     "questions": [
         {
-            "question": "किस जीव का पसीना और दूध हल्के गुलाबी रंग का होता है?",
+            "question": "मानव शरीर के किस अंग पर कभी पसीना नहीं आता?",
             "options": {
-                "A": "ऊँट",
-                "B": "दरियाई घोड़ा",
-                "C": "जिराफ़",
-                "D": "सफ़ेद हाथी"
+                "A": "नाक",
+                "B": "होंठ",
+                "C": "कान",
+                "D": "हथेली"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "मानव शरीर की सबसे शक्तिशाली मांसपेशी कौन सी होती है?",
+            "question": "ऐसा कौन सा जीव है जो कभी कूद नहीं सकता?",
             "options": {
-                "A": "जीभ",
-                "B": "जांघ की मांसपेशी",
-                "C": "जबड़े की मांसपेशी",
-                "D": "हृदय की मांसपेशी"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "तितली किसी भी वस्तु का स्वाद अपने किस अंग से पहचानती है?",
-            "options": {
-                "A": "पंखों से",
-                "B": "मुख से",
-                "C": "पैरों से",
-                "D": "आंखों से"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "सौरमंडल के किस ग्रह पर एक दिन उसके एक वर्ष से भी लंबा होता है?",
-            "options": {
-                "A": "मंगल",
-                "B": "शुक्र",
-                "C": "बुध",
-                "D": "बृहस्पति"
+                "A": "जिराफ़",
+                "B": "हाथी",
+                "C": "ऊँट",
+                "D": "दरियाई घोड़ा"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "भारत का कौन सा राज्य कभी भी अंग्रेजों का गुलाम नहीं बना?",
+            "question": "किस जीव का दिल उसके सिर में स्थित होता है?",
             "options": {
-                "A": "गोवा",
-                "B": "सिक्किम",
-                "C": "असम",
-                "D": "केरल"
+                "A": "समुद्री झींगा",
+                "B": "केंचुआ",
+                "C": "तारा मछली",
+                "D": "केकड़ा"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "कौन सा पक्षी उल्टी दिशा में भी उड़ सकता है?",
+            "options": {
+                "A": "कोयल",
+                "B": "कठफोड़वा",
+                "C": "गुंजन पक्षी",
+                "D": "चमगादड़"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "मनुष्य का कौन सा अंग जन्म से मृत्यु तक बिल्कुल नहीं बढ़ता?",
+            "options": {
+                "A": "आँख की पुतली",
+                "B": "कान की हड्डी",
+                "C": "नाक का अग्रभाग",
+                "D": "दांत"
             },
             "correctAnswer": "A"
         }
