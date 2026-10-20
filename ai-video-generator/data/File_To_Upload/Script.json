@@ -1,57 +1,57 @@
 {
-    "quizTopic": "General Knowledge & Surprising Facts",
-    "title": "99% Of People Get Question 3 Wrong! 🤯",
-    "description": "Think you are smart? Answer each question in 5 seconds ⏳\nDrop your final score in the comments below 👇\n#quiz #gk #shorts",
+    "quizTopic": "General Knowledge",
+    "title": "Only Smart Minds Can Pass This Quiz 🤯",
+    "description": "Test your brain in 5 seconds per question ⏳\nComment your final score below and challenge a friend 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस जीव के दूध का रंग हल्का गुलाबी होता है?",
+            "question": "किस जीव का दूध हल्के गुलाबी रंग का होता है?",
             "options": {
-                "A": "ऊंट",
-                "B": "दरियाई घोड़ा",
-                "C": "जिराफ",
-                "D": "कंगारू"
+                "A": "दरियाई घोड़ा",
+                "B": "ऊँट",
+                "C": "हाथी",
+                "D": "भालू"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता?",
+            "options": {
+                "A": "जापान",
+                "B": "आइसलैंड",
+                "C": "नॉर्वे",
+                "D": "फ्रांस"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "मानव शरीर की सबसे ताकतवर मांसपेशी कौन सी होती है?",
+            "question": "मानव शरीर का कौन-सा अंग स्वयं दर्द महसूस नहीं कर सकता?",
             "options": {
-                "A": "जांघ की",
-                "B": "जबड़े की",
-                "C": "हाथ की",
-                "D": "पीठ की"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "हमारे सौरमंडल का सबसे अधिक गर्म ग्रह कौन सा है?",
-            "options": {
-                "A": "बुध",
-                "B": "मंगल",
-                "C": "शुक्र",
-                "D": "बृहस्पति"
+                "A": "हृदय",
+                "B": "यकृत",
+                "C": "मस्तिष्क",
+                "D": "फेफड़ा"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "किस फल के बीजों में जहरीला तत्व पाया जाता है?",
+            "question": "कौन-सा पक्षी पीछे की तरफ भी उड़ सकता है?",
             "options": {
-                "A": "सेब",
-                "B": "आम",
-                "C": "पपीता",
-                "D": "अमरूद"
+                "A": "उल्लू",
+                "B": "गुंजन पक्षी",
+                "C": "कोयल",
+                "D": "तोता"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
         },
         {
-            "question": "किस समुद्री जीव का दिल उसके सिर के अंदर होता है?",
+            "question": "भारत का कौन-सा राज्य कभी अंग्रेजों का गुलाम नहीं बना?",
             "options": {
-                "A": "झींगा",
-                "B": "ऑक्टोपस",
-                "C": "तारामीन",
-                "D": "कछुआ"
+                "A": "केरल",
+                "B": "सिक्किम",
+                "C": "असम",
+                "D": "गोवा"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "D"
         }
     ]
 }
