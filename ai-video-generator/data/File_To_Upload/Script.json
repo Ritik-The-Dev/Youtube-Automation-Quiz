@@ -1,55 +1,55 @@
 {
-    "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 🤯",
-    "description": "Test your brain with 5 seconds per question ⏳\nComment your final score below 👇\n#quiz #gk #shorts #challenge",
+    "quizTopic": "General Knowledge & Surprising Facts",
+    "title": "99% Of People Get Question 3 Wrong! 🤯",
+    "description": "Think you are smart? Answer each question in 5 seconds ⏳\nDrop your final score in the comments below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "मानव शरीर के किस अंग पर कभी पसीना नहीं आता?",
+            "question": "किस जीव के दूध का रंग हल्का गुलाबी होता है?",
             "options": {
-                "A": "नाक",
-                "B": "होंठ",
-                "C": "कान",
-                "D": "हथेली"
+                "A": "ऊंट",
+                "B": "दरियाई घोड़ा",
+                "C": "जिराफ",
+                "D": "कंगारू"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "ऐसा कौन सा जीव है जो कभी कूद नहीं सकता?",
+            "question": "मानव शरीर की सबसे ताकतवर मांसपेशी कौन सी होती है?",
             "options": {
-                "A": "जिराफ़",
-                "B": "हाथी",
-                "C": "ऊँट",
-                "D": "दरियाई घोड़ा"
+                "A": "जांघ की",
+                "B": "जबड़े की",
+                "C": "हाथ की",
+                "D": "पीठ की"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "किस जीव का दिल उसके सिर में स्थित होता है?",
+            "question": "हमारे सौरमंडल का सबसे अधिक गर्म ग्रह कौन सा है?",
             "options": {
-                "A": "समुद्री झींगा",
-                "B": "केंचुआ",
-                "C": "तारा मछली",
-                "D": "केकड़ा"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "कौन सा पक्षी उल्टी दिशा में भी उड़ सकता है?",
-            "options": {
-                "A": "कोयल",
-                "B": "कठफोड़वा",
-                "C": "गुंजन पक्षी",
-                "D": "चमगादड़"
+                "A": "बुध",
+                "B": "मंगल",
+                "C": "शुक्र",
+                "D": "बृहस्पति"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "मनुष्य का कौन सा अंग जन्म से मृत्यु तक बिल्कुल नहीं बढ़ता?",
+            "question": "किस फल के बीजों में जहरीला तत्व पाया जाता है?",
             "options": {
-                "A": "आँख की पुतली",
-                "B": "कान की हड्डी",
-                "C": "नाक का अग्रभाग",
-                "D": "दांत"
+                "A": "सेब",
+                "B": "आम",
+                "C": "पपीता",
+                "D": "अमरूद"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "किस समुद्री जीव का दिल उसके सिर के अंदर होता है?",
+            "options": {
+                "A": "झींगा",
+                "B": "ऑक्टोपस",
+                "C": "तारामीन",
+                "D": "कछुआ"
             },
             "correctAnswer": "A"
         }
