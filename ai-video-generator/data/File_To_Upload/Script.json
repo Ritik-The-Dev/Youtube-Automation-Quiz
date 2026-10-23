@@ -1,57 +1,57 @@
 {
-    "quizTopic": "Tricky General Knowledge",
-    "title": "Can You Get 5/5 Right? Bet You Fail 🤯",
-    "description": "Test your brain power with 5 seconds per question ⏳\nComment your score below to prove your genius 👇\n#quiz #gk #shorts",
+    "quizTopic": "General Knowledge",
+    "title": "Only Smart Minds Can Pass This 🤯",
+    "description": "Test your brain in 5 seconds per question ⏳\nComment your score below 👇\n#gk #quiz #shorts",
     "questions": [
         {
-            "question": "मानव शरीर का कौन सा अंग कभी दर्द महसूस नहीं कर सकता?",
+            "question": "किस जानवर का पसीना हल्के गुलाबी रंग का होता है?",
             "options": {
-                "A": "मस्तिष्क",
-                "B": "हृदय",
-                "C": "यकृत",
-                "D": "फेफड़ा"
+                "A": "ऊंट",
+                "B": "दरियाई घोड़ा",
+                "C": "भालू",
+                "D": "हिरण"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
         },
         {
-            "question": "किस जानवर का पसीना हल्के लाल या गुलाबी रंग का होता है?",
+            "question": "मानव शरीर की सबसे मजबूत मांसपेशी कौन सी मानी जाती है?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ध्रुवीय भालू",
-                "C": "जंगली सूअर",
-                "D": "बारहसिंगा"
-            },
-            "correctAnswer": "A"
-        },
-        {
-            "question": "भारत का कौन सा राज्य कभी अंग्रेजों का गुलाम नहीं बना?",
-            "options": {
-                "A": "सिक्किम",
-                "B": "असम",
-                "C": "गोवा",
-                "D": "मणिपुर"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "हमारे सौरमंडल का कौन सा ग्रह बाकी ग्रहों से उल्टी दिशा में घूमता है?",
-            "options": {
-                "A": "मंगल",
-                "B": "बुध",
-                "C": "बृहस्पति",
-                "D": "शुक्र"
+                "A": "जांघ",
+                "B": "जीभ",
+                "C": "पीठ",
+                "D": "जबड़ा"
             },
             "correctAnswer": "D"
         },
         {
-            "question": "किस जानवर का दूध सामान्यतः दही के रूप में नहीं जमता?",
+            "question": "ऐसा कौन सा फल है जिसमें कभी कीड़ा नहीं लगता?",
             "options": {
-                "A": "बकरी",
-                "B": "ऊंटनी",
-                "C": "हथिनी",
-                "D": "हिरणी"
+                "A": "आम",
+                "B": "केला",
+                "C": "अमरूद",
+                "D": "पपीता"
             },
             "correctAnswer": "B"
+        },
+        {
+            "question": "शतरंज के खेल की शुरुआत दुनिया के किस देश में हुई थी?",
+            "options": {
+                "A": "चीन",
+                "B": "मिस्र",
+                "C": "भारत",
+                "D": "यूनान"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "कौन सा अनोखा पक्षी पीछे की दिशा में भी उड़ सकता है?",
+            "options": {
+                "A": "गुंजन पक्षी",
+                "B": "नीलकंठ",
+                "C": "कठफोड़वा",
+                "D": "कोयल"
+            },
+            "correctAnswer": "A"
         }
     ]
 }
