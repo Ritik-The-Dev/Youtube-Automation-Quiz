@@ -1,57 +1,57 @@
 {
-    "quizTopic": "Mind-Bending General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 🤯",
-    "description": "Test your brain in 5 seconds per question ⏳\nComment your final score below 👇\n#quiz #gk #shorts",
+    "quizTopic": "Surprising General Knowledge",
+    "title": "Only Smart Minds Can Pass This 🤯",
+    "description": "Test your brain in 5 seconds per question ⏳\nCan you score 5/5? Comment your score below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस जीव के दूध का कभी दही नहीं जमता है?",
+            "question": "किस जीव का दूध हल्के गुलाबी रंग का होता है?",
             "options": {
-                "A": "बकरी",
-                "B": "ऊँटनी",
-                "C": "हथिनी",
-                "D": "भेड़"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "ऐसा कौन सा जीव है जो अपनी जीभ बाहर नहीं निकाल सकता?",
-            "options": {
-                "A": "मगरमच्छ",
-                "B": "छिपकली",
-                "C": "मेंढक",
-                "D": "सांप"
+                "A": "दरियाई घोड़ा",
+                "B": "ऊंट",
+                "C": "हाथी",
+                "D": "बकरी"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "हमारे सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
+            "question": "हजारों वर्षों तक कभी खराब न होने वाला प्राकृतिक पदार्थ कौन सा है?",
             "options": {
-                "A": "बुध",
-                "B": "मंगल",
-                "C": "शुक्र",
-                "D": "बृहस्पति"
+                "A": "गुड़",
+                "B": "घी",
+                "C": "शहद",
+                "D": "सरसों का तेल"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "उलटी दिशा में उड़ने वाला एकमात्र पक्षी कौन सा है?",
+            "question": "किस पक्षी की आंख उसके दिमाग से भी बड़ी होती है?",
             "options": {
                 "A": "उल्लू",
-                "B": "गौरैया",
-                "C": "कोयल",
-                "D": "गुंजन पक्षी"
+                "B": "चील",
+                "C": "तोता",
+                "D": "शुतुरमुर्ग"
             },
             "correctAnswer": "D"
         },
         {
-            "question": "विश्व के किस देश में एक भी नदी नहीं बहती है?",
+            "question": "किस जीव के पास फेफड़े नहीं होते और वह कभी सोता नहीं है?",
             "options": {
-                "A": "सऊदी अरब",
-                "B": "मिस्र",
-                "C": "सूडान",
-                "D": "ईरान"
+                "A": "चींटी",
+                "B": "केंचुआ",
+                "C": "मक्खी",
+                "D": "बिच्छू"
             },
             "correctAnswer": "A"
+        },
+        {
+            "question": "दुनिया के किस देश में एक भी नदी नहीं बहती है?",
+            "options": {
+                "A": "मिस्र",
+                "B": "सऊदी अरब",
+                "C": "ईरान",
+                "D": "सूडान"
+            },
+            "correctAnswer": "B"
         }
     ]
 }
