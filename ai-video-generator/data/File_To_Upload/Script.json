@@ -1,55 +1,55 @@
 {
-    "quizTopic": "General Knowledge",
-    "title": "Only Smart Minds Can Pass This 🤯",
-    "description": "Test your brain in 5 seconds per question ⏳\nComment your score below 👇\n#gk #quiz #shorts",
+    "quizTopic": "Mind-Bending General Knowledge",
+    "title": "Only 1% Can Score 5/5 On This 🤯",
+    "description": "Test your brain in 5 seconds per question ⏳\nComment your final score below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस जानवर का पसीना हल्के गुलाबी रंग का होता है?",
+            "question": "किस जीव के दूध का कभी दही नहीं जमता है?",
             "options": {
-                "A": "ऊंट",
-                "B": "दरियाई घोड़ा",
-                "C": "भालू",
-                "D": "हिरण"
+                "A": "बकरी",
+                "B": "ऊँटनी",
+                "C": "हथिनी",
+                "D": "भेड़"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "मानव शरीर की सबसे मजबूत मांसपेशी कौन सी मानी जाती है?",
+            "question": "ऐसा कौन सा जीव है जो अपनी जीभ बाहर नहीं निकाल सकता?",
             "options": {
-                "A": "जांघ",
-                "B": "जीभ",
-                "C": "पीठ",
-                "D": "जबड़ा"
+                "A": "मगरमच्छ",
+                "B": "छिपकली",
+                "C": "मेंढक",
+                "D": "सांप"
             },
-            "correctAnswer": "D"
+            "correctAnswer": "A"
         },
         {
-            "question": "ऐसा कौन सा फल है जिसमें कभी कीड़ा नहीं लगता?",
+            "question": "हमारे सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
             "options": {
-                "A": "आम",
-                "B": "केला",
-                "C": "अमरूद",
-                "D": "पपीता"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "शतरंज के खेल की शुरुआत दुनिया के किस देश में हुई थी?",
-            "options": {
-                "A": "चीन",
-                "B": "मिस्र",
-                "C": "भारत",
-                "D": "यूनान"
+                "A": "बुध",
+                "B": "मंगल",
+                "C": "शुक्र",
+                "D": "बृहस्पति"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "कौन सा अनोखा पक्षी पीछे की दिशा में भी उड़ सकता है?",
+            "question": "उलटी दिशा में उड़ने वाला एकमात्र पक्षी कौन सा है?",
             "options": {
-                "A": "गुंजन पक्षी",
-                "B": "नीलकंठ",
-                "C": "कठफोड़वा",
-                "D": "कोयल"
+                "A": "उल्लू",
+                "B": "गौरैया",
+                "C": "कोयल",
+                "D": "गुंजन पक्षी"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "question": "विश्व के किस देश में एक भी नदी नहीं बहती है?",
+            "options": {
+                "A": "सऊदी अरब",
+                "B": "मिस्र",
+                "C": "सूडान",
+                "D": "ईरान"
             },
             "correctAnswer": "A"
         }
