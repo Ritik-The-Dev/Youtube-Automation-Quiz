@@ -1,57 +1,57 @@
 {
-    "quizTopic": "Surprising General Knowledge",
-    "title": "Only Smart Minds Can Pass This 🤯",
-    "description": "Test your brain in 5 seconds per question ⏳\nCan you score 5/5? Comment your score below 👇\n#quiz #gk #shorts",
+    "quizTopic": "General Knowledge",
+    "title": "99% People Fail This Mind Bending Quiz 😱",
+    "description": "Test your brain with 5 tricky questions in 5 seconds! ⏳\nCan you score 5/5? Comment your score below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस जीव का दूध हल्के गुलाबी रंग का होता है?",
+            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता है?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "ऊंट",
-                "C": "हाथी",
-                "D": "बकरी"
+                "A": "नॉर्वे",
+                "B": "आइसलैंड",
+                "C": "फिनलैंड",
+                "D": "जापान"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
         },
         {
-            "question": "हजारों वर्षों तक कभी खराब न होने वाला प्राकृतिक पदार्थ कौन सा है?",
+            "question": "ताश की गड्डी में किस राजा की मूंछ नहीं होती है?",
             "options": {
-                "A": "गुड़",
-                "B": "घी",
-                "C": "शहद",
-                "D": "सरसों का तेल"
+                "A": "ईंट का राजा",
+                "B": "हुकुम का राजा",
+                "C": "पान का राजा",
+                "D": "चिड़ी का राजा"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "किस पक्षी की आंख उसके दिमाग से भी बड़ी होती है?",
+            "question": "भारत का कौन सा रेलवे स्टेशन आधा गुजरात और आधा महाराष्ट्र में स्थित है?",
             "options": {
-                "A": "उल्लू",
-                "B": "चील",
-                "C": "तोता",
-                "D": "शुतुरमुर्ग"
-            },
-            "correctAnswer": "D"
-        },
-        {
-            "question": "किस जीव के पास फेफड़े नहीं होते और वह कभी सोता नहीं है?",
-            "options": {
-                "A": "चींटी",
-                "B": "केंचुआ",
-                "C": "मक्खी",
-                "D": "बिच्छू"
+                "A": "नवापुर",
+                "B": "नंदुरबार",
+                "C": "भुसावल",
+                "D": "वलसाड"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "दुनिया के किस देश में एक भी नदी नहीं बहती है?",
+            "question": "किस जीव की जीभ का वजन लगभग एक हाथी के बराबर होता है?",
             "options": {
-                "A": "मिस्र",
-                "B": "सऊदी अरब",
-                "C": "ईरान",
-                "D": "सूडान"
+                "A": "दरियाई घोड़ा",
+                "B": "विशाल शार्क",
+                "C": "जिराफ",
+                "D": "नीली व्हेल"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "D"
+        },
+        {
+            "question": "हमारे सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
+            "options": {
+                "A": "बुध",
+                "B": "मंगल",
+                "C": "शुक्र",
+                "D": "बृहस्पति"
+            },
+            "correctAnswer": "C"
         }
     ]
 }
