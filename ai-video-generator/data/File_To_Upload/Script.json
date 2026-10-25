@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "99% People Fail This Mind Bending Quiz 😱",
-    "description": "Test your brain with 5 tricky questions in 5 seconds! ⏳\nCan you score 5/5? Comment your score below 👇\n#quiz #gk #shorts",
+    "title": "Only 1% Can Score 5/5 On This 😱",
+    "description": "Test your brain in 5 seconds per question ⏳\nComment your final score below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "दुनिया के किस देश में एक भी मच्छर नहीं पाया जाता है?",
+            "question": "मानव शरीर का सबसे कठोर भाग कौन सा होता है?",
             "options": {
-                "A": "नॉर्वे",
-                "B": "आइसलैंड",
-                "C": "फिनलैंड",
-                "D": "जापान"
+                "A": "जांघ की हड्डी",
+                "B": "दंतवल्क",
+                "C": "खोपड़ी",
+                "D": "रीढ़ की हड्डी"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "ताश की गड्डी में किस राजा की मूंछ नहीं होती है?",
+            "question": "विश्व का सबसे सूखा मरुस्थल कौन सा है?",
             "options": {
-                "A": "ईंट का राजा",
-                "B": "हुकुम का राजा",
-                "C": "पान का राजा",
-                "D": "चिड़ी का राजा"
+                "A": "सहारा मरुस्थल",
+                "B": "गोबी मरुस्थल",
+                "C": "अटाकामा मरुस्थल",
+                "D": "थार मरुस्थल"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "भारत का कौन सा रेलवे स्टेशन आधा गुजरात और आधा महाराष्ट्र में स्थित है?",
+            "question": "कौन सा जीव जीवन भर बिना पानी पिए रह सकता है?",
             "options": {
-                "A": "नवापुर",
-                "B": "नंदुरबार",
-                "C": "भुसावल",
-                "D": "वलसाड"
+                "A": "ऊंट",
+                "B": "कंगारू चूहा",
+                "C": "छिपकली",
+                "D": "बिच्छू"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस देश में आधी रात को भी सूर्य चमकता है?",
+            "options": {
+                "A": "जापान",
+                "B": "कनाडा",
+                "C": "नॉर्वे",
+                "D": "मिस्र"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "दुनिया का सबसे तेज़ उड़ने वाला पक्षी कौन सा है?",
+            "options": {
+                "A": "शाहिन बाज़",
+                "B": "चील",
+                "C": "गिद्ध",
+                "D": "शुतुरमुर्ग"
             },
             "correctAnswer": "A"
-        },
-        {
-            "question": "किस जीव की जीभ का वजन लगभग एक हाथी के बराबर होता है?",
-            "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "विशाल शार्क",
-                "C": "जिराफ",
-                "D": "नीली व्हेल"
-            },
-            "correctAnswer": "D"
-        },
-        {
-            "question": "हमारे सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
-            "options": {
-                "A": "बुध",
-                "B": "मंगल",
-                "C": "शुक्र",
-                "D": "बृहस्पति"
-            },
-            "correctAnswer": "C"
         }
     ]
 }
