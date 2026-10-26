@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 Here 😱",
-    "description": "Think you know everything? Prove it in 5 seconds per question ⏳\nDrop your real score in the comments below 👇\n#quiz #gk #shorts",
+    "title": "Only True Geniuses Can Score 5/5 😱",
+    "description": "Test your brain in 5 seconds per question ⏳\nComment your final score below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "भारत के किस राज्य में केवल दो ही ज़िले हैं?",
+            "question": "भारत का कौन-सा राज्य कभी अंग्रेजों का गुलाम नहीं बना?",
             "options": {
-                "A": "सिक्किम",
-                "B": "गोवा",
-                "C": "त्रिपुरा",
-                "D": "मणिपुर"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "एक सामान्य मच्छर के मुँह में कुल कितने दाँत होते हैं?",
-            "options": {
-                "A": "बत्तीस",
-                "B": "चौबीस",
-                "C": "सैंतालीस",
-                "D": "शून्य"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "मानव शरीर का कौन सा अंग जन्म से लेकर मृत्यु तक कभी नहीं बढ़ता?",
-            "options": {
-                "A": "आँख",
-                "B": "नाक",
-                "C": "कान",
-                "D": "नाखून"
+                "A": "गोवा",
+                "B": "सिक्किम",
+                "C": "असम",
+                "D": "केरल"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "किस जीव का दिल उसके सिर के अंदर मौजूद होता है?",
+            "question": "किस जानवर का दूध कभी दही में नहीं जमता?",
             "options": {
-                "A": "कछुआ",
-                "B": "झींगा",
-                "C": "मेंढक",
-                "D": "साँप"
+                "A": "बकरी",
+                "B": "ऊंटनी",
+                "C": "हथिनी",
+                "D": "गाय"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "दुनिया का ऐसा कौन सा पक्षी है जो पीछे की दिशा में भी उड़ सकता है?",
+            "question": "मानव शरीर की सबसे मजबूत मांसपेशी कौन-सी होती है?",
             "options": {
-                "A": "कोयल",
-                "B": "तोता",
-                "C": "गुंजन पक्षी",
-                "D": "नीलकंठ"
+                "A": "जांघ की",
+                "B": "जबड़े की",
+                "C": "पीठ की",
+                "D": "हाथ की"
             },
-            "correctAnswer": "C"
+            "correctAnswer": "B"
+        },
+        {
+            "question": "मानव शरीर का कौन-सा अंग बिजली पैदा कर सकता है?",
+            "options": {
+                "A": "हृदय",
+                "B": "दिमाग",
+                "C": "यकृत",
+                "D": "फेफड़ा"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "भारत की किस नदी की रेत में सोना पाया जाता है?",
+            "options": {
+                "A": "गंगा",
+                "B": "स्वर्णरेखा",
+                "C": "यमुना",
+                "D": "गोदावरी"
+            },
+            "correctAnswer": "B"
         }
     ]
 }
