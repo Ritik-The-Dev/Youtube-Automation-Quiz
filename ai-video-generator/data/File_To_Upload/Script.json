@@ -1,57 +1,57 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 😱",
-    "description": "Test your brain in 5 seconds per question ⏳\nComment your final score below 👇\n#quiz #gk #shorts",
+    "title": "Only 1% Can Score 5/5 Here 😱",
+    "description": "Think you know everything? Prove it in 5 seconds per question ⏳\nDrop your real score in the comments below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "मानव शरीर का सबसे कठोर भाग कौन सा होता है?",
+            "question": "भारत के किस राज्य में केवल दो ही ज़िले हैं?",
             "options": {
-                "A": "जांघ की हड्डी",
-                "B": "दंतवल्क",
-                "C": "खोपड़ी",
-                "D": "रीढ़ की हड्डी"
+                "A": "सिक्किम",
+                "B": "गोवा",
+                "C": "त्रिपुरा",
+                "D": "मणिपुर"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "विश्व का सबसे सूखा मरुस्थल कौन सा है?",
+            "question": "एक सामान्य मच्छर के मुँह में कुल कितने दाँत होते हैं?",
             "options": {
-                "A": "सहारा मरुस्थल",
-                "B": "गोबी मरुस्थल",
-                "C": "अटाकामा मरुस्थल",
-                "D": "थार मरुस्थल"
+                "A": "बत्तीस",
+                "B": "चौबीस",
+                "C": "सैंतालीस",
+                "D": "शून्य"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "कौन सा जीव जीवन भर बिना पानी पिए रह सकता है?",
+            "question": "मानव शरीर का कौन सा अंग जन्म से लेकर मृत्यु तक कभी नहीं बढ़ता?",
             "options": {
-                "A": "ऊंट",
-                "B": "कंगारू चूहा",
-                "C": "छिपकली",
-                "D": "बिच्छू"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस देश में आधी रात को भी सूर्य चमकता है?",
-            "options": {
-                "A": "जापान",
-                "B": "कनाडा",
-                "C": "नॉर्वे",
-                "D": "मिस्र"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "दुनिया का सबसे तेज़ उड़ने वाला पक्षी कौन सा है?",
-            "options": {
-                "A": "शाहिन बाज़",
-                "B": "चील",
-                "C": "गिद्ध",
-                "D": "शुतुरमुर्ग"
+                "A": "आँख",
+                "B": "नाक",
+                "C": "कान",
+                "D": "नाखून"
             },
             "correctAnswer": "A"
+        },
+        {
+            "question": "किस जीव का दिल उसके सिर के अंदर मौजूद होता है?",
+            "options": {
+                "A": "कछुआ",
+                "B": "झींगा",
+                "C": "मेंढक",
+                "D": "साँप"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "दुनिया का ऐसा कौन सा पक्षी है जो पीछे की दिशा में भी उड़ सकता है?",
+            "options": {
+                "A": "कोयल",
+                "B": "तोता",
+                "C": "गुंजन पक्षी",
+                "D": "नीलकंठ"
+            },
+            "correctAnswer": "C"
         }
     ]
 }
