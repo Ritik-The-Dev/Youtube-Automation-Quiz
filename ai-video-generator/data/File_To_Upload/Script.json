@@ -1,57 +1,57 @@
 {
-    "quizTopic": "Tricky General Knowledge",
-    "title": "Only Smart Minds Can Pass This Shocking Quiz 🤯",
-    "description": "Test your brain in 5 seconds per question ⏳\nComment your score below and challenge your friends! 👇\n#quiz #gk #shorts",
+    "quizTopic": "General Knowledge",
+    "title": "Only 1% Can Score 5/5 In This Tricky Quiz! 🧠",
+    "description": "You have only 5 seconds to answer each question! ⏳\nCan you beat the challenge? Comment your score below 👇\n#quiz #gk #shorts #trivia",
     "questions": [
         {
-            "question": "कौन सा जीव बिना कुछ खाए-पिए लगातार तीन साल तक सो सकता है?",
+            "question": "किस जीव के शरीर में तीन दिल होते हैं?",
             "options": {
-                "A": "कछुआ",
-                "B": "घोंघा",
-                "C": "भालू",
-                "D": "मेंढक"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस जीव के दूध का रंग हल्का गुलाबी होता है?",
-            "options": {
-                "A": "ऊँट",
-                "B": "दरियाई घोड़ा",
-                "C": "गेंडा",
-                "D": "हिरण"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "मनुष्य के शरीर का कौन सा अंग बिजली पैदा कर सकता है?",
-            "options": {
-                "A": "दिमाग",
-                "B": "हृदय",
-                "C": "यकृत",
-                "D": "फेफड़ा"
+                "A": "ऑक्टोपस",
+                "B": "शार्क",
+                "C": "व्हेल",
+                "D": "कछुआ"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "सिर कट जाने के बाद भी कौन सा जीव कई दिनों तक जीवित रह सकता है?",
+            "question": "मानव शरीर का कौन सा अंग सबसे अधिक ऊर्जा की खपत करता है?",
             "options": {
-                "A": "बिच्छू",
-                "B": "मकड़ी",
-                "C": "तिलचट्टा",
-                "D": "छिपकली"
+                "A": "हृदय",
+                "B": "यकृत",
+                "C": "मस्तिष्क",
+                "D": "फेफड़े"
             },
             "correctAnswer": "C"
         },
         {
-            "question": "किस पेड़ की लकड़ी सोने से भी अधिक महंगी मानी जाती है?",
+            "question": "पृथ्वी के वायुमंडल में दूसरी सबसे अधिक मात्रा में कौन सी गैस पाई जाती है?",
             "options": {
-                "A": "सफेद चंदन",
-                "B": "शीशम",
-                "C": "सागवान",
-                "D": "लाल चंदन"
+                "A": "नाइट्रोजन",
+                "B": "ऑक्सीजन",
+                "C": "कार्बन डाइऑक्साइड",
+                "D": "आर्गन"
             },
-            "correctAnswer": "D"
+            "correctAnswer": "B"
+        },
+        {
+            "question": "किस जानवर के पास आवाज़ निकालने के लिए स्वर-तंत्री नहीं होती?",
+            "options": {
+                "A": "जिराफ़",
+                "B": "दरियाई घोड़ा",
+                "C": "ऊँट",
+                "D": "कंगारू"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "question": "कौन सी धातु हथेली की गर्मी से ही पिघलने लगती है?",
+            "options": {
+                "A": "सोडियम",
+                "B": "पारा",
+                "C": "गैलियम",
+                "D": "पोटैशियम"
+            },
+            "correctAnswer": "C"
         }
     ]
 }
