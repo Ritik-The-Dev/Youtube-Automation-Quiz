@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 🧠",
-    "description": "Test your brain in 5 seconds per question ⏳\nCan you score 5/5? Drop your score below 👇\n#quiz #gk #shorts",
+    "title": "99% Of People Fail This Tricky Quiz 😱",
+    "description": "Beat the clock in 5 seconds per question ⏳\nComment your final score below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस जानवर का दूध कभी नहीं जमता?",
+            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
             "options": {
-                "A": "गाय",
-                "B": "ऊंटनी",
-                "C": "बकरी",
-                "D": "भैंस"
+                "A": "बुध",
+                "B": "शुक्र",
+                "C": "मंगल",
+                "D": "बृहस्पति"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "कौन सा जीव बिना खाए-पिए तीन साल तक सो सकता है?",
+            "question": "मूल रूप से दिल्ली का लाल किला किस रंग का था?",
             "options": {
-                "A": "घोंघा",
-                "B": "कछुआ",
-                "C": "मेंढक",
-                "D": "भालू"
+                "A": "लाल",
+                "B": "सफेद",
+                "C": "पीला",
+                "D": "गुलाबी"
             },
-            "correctAnswer": "A"
+            "correctAnswer": "B"
         },
         {
             "question": "भारत की सबसे चौड़ी नदी कौन सी है?",
             "options": {
                 "A": "गंगा",
                 "B": "ब्रह्मपुत्र",
-                "C": "गोदावरी",
-                "D": "यमुना"
+                "C": "यमुना",
+                "D": "गोदावरी"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "मनुष्य के शरीर का कौन सा अंग बिजली पैदा कर सकता है?",
+            "question": "किस जानवर के पसीने का रंग गुलाबी होता है?",
             "options": {
-                "A": "हृदय",
-                "B": "दिमाग",
-                "C": "यकृत",
-                "D": "फेफड़ा"
+                "A": "हाथी",
+                "B": "दरियाई घोड़ा",
+                "C": "ऊंट",
+                "D": "जिराफ"
             },
             "correctAnswer": "B"
         },
         {
-            "question": "विश्व का ऐसा कौन सा देश है जहाँ एक भी नदी नहीं बहती?",
+            "question": "कौन सा पक्षी उल्टी दिशा में भी उड़ सकता है?",
             "options": {
-                "A": "मिस्र",
-                "B": "सऊदी अरब",
-                "C": "ईरान",
-                "D": "ओमान"
+                "A": "तोता",
+                "B": "गुंजन पक्षी",
+                "C": "कोयल",
+                "D": "चील"
             },
             "correctAnswer": "B"
         }
