@@ -1,55 +1,55 @@
 {
-    "quizTopic": "Tricky General Knowledge",
-    "title": "Only 1% Can Score 5/5 On This 🤯",
-    "description": "Test your brain in 5 seconds per question ⏳\nComment your final score below 👇\n#quiz #gk #shorts",
+    "quizTopic": "General Knowledge",
+    "title": "Only 1% Can Score 5/5 On This 🧠",
+    "description": "Test your brain in 5 seconds per question ⏳\nCan you score 5/5? Drop your score below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "किस जीव का पसीना हल्के गुलाबी रंग का होता है?",
+            "question": "किस जानवर का दूध कभी नहीं जमता?",
             "options": {
-                "A": "दरियाई घोड़ा",
-                "B": "जिराफ",
-                "C": "कंगारू",
+                "A": "गाय",
+                "B": "ऊंटनी",
+                "C": "बकरी",
+                "D": "भैंस"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सा जीव बिना खाए-पिए तीन साल तक सो सकता है?",
+            "options": {
+                "A": "घोंघा",
+                "B": "कछुआ",
+                "C": "मेंढक",
                 "D": "भालू"
             },
             "correctAnswer": "A"
         },
         {
-            "question": "ऐसा कौन सा पेड़ है जिसमें लकड़ी नहीं पाई जाती है?",
+            "question": "भारत की सबसे चौड़ी नदी कौन सी है?",
             "options": {
-                "A": "पपीता",
-                "B": "बांस",
-                "C": "केला",
-                "D": "अमरूद"
-            },
-            "correctAnswer": "C"
-        },
-        {
-            "question": "किस जानवर के दूध से कभी दही नहीं जमता है?",
-            "options": {
-                "A": "बकरी",
-                "B": "ऊंटनी",
-                "C": "हथिनी",
-                "D": "भेड़"
+                "A": "गंगा",
+                "B": "ब्रह्मपुत्र",
+                "C": "गोदावरी",
+                "D": "यमुना"
             },
             "correctAnswer": "B"
-        },
-        {
-            "question": "ऐसा कौन सा जीव है जो अपने पैरों से स्वाद लेता है?",
-            "options": {
-                "A": "तितली",
-                "B": "मधुमक्खी",
-                "C": "मकड़ी",
-                "D": "चींटी"
-            },
-            "correctAnswer": "A"
         },
         {
             "question": "मनुष्य के शरीर का कौन सा अंग बिजली पैदा कर सकता है?",
             "options": {
                 "A": "हृदय",
                 "B": "दिमाग",
-                "C": "फेफड़ा",
-                "D": "यकृत"
+                "C": "यकृत",
+                "D": "फेफड़ा"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "विश्व का ऐसा कौन सा देश है जहाँ एक भी नदी नहीं बहती?",
+            "options": {
+                "A": "मिस्र",
+                "B": "सऊदी अरब",
+                "C": "ईरान",
+                "D": "ओमान"
             },
             "correctAnswer": "B"
         }
