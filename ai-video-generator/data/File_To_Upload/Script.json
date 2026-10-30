@@ -1,55 +1,55 @@
 {
     "quizTopic": "General Knowledge",
-    "title": "99% Of People Fail This Tricky Quiz 😱",
-    "description": "Beat the clock in 5 seconds per question ⏳\nComment your final score below 👇\n#quiz #gk #shorts",
+    "title": "Only 1% Can Score 5/5 On This Brain Test 😱",
+    "description": "You have only 5 seconds for each tricky question ⏳\nDrop your honest score in the comments below 👇\n#quiz #gk #shorts",
     "questions": [
         {
-            "question": "सौरमंडल का सबसे गर्म ग्रह कौन सा है?",
+            "question": "किस जीव का दिल उसके सिर में स्थित होता है?",
             "options": {
-                "A": "बुध",
-                "B": "शुक्र",
-                "C": "मंगल",
-                "D": "बृहस्पति"
+                "A": "समुद्री झींगा",
+                "B": "केंचुआ",
+                "C": "तारा मछली",
+                "D": "केकड़ा"
             },
-            "correctAnswer": "B"
+            "correctAnswer": "A"
         },
         {
-            "question": "मूल रूप से दिल्ली का लाल किला किस रंग का था?",
+            "question": "ऐसा कौन सा पक्षी है जो पीछे की ओर भी उड़ सकता है?",
             "options": {
-                "A": "लाल",
-                "B": "सफेद",
-                "C": "पीला",
-                "D": "गुलाबी"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "भारत की सबसे चौड़ी नदी कौन सी है?",
-            "options": {
-                "A": "गंगा",
-                "B": "ब्रह्मपुत्र",
-                "C": "यमुना",
-                "D": "गोदावरी"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "किस जानवर के पसीने का रंग गुलाबी होता है?",
-            "options": {
-                "A": "हाथी",
-                "B": "दरियाई घोड़ा",
-                "C": "ऊंट",
-                "D": "जिराफ"
-            },
-            "correctAnswer": "B"
-        },
-        {
-            "question": "कौन सा पक्षी उल्टी दिशा में भी उड़ सकता है?",
-            "options": {
-                "A": "तोता",
+                "A": "चमगादड़",
                 "B": "गुंजन पक्षी",
-                "C": "कोयल",
-                "D": "चील"
+                "C": "नीलकंठ",
+                "D": "कठफोड़वा"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "मानव शरीर की सबसे मजबूत मांसपेशी कहाँ पाई जाती है?",
+            "options": {
+                "A": "जांघ में",
+                "B": "जबड़े में",
+                "C": "भुजा में",
+                "D": "पीठ में"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "question": "कौन सी नदी भूमध्य रेखा को दो बार पार करती है?",
+            "options": {
+                "A": "नील नदी",
+                "B": "अमेज़न नदी",
+                "C": "कांगो नदी",
+                "D": "सिंधु नदी"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "question": "ऐसा कौन सा स्तनधारी जीव है जो कभी कूद नहीं सकता?",
+            "options": {
+                "A": "दरियाई घोड़ा",
+                "B": "हाथी",
+                "C": "जिराफ़",
+                "D": "भालू"
             },
             "correctAnswer": "B"
         }
